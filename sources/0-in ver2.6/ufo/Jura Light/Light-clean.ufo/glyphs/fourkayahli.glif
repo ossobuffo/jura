@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourkayahli" format="1">
+  <advance width="614"/>
+  <unicode hex="A904"/>
+  <outline>
+    <contour>
+      <point x="487" y="-98" type="curve" smooth="yes"/>
+      <point x="487" y="354" type="line" smooth="yes"/>
+      <point x="487" y="400.667"/>
+      <point x="472.333" y="419"/>
+      <point x="427" y="419" type="curve" smooth="yes"/>
+      <point x="293" y="419" type="line" smooth="yes"/>
+      <point x="186.333" y="419"/>
+      <point x="127" y="352"/>
+      <point x="127" y="232" type="curve" smooth="yes"/>
+      <point x="127" y="42" type="line"/>
+      <point x="187" y="42" type="line" smooth="yes"/>
+      <point x="228.333" y="42"/>
+      <point x="228.333" y="0"/>
+      <point x="187" y="0" type="curve" smooth="yes"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="438" type="line" smooth="yes"/>
+      <point x="85" y="478"/>
+      <point x="127" y="478"/>
+      <point x="127" y="438" type="curve" smooth="yes"/>
+      <point x="127" y="389" type="line"/>
+      <point x="164.333" y="437"/>
+      <point x="219.667" y="461"/>
+      <point x="293" y="461" type="curve" smooth="yes"/>
+      <point x="434" y="461" type="line" smooth="yes"/>
+      <point x="507.333" y="461"/>
+      <point x="529" y="430.333"/>
+      <point x="529" y="337" type="curve" smooth="yes"/>
+      <point x="529" y="-81" type="line" smooth="yes"/>
+      <point x="529" y="-183.667"/>
+      <point x="496.333" y="-205"/>
+      <point x="427" y="-205" type="curve" smooth="yes"/>
+      <point x="385.667" y="-205"/>
+      <point x="385.333" y="-163"/>
+      <point x="428" y="-163" type="curve" smooth="yes"/>
+      <point x="470.667" y="-163"/>
+      <point x="487" y="-144.667"/>
+    </contour>
+  </outline>
+</glyph>

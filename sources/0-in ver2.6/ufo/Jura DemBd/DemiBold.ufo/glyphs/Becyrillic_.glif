@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Becyrillic" format="1">
+  <advance width="596"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="469" y="636" type="line" smooth="yes"/>
+      <point x="499" y="636"/>
+      <point x="514" y="624"/>
+      <point x="514" y="600" type="curve" smooth="yes"/>
+      <point x="514" y="576"/>
+      <point x="499" y="564"/>
+      <point x="469" y="564" type="curve" smooth="yes"/>
+      <point x="157" y="564" type="line"/>
+      <point x="157" y="476" type="line"/>
+      <point x="310" y="476" type="line" smooth="yes"/>
+      <point x="452.667" y="476"/>
+      <point x="547" y="366"/>
+      <point x="547" y="234" type="curve" smooth="yes"/>
+      <point x="547" y="102"/>
+      <point x="452.667" y="-7"/>
+      <point x="310" y="-7" type="curve" smooth="yes"/>
+      <point x="119" y="-7" type="line" smooth="yes"/>
+      <point x="96.3333" y="-7"/>
+      <point x="85" y="7.33333"/>
+      <point x="85" y="36" type="curve" smooth="yes"/>
+      <point x="85" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="404" type="curve"/>
+      <point x="157" y="404" type="line"/>
+      <point x="157" y="65" type="line"/>
+      <point x="310" y="65" type="line"/>
+      <point x="530.418" y="54.7843"/>
+      <point x="528.641" y="413.118"/>
+    </contour>
+  </outline>
+</glyph>

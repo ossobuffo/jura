@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kappa" format="1">
+  <advance width="501"/>
+  <unicode hex="03BA"/>
+  <outline>
+    <contour>
+      <point x="449" y="58" type="line"/>
+      <point x="496.353" y="21.9216"/>
+      <point x="438.686" y="-28.7451"/>
+      <point x="404" y="2" type="curve"/>
+      <point x="145" y="194" type="line"/>
+      <point x="145" y="32" type="line" smooth="yes"/>
+      <point x="145" y="6"/>
+      <point x="133" y="-7"/>
+      <point x="109" y="-7" type="curve" smooth="yes"/>
+      <point x="85" y="-7"/>
+      <point x="73" y="6"/>
+      <point x="73" y="32" type="curve" smooth="yes"/>
+      <point x="73" y="428" type="line" smooth="yes"/>
+      <point x="73" y="481.804"/>
+      <point x="145" y="481.804"/>
+      <point x="145" y="428" type="curve" smooth="yes"/>
+      <point x="145" y="270" type="line"/>
+      <point x="403" y="461" type="line"/>
+      <point x="438.83" y="490.858"/>
+      <point x="498.093" y="441.911"/>
+      <point x="448" y="405" type="curve"/>
+      <point x="199" y="232" type="line"/>
+    </contour>
+  </outline>
+</glyph>

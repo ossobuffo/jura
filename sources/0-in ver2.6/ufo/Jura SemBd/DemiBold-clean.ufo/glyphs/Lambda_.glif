@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="1">
+  <advance width="608"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="23" y="9.5475" type="curve" smooth="yes"/>
+      <point x="23" y="15.6306"/>
+      <point x="24.3233" y="23.77"/>
+      <point x="26" y="28" type="curve" smooth="yes"/>
+      <point x="267" y="636" type="line"/>
+      <point x="341" y="636" type="line"/>
+      <point x="582" y="28" type="line" smooth="yes"/>
+      <point x="583.697" y="23.7187"/>
+      <point x="585" y="15.6248"/>
+      <point x="585" y="9.36461" type="curve" smooth="yes"/>
+      <point x="585" y="-5.94284"/>
+      <point x="572.559" y="-16"/>
+      <point x="553.624" y="-16" type="curve" smooth="yes"/>
+      <point x="534.252" y="-16"/>
+      <point x="516.604" y="-7.52024"/>
+      <point x="512" y="4" type="curve" smooth="yes"/>
+      <point x="303" y="527" type="line"/>
+      <point x="96" y="4" type="line" smooth="yes"/>
+      <point x="91.3747" y="-7.68621"/>
+      <point x="75.1356" y="-16"/>
+      <point x="56.9348" y="-16" type="curve" smooth="yes"/>
+      <point x="36.7396" y="-16"/>
+      <point x="23" y="-5.65629"/>
+    </contour>
+  </outline>
+</glyph>

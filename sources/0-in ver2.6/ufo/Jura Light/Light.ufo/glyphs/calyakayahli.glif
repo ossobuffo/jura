@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="calyakayahli" format="1">
+  <advance width="0"/>
+  <unicode hex="A92C"/>
+  <outline>
+    <contour>
+      <point x="-380" y="42" type="curve"/>
+      <point x="-380" y="0" type="line"/>
+      <point x="-452.968" y="0.343573"/>
+      <point x="-487" y="-22.9422"/>
+      <point x="-487" y="-73.2134" type="curve" smooth="yes"/>
+      <point x="-487" y="-127.628"/>
+      <point x="-444.452" y="-163"/>
+      <point x="-379" y="-163" type="curve" smooth="yes"/>
+      <point x="-180" y="-163" type="line" smooth="yes"/>
+      <point x="-113.43" y="-163"/>
+      <point x="-126.732" y="-117.998"/>
+      <point x="-127" y="-70" type="curve"/>
+      <point x="-85" y="-70" type="line"/>
+      <point x="-85" y="-92" type="line" smooth="yes"/>
+      <point x="-85" y="-177.208"/>
+      <point x="-106.151" y="-205"/>
+      <point x="-171" y="-205" type="curve" smooth="yes"/>
+      <point x="-386" y="-205" type="line" smooth="yes"/>
+      <point x="-468.414" y="-205"/>
+      <point x="-529" y="-150.467"/>
+      <point x="-529" y="-76.2865" type="curve" smooth="yes"/>
+      <point x="-529" y="-4.23796"/>
+      <point x="-470.644" y="42.0888"/>
+    </contour>
+  </outline>
+</glyph>

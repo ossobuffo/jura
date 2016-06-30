@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="okayahli" format="1">
+  <advance width="0"/>
+  <unicode hex="A92A"/>
+  <outline>
+    <contour>
+      <point x="-366" y="497" type="line" smooth="yes"/>
+      <point x="-440.139" y="497"/>
+      <point x="-467" y="530.776"/>
+      <point x="-467" y="624" type="curve" smooth="yes"/>
+      <point x="-467" y="661" type="line"/>
+      <point x="-395" y="661" type="line"/>
+      <point x="-395" y="608" type="line" smooth="yes"/>
+      <point x="-395" y="574.741"/>
+      <point x="-389.554" y="569"/>
+      <point x="-358" y="569" type="curve" smooth="yes"/>
+      <point x="-256" y="569" type="line" smooth="yes"/>
+      <point x="-225.411" y="569"/>
+      <point x="-220" y="574.862"/>
+      <point x="-220" y="608" type="curve" smooth="yes"/>
+      <point x="-220" y="661" type="line"/>
+      <point x="-148" y="661" type="line"/>
+      <point x="-148" y="624" type="line" smooth="yes"/>
+      <point x="-148" y="529.937"/>
+      <point x="-174.194" y="497"/>
+      <point x="-249" y="497" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-305.244" y="592.972" type="curve" smooth="yes"/>
+      <point x="-335.61" y="592.972"/>
+      <point x="-368.181" y="620.468"/>
+      <point x="-368.181" y="646.102" type="curve" smooth="yes"/>
+      <point x="-368.181" y="671.228"/>
+      <point x="-338.715" y="697.028"/>
+      <point x="-310.02" y="697.028" type="curve" smooth="yes"/>
+      <point x="-279.137" y="697.028"/>
+      <point x="-245.729" y="669.741"/>
+      <point x="-245.729" y="644.515" type="curve" smooth="yes"/>
+      <point x="-245.729" y="619.547"/>
+      <point x="-276.414" y="592.972"/>
+    </contour>
+  </outline>
+</glyph>

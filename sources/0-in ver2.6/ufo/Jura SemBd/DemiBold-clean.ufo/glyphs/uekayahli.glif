@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uekayahli" format="1">
+  <advance width="0"/>
+  <unicode hex="A926"/>
+  <outline>
+    <component base="uni0307"/>
+  </outline>
+</glyph>

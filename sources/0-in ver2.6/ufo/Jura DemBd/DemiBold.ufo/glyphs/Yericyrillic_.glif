@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yericyrillic" format="1">
+  <advance width="742"/>
+  <unicode hex="042B"/>
+  <outline>
+    <contour>
+      <point x="309" y="476" type="line" smooth="yes"/>
+      <point x="451.667" y="476"/>
+      <point x="546" y="366"/>
+      <point x="546" y="234" type="curve" smooth="yes"/>
+      <point x="546" y="102"/>
+      <point x="451.667" y="-7"/>
+      <point x="309" y="-7" type="curve" smooth="yes"/>
+      <point x="118" y="-7" type="line" smooth="yes"/>
+      <point x="95.3333" y="-7"/>
+      <point x="84" y="7.33333"/>
+      <point x="84" y="36" type="curve" smooth="yes"/>
+      <point x="84" y="596" type="line" smooth="yes"/>
+      <point x="84" y="622.667"/>
+      <point x="96" y="636"/>
+      <point x="120" y="636" type="curve" smooth="yes"/>
+      <point x="144" y="636"/>
+      <point x="156" y="623"/>
+      <point x="156" y="597" type="curve" smooth="yes"/>
+      <point x="156" y="476" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="404" type="curve"/>
+      <point x="156" y="404" type="line"/>
+      <point x="156" y="65" type="line"/>
+      <point x="309" y="65" type="line"/>
+      <point x="529.418" y="54.7843"/>
+      <point x="527.641" y="413.118"/>
+    </contour>
+    <contour>
+      <point x="658" y="33" type="line" smooth="yes"/>
+      <point x="658" y="6.33333"/>
+      <point x="646" y="-7"/>
+      <point x="622" y="-7" type="curve" smooth="yes"/>
+      <point x="598" y="-7"/>
+      <point x="586" y="6.33333"/>
+      <point x="586" y="33" type="curve" smooth="yes"/>
+      <point x="586" y="602" type="line" smooth="yes"/>
+      <point x="586" y="629.333"/>
+      <point x="598" y="643"/>
+      <point x="622" y="643" type="curve" smooth="yes"/>
+      <point x="646" y="643"/>
+      <point x="658" y="629.333"/>
+      <point x="658" y="602" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

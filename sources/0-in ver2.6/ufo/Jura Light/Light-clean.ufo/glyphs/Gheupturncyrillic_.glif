@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheupturncyrillic" format="1">
+  <advance width="539"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="512" y="594" type="line"/>
+      <point x="184" y="594" type="line" smooth="yes"/>
+      <point x="138.667" y="594"/>
+      <point x="124" y="575.667"/>
+      <point x="124" y="529" type="curve" smooth="yes"/>
+      <point x="124" y="23" type="line" smooth="yes"/>
+      <point x="124" y="-17"/>
+      <point x="82" y="-17"/>
+      <point x="82" y="23" type="curve" smooth="yes"/>
+      <point x="82" y="512" type="line" smooth="yes"/>
+      <point x="82" y="605.333"/>
+      <point x="103.667" y="636"/>
+      <point x="177" y="636" type="curve" smooth="yes"/>
+      <point x="470" y="636" type="line"/>
+      <point x="470" y="718" type="line" smooth="yes"/>
+      <point x="470" y="758"/>
+      <point x="512" y="758"/>
+      <point x="512" y="718" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

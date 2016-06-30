@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shacyrillic" format="1">
+  <advance width="674"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="571" type="line" smooth="yes"/>
+      <point x="84" y="611"/>
+      <point x="126" y="611"/>
+      <point x="126" y="571" type="curve" smooth="yes"/>
+      <point x="126" y="42" type="line"/>
+      <point x="316" y="42" type="line"/>
+      <point x="316" y="571" type="line" smooth="yes"/>
+      <point x="316" y="611"/>
+      <point x="358" y="611"/>
+      <point x="358" y="571" type="curve" smooth="yes"/>
+      <point x="358" y="42" type="line"/>
+      <point x="548" y="42" type="line"/>
+      <point x="548" y="571" type="line" smooth="yes"/>
+      <point x="548" y="611"/>
+      <point x="590" y="611"/>
+      <point x="590" y="571" type="curve" smooth="yes"/>
+      <point x="590" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

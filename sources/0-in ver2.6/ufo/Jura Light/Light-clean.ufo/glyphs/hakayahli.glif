@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hakayahli" format="1">
+  <advance width="614"/>
+  <unicode hex="A91F"/>
+  <outline>
+    <contour>
+      <point x="127" y="161" type="curve"/>
+      <point x="127" y="106" type="line" smooth="yes"/>
+      <point x="127" y="59.3333"/>
+      <point x="141.667" y="42"/>
+      <point x="187" y="42" type="curve" smooth="yes"/>
+      <point x="271" y="42" type="line"/>
+      <point x="487" y="329" type="line"/>
+      <point x="487" y="436" type="line" smooth="yes"/>
+      <point x="487" y="478.667"/>
+      <point x="529" y="478.667"/>
+      <point x="529" y="436" type="curve" smooth="yes"/>
+      <point x="529" y="-81" type="line" smooth="yes"/>
+      <point x="529" y="-183.667"/>
+      <point x="497.667" y="-205"/>
+      <point x="427" y="-205" type="curve" smooth="yes"/>
+      <point x="385.667" y="-205"/>
+      <point x="385.167" y="-163"/>
+      <point x="428.5" y="-163" type="curve" smooth="yes"/>
+      <point x="471.833" y="-163"/>
+      <point x="487" y="-144.667"/>
+      <point x="487" y="-98" type="curve" smooth="yes"/>
+      <point x="487" y="263" type="line"/>
+      <point x="289" y="0" type="line"/>
+      <point x="180" y="0" type="line" smooth="yes"/>
+      <point x="106.667" y="0"/>
+      <point x="85" y="30.6667"/>
+      <point x="85" y="124" type="curve" smooth="yes"/>
+      <point x="85" y="461" type="line"/>
+      <point x="268" y="461" type="line"/>
+      <point x="268" y="336" type="line"/>
+      <point x="275" y="283.667"/>
+      <point x="201" y="204.333"/>
+    </contour>
+    <contour>
+      <point x="127" y="419" type="line"/>
+      <point x="127" y="211" type="line"/>
+      <point x="168.333" y="229.667"/>
+      <point x="226" y="297.333"/>
+      <point x="226" y="336" type="curve" smooth="yes"/>
+      <point x="226" y="419" type="line"/>
+    </contour>
+  </outline>
+</glyph>

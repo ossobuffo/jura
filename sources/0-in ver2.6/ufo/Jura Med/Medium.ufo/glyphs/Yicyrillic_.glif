@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yicyrillic" format="1">
+  <advance width="230"/>
+  <unicode hex="0407"/>
+  <outline>
+    <component base="dieresis" xOffset="-68" yOffset="113"/>
+    <component base="I"/>
+  </outline>
+</glyph>

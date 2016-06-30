@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="592"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="432" y="175" type="line"/>
+      <point x="432" y="20" type="line" smooth="yes"/>
+      <point x="432" y="4.41719"/>
+      <point x="423.12" y="-7"/>
+      <point x="411" y="-7" type="curve" smooth="yes"/>
+      <point x="398.88" y="-7"/>
+      <point x="390" y="4.41719"/>
+      <point x="390" y="20" type="curve" smooth="yes"/>
+      <point x="390" y="175" type="line"/>
+      <point x="72" y="175" type="line"/>
+      <point x="72" y="231" type="line"/>
+      <point x="375" y="636" type="line"/>
+      <point x="432" y="636" type="line"/>
+      <point x="432" y="217" type="line"/>
+      <point x="493" y="217" type="line" smooth="yes"/>
+      <point x="508.583" y="217"/>
+      <point x="520" y="208.12"/>
+      <point x="520" y="196" type="curve" smooth="yes"/>
+      <point x="520" y="183.88"/>
+      <point x="508.583" y="175"/>
+      <point x="493" y="175" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="390" y="217" type="line"/>
+      <point x="390" y="594" type="line"/>
+      <point x="109" y="217" type="line"/>
+    </contour>
+  </outline>
+</glyph>

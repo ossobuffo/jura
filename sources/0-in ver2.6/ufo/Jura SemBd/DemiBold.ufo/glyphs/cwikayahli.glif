@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cwikayahli" format="1">
+  <advance width="614"/>
+  <unicode hex="A92E"/>
+  <outline>
+    <contour>
+      <point x="544" y="123.146" type="curve" smooth="yes"/>
+      <point x="544" y="100.323"/>
+      <point x="516.122" y="67.2533"/>
+      <point x="474.073" y="40.1949" type="curve" smooth="yes"/>
+      <point x="416.387" y="3.07476"/>
+      <point x="361.001" y="-15"/>
+      <point x="304.939" y="-15" type="curve" smooth="yes"/>
+      <point x="249.146" y="-15"/>
+      <point x="194.305" y="2.90917"/>
+      <point x="138.66" y="39.3004" type="curve" smooth="yes"/>
+      <point x="96.9444" y="66.5819"/>
+      <point x="70" y="99.3618"/>
+      <point x="70" y="122.831" type="curve" smooth="yes"/>
+      <point x="70" y="141.602"/>
+      <point x="81.3563" y="155.484"/>
+      <point x="96.7127" y="155.484" type="curve" smooth="yes"/>
+      <point x="140.655" y="155.484"/>
+      <point x="173.615" y="57"/>
+      <point x="305.703" y="57" type="curve" smooth="yes"/>
+      <point x="437.568" y="57"/>
+      <point x="472.506" y="155.151"/>
+      <point x="516.792" y="155.151" type="curve" smooth="yes"/>
+      <point x="532.336" y="155.151"/>
+      <point x="544" y="141.431"/>
+    </contour>
+  </outline>
+</glyph>
