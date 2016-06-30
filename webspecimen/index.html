@@ -11,7 +11,7 @@
 
 <script type="text/javascript">
   WebFontConfig = {
-	custom: { families: ['Jura-dev01-thin', 'Jura-dev01-light', 'Jura-dev01-regular', 'Jura-dev01-medium', 'Jura-dev01-semibold', 'Jura-dev01-bold', 'Jura-dev01-ultrabold'}
+	custom: { families: ['Jura-dev01-Thin', 'Jura-dev01-Light', 'Jura-dev01-Regular', 'Jura-dev01-Medium', 'Jura-dev01-SemiBold', 'Jura-dev01-Bold', 'Jura-dev01-UltraBold'}
   };
   (function() {
     var wf = document.createElement('script');
@@ -25,7 +25,7 @@
 
 <script type="text/javascript">
 $(function() {
-    var aFontsWeightArray = new Array('Jura-dev01-thin', 'Jura-dev01-light', 'Jura-dev01-regular', 'Jura-dev01-medium', 'Jura-dev01-semibold', 'Jura-dev01-bold', 'Jura-dev01-ultrabold');
+    var aFontsWeightArray = new Array('Jura-dev01-Thin', 'Jura-dev01-Light', 'Jura-dev01-Regular', 'Jura-dev01-Medium', 'Jura-dev01-SemiBold', 'Jura-dev01-Bold', 'Jura-dev01-UltraBold');
     var aFontsWeightNameArray = new Array('Thin', 'Light', 'Regular', 'Medium', 'Semibold', 'Bold', 'Ultra Bold');
     $('#slider').slider({
         value: 6,
@@ -40,6 +40,32 @@ $(function() {
         }
     });
     $('.thefontfamily').text((aFontsWeightNameArray[$('#slider').slider('value')]));
+    
+    $('#slider_size').slider({
+        value: 72,
+        min: 12,
+        max: 120,
+        step: 1,
+        slide: function(event, ui) {
+        	var sFontSize = ui.value;
+        	$('.pointsize').text(sFontSize + 'px');
+            $('#widetext').css('font-size', sFontSize + 'px')
+				          .css('margin-left', 5000/sFontSize + 'px')
+				          .css('margin-right', 5000/sFontSize + 'px')
+        }
+    });
+     $('#slider_spacing').slider({
+        value: 0,
+        min: -100,
+        max: 100,
+        step: 1,
+        slide: function(event, ui) {
+        	var sFontSpacing = ui.value;
+        	$('.spacing').text(sFontSpacing/1000 + ' em');
+            $('#widetext').css('letter-spacing', sFontSpacing/1000 + 'em')				
+        }
+    });
+
 });
 </script>
 
@@ -48,7 +74,7 @@ body {
 	text-transform: lowercase !important; 
 	background-color: #ffffff;
 	color: #000000;
-	font-family: 'Jura-dev01-regular', 'AdobeBlank';
+	font-family: 'Jura-dev01-Regular', 'AdobeBlank';
 	font-size: 17px;
 	-moz-font-feature-settings:"kern" 1, "liga" 1,; 
 	-moz-font-feature-settings:"kern=1, liga=1"; 
@@ -72,7 +98,7 @@ h1 {
 	font-size: 24px;
 	margin-top:2em;
 	margin-bottom:0.2em;
-	font-family: 'Jura-dev01-semibold', 'AdobeBlank';
+	font-family: 'Jura-dev01-SemiBold', 'AdobeBlank';
 	font-style: normal;
 	font-weight: normal;
 }
@@ -94,7 +120,7 @@ header {
 	text-align: center;
 	font-size: 128px;
 	margin: 0 0;
-	font-family: 'Jura-dev01-black';
+	font-family: 'Jura-dev01-UltraBold';
 	font-style: normal;
 	font-weight: normal;
 	line-height: 1;
@@ -102,7 +128,7 @@ header {
 }
 
 em {
-	font-family: 'Jura-dev01-semibold', 'AdobeBlank';
+	font-family: 'Jura-dev01-SemiBold', 'AdobeBlank';
 	font-style: normal;
 	font-weight: normal;
 }
@@ -159,28 +185,28 @@ a:active {
 }
 .label {
 	font-size: 17px:
-	font-family: 'Jura-dev01-regular';
+	font-family: 'Jura-dev01-Regular';
 	margin: 24px 0 4px ;
 }
 .label:first-child {
 	font-size: 17px:
-	font-family: 'Jura-dev01-regular';
+	font-family: 'Jura-dev01-Regular';
 	margin: 0 0 4px ;
 }
 
 .ui-slider .ui-slider-handle { width: 10%; height:18px; top:-8px; margin-left: -5%; margin-right: -5%; border: none; background: #e6e6e6;}
-#slider {
-	width: 90%; 
+#slider, #slider_size, #slider_spacing {
+	width: 60%; 
 	margin: 1em auto; 
 	height: 4px; 
 	border: 0; 
 	background: #bbb
 }
 div#widetext { 
-	margin: 0 2%;
+	margin: 0 auto;
 	text-align: center;
-	font-family:'Jura-dev01-ultrabold';
-	font-size:72px;
+	font-family:'Jura-dev01-UltraBold';
+	font-size:60px;
 	line-height: 1.15em
 }
 div#widetext span {text-align: center}
@@ -197,14 +223,29 @@ div#widetext span {text-align: center}
 .wf-active .thefontfamily {
 	visibility:visible;
 }
+
+.controls {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
 </style>
 </head>
 <body>
+<section class="controls">
+Jura Font Specimen. <br />
+Style: <span class="thefontfamily"> Bold </span> <br />
 <div id="slider"></div>
+Size: <span class="pointsize"> 80 px</span>
+<div id="slider_size"></div>
+Spacing: <span class="spacing"> 0 em</span>
+<div id="slider_spacing"></div>
+</section>>
+
+
 <div id="widetext" contenteditable="true" spellcheck="false">
-Jura Font <span class="thefontfamily"> Bold </span> The OFL provides a legal framework and infrastructure for worldwide development, sharing and improvement of fonts and related software in a collaborative manner. It enables font authors to release their work under a common license that allows use, bundling, modification and redistribution.<br>
+ The OFL provides a legal framework and infrastructure for worldwide development, sharing and improvement of fonts and related software in a collaborative manner. It enables font authors to release their work under a common license that allows use, bundling, modification and redistribution.<br>
 </div>
-<div class="bigtext"><h1><a href="https://www.google.com/fonts/specimen/Jura" style="color:red">Jura on Google Fonts</a></h1></div>
+<div class="bigtext"><h1><a href="https://www.google.com/fonts/specimen/Jura" style="color:red">Jura on Google Fonts (old version 2.6)</a></h1></div>
 <div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura/archive/master.zip" style="color:red">Download Jura</a></h1></div>
 <div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura" style="color:red">Project github</a></h1></div>
 <div id="bodytext">
@@ -216,24 +257,19 @@ Jura Font <span class="thefontfamily"> Bold </span> The OFL provides a legal fra
 
 <div class="bigtext">
 <div class="label">Thin</div>
-<span contenteditable="true" class="Jura-dev01-thin" spellcheck="false">I den rett gamle tida budde det tre troll i Råskogen. "Eg tykte eg høyrde ei ku raute", sa det eine trollet</span>
-<div class="label">Extra Light</div>
-<span contenteditable="true" class="Jura-dev01-extralight" spellcheck="false">Es geschah dies durch seine Bücher „Plaudereien mit der Herzogin von Seeland“ und „Apotheker Heinrich.“</span>
+<span contenteditable="true" class="Jura-dev01-Thin" spellcheck="false">I den rett gamle tida budde det tre troll i Råskogen. "Eg tykte eg høyrde ei ku raute", sa det eine trollet</span>
 <div class="label">Light</div>
-<span contenteditable="true" class="Jura-dev01-light" spellcheck="false">De là, elle remonte vers le nord jusqu’à Dovrefjeld; en Grande-Bretagne, jusque vers l’Écosse centrale</span>
+<span contenteditable="true" class="Jura-dev01-Light" spellcheck="false">De là, elle remonte vers le nord jusqu’à Dovrefjeld; en Grande-Bretagne, jusque vers l’Écosse centrale</span>
 <div class="label">Regular</div>
-<span contenteditable="true" class="Jura-dev01-regular" spellcheck="false">Portugal estava mais proximo, que nenhum outro povo, do litoral africano; tinha já tomado Ceuta</span>
+<span contenteditable="true" class="Jura-dev01-Regular" spellcheck="false">Portugal estava mais proximo, que nenhum outro povo, do litoral africano; tinha já tomado Ceuta</span>
 <div class="label">Medium</div>
-<span contenteditable="true" class="Jura-dev01-medium" spellcheck="false">Nije on podavao osobite važnosti svemu tome i već se je bio smirio s mišlju, da je to kronični katar</span>
+<span contenteditable="true" class="Jura-dev01-Medium" spellcheck="false">Nije on podavao osobite važnosti svemu tome i već se je bio smirio s mišlju, da je to kronični katar</span>
 <div class="label">Semibold</div>
-<span contenteditable="true" class="Jura-dev01-semibold" spellcheck="false">Tog wás daar geluid, en juis iets soos ’n hartklop – ’n lae gedreun, byna te laag vir die oor om op te vang</span>
+<span contenteditable="true" class="Jura-dev01-SemiBold" spellcheck="false">Tog wás daar geluid, en juis iets soos ’n hartklop – ’n lae gedreun, byna te laag vir die oor om op te vang</span>
 <div class="label">Bold</div>
-<span contenteditable="true" class="Jura-dev01-bold" spellcheck="false">Arsen ih prispodabljaše koralima i spužvama, tako bijahu izdjelani. A za boju govoraše</span>
-<div class="label">Extra Bold</div>
-<span contenteditable="true" class="Jura-dev01-ultrabold" spellcheck="false">Ir Antanas Garšva pasuka dešinėn. Vėl laiptai. Per daug laiptų, jie kartojasi</span>
-<div class="label">Black</div>
-<span contenteditable="true" class="Jura-dev01-black" spellcheck="false">Mutta elämähän käy aivan mahdottomaksi jollemme tiedä onko sunnuntai vai keskiviikko. Ei siten voi elää.</span>
-</div>
+<span contenteditable="true" class="Jura-dev01-Bold" spellcheck="false">Arsen ih prispodabljaše koralima i spužvama, tako bijahu izdjelani. A za boju govoraše</span>
+<div class="label">Ultra Bold</div>
+<span contenteditable="true" class="Jura-dev01-UltraBold" spellcheck="false">Ir Antanas Garšva pasuka dešinėn. Vėl laiptai. Per daug laiptų, jie kartojasi</span>
 
 <div id="bodytext">
 <h1>Latin characters</h1>

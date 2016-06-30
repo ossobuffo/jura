@@ -2558,7 +2558,7 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2016-06-28 19:30:38 +0000";
+lastChange = "2016-06-30 13:06:31 +0000";
 layers = (
 {
 background = {
@@ -3819,6 +3819,10 @@ value = "Noodler; 15.0; 1; 1;";
 {
 name = Filter;
 value = "Transformations;LSB:+15.0;RSB:+15.0;";
+},
+{
+name = weightClass;
+value = "200";
 }
 );
 interpolationWeight = 40;
@@ -3837,6 +3841,10 @@ value = "Noodler; 25.0; 1; 1;";
 {
 name = Filter;
 value = "Transformations;LSB:+20.0;RSB:+20.0;";
+},
+{
+name = weightClass;
+value = "300";
 }
 );
 interpolationWeight = 40;
@@ -3850,11 +3858,15 @@ weightClass = Light;
 customParameters = (
 {
 name = Filter;
-value = "Noodler; 40.0; 1; 1;";
+value = "Noodler; 50.0; 1; 1;";
 },
 {
 name = Filter;
 value = "Transformations;LSB:+30.0;RSB:+30.0;";
+},
+{
+name = weightClass;
+value = "400";
 }
 );
 interpolationWeight = 40;
@@ -3867,11 +3879,15 @@ name = Regular;
 customParameters = (
 {
 name = Filter;
-value = "Noodler; 55.0; 1; 1;";
+value = "Noodler; 65.0; 1; 1;";
 },
 {
 name = Filter;
 value = "Transformations;LSB:+30.0;RSB:+30.0;";
+},
+{
+name = weightClass;
+value = "500";
 }
 );
 interpolationWeight = 40;
@@ -3885,11 +3901,15 @@ weightClass = Medium;
 customParameters = (
 {
 name = Filter;
-value = "Noodler; 70.0; 1; 1;";
+value = "Noodler; 75.0; 1; 1;";
 },
 {
 name = Filter;
 value = "Transformations;LSB:+40.0;RSB:+40.0;";
+},
+{
+name = weightClass;
+value = "600";
 }
 );
 interpolationWeight = 40;
@@ -3908,6 +3928,10 @@ value = "Noodler; 100.0; 1; 1;";
 {
 name = Filter;
 value = "Transformations;LSB:+40.0;RSB:+40.0;";
+},
+{
+name = weightClass;
+value = "700";
 }
 );
 interpolationWeight = 40;
@@ -3926,6 +3950,10 @@ value = "Noodler; 140.0; 1; 1;";
 {
 name = Filter;
 value = "Transformations;LSB:+50.0;RSB:+50.0;";
+},
+{
+name = weightClass;
+value = "800";
 }
 );
 interpolationWeight = 40;

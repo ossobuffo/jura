@@ -21,76 +21,77 @@ html {
 	-ms-font-feature-settings: "kern" on, "liga" on, "calt" on;
 	-o-font-feature-settings: "kern" on, "liga" on, "calt" on;
 }
+
 @font-face {
-    font-family: 'Jura-dev01-ultrabold';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--ExtraBold.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--ExtraBold.woff') format('woff');
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Jura-dev01-Ultrabold';
+    src: url('webfonts/Jura-dev01-UltraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-bold';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--Bold.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--Bold.woff') format('woff');
+    font-family: 'Jura-dev01-Bold';
+    src: url('webfonts/Jura-dev01-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
 }
-@font-face {
-    font-family: 'Jura-dev01-semibold';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--SemiBold.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--SemiBold.woff') format('woff');
+	@font-face {
+    font-family: 'Jura-dev01-SemiBold';
+    src: url('webfonts/Jura-dev01-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-medium';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--Medium.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--Medium.woff') format('woff');
+    font-family: 'Jura-dev01-Medium';
+    src: url('webfonts/Jura-dev01-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-regular';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--Regular.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--Regular.woff') format('woff');
+    font-family: 'Jura-dev01-Regular';
+    src: url('webfonts/Jura-dev01-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-light';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--Light.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--Light.woff') format('woff');
+    font-family: 'Jura-dev01-Light';
+    src: url('webfonts/Jura-dev01-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-thin';
-    src: url('Work-Sans/fonts/webfonts/woff2/Jura-dev01--Thin.woff2') format('woff2'),
-    	url('Work-Sans/fonts/webfonts/woff/Jura-dev01--Thin.woff') format('woff');
-    font-weight: 100;
+    font-family: 'Jura-dev01-Thin';
+    src: url('webfonts/Jura-dev01-Thin.ttf') format('truetype');
+    font-weight: 200;
     font-style: normal;
 }
 
-.Jura-dev01-thin {
-	font-family: 'Jura-dev01-thin';
+.Jura-dev01-Thin {
+	font-family: 'Jura-dev01-Thin';
 }
-.Jura-dev01-light {
-	font-family: 'Jura-dev01-light';
+.Jura-dev01-Light {
+	font-family: 'Jura-dev01-Light';
 }
-.Jura-dev01-regular {
-	font-family: 'Jura-dev01-regular';
+.Jura-dev01-Regular {
+	font-family: 'Jura-dev01-Regular';
 }
-.Jura-dev01-medium {
-	font-family: 'Jura-dev01-medium';
+.Jura-dev01-Medium {
+	font-family: 'Jura-dev01-Medium';
 }
-.Jura-dev01-semibold {
-	font-family: 'Jura-dev01-semibold';
+.Jura-dev01-SemiBold {
+	font-family: 'Jura-dev01-SemiBold';
 }
-.Jura-dev01-bold {
-	font-family: 'Jura-dev01-bold';
+.Jura-dev01-Bold {
+	font-family: 'Jura-dev01-Bold';
 }
-.Jura-dev01-ultrabold {
-	font-family: 'Jura-dev01-ultrabold';
+.Jura-dev01-UltraBold {
+	font-family: 'Jura-dev01-UltraBold';
 }
 .fractions {
 	-moz-font-feature-settings:"frac" 1, "kern" 1; 
