@@ -10,6 +10,28 @@ This repo contains both original v2.26, and new v3.001 and up Development versio
 
 [Jura Design Guideline](documentation/v3.001design-guide.md)
 
+
+#### Web Specimen Deployment Tip
+
+As you may have noticed this repo includes a [**webspecimen**](webspecimen) folder.
+This is were the html files for the web specimen page are hosted. 
+They are accessible online here: [http://alexeiva.github.io/jura](http://alexeiva.github.io/jura)
+
+Normally to achieve this you would create a separate **gh-pages** branch, but it 
+would be tediuos to switch between branches for each webpage update. 
+
+There is a simple alternative deployment method:
+
+1. Create a **webspecimen**[or any other name] folder with your html files in your **master** branch. Run these commands:
+
+---
+	gid add webspecimen && git commit -m "webpage update"
+	git subtree push --prefix webspecimen origin gh-pages
+ 
+2. Now your html files are accesible via http://[username/orgname].github.io/[projectname]
+3. If you don't want this folder to appear in the master branch, add it to the .gitingore file, or use [subtree split](https://makingsoftware.wordpress.com/2013/02/16/using-git-subtrees-for-repository-separation/).
+
+ 
 #### Goals of the new v.3 redesign:
 
 - Add more weights
