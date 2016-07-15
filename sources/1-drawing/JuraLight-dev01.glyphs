@@ -1,15 +1,9 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-nln,
-oo,
-h,
-e,
-c,
-"l s",
-"abcdefghijklmnopqrstuvwxyz\012nananagame\012",
-e,
-"sfdldsf\012"
+ab,
+"hobonop\012abcdefgh\012ijklmnopq\012rstuvwxyz",
+adhesion
 );
 copyright = "Copyright 2009, 2010, 2011 by Daniel Johnson. Released under the terms of the Open Font License.";
 customParameters = (
@@ -1762,7 +1756,7 @@ unicode = 0061;
 },
 {
 glyphname = b;
-lastChange = "2016-06-29 14:48:47 +0000";
+lastChange = "2016-07-14 23:50:53 +0000";
 layers = (
 {
 background = {
@@ -1932,7 +1926,7 @@ unicode = 0063;
 },
 {
 glyphname = d;
-lastChange = "2016-06-29 14:48:52 +0000";
+lastChange = "2016-07-14 23:50:53 +0000";
 layers = (
 {
 background = {
@@ -2955,7 +2949,7 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2016-06-29 14:48:47 +0000";
+lastChange = "2016-07-14 23:50:38 +0000";
 layers = (
 {
 background = {
@@ -3026,7 +3020,7 @@ unicode = 0070;
 },
 {
 glyphname = q;
-lastChange = "2016-06-29 14:48:52 +0000";
+lastChange = "2016-07-14 23:50:53 +0000";
 layers = (
 {
 background = {
@@ -3361,7 +3355,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2016-06-29 14:48:40 +0000";
+lastChange = "2016-07-14 23:45:55 +0000";
 layers = (
 {
 background = {
