@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Khacyrillic" format="1">
-  <advance width="537"/>
-  <unicode hex="0425"/>
-  <outline>
-    <component base="X"/>
-  </outline>
-</glyph>

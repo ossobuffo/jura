@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflex.grave" format="1">
-  <advance width="432"/>
-  <unicode hex="E0C1"/>
-  <outline>
-    <component base="gravecomb" xOffset="415" yOffset="154"/>
-    <component base="uni0302" xOffset="558" yOffset="53"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breve.acute" format="1">
-  <advance width="570"/>
-  <unicode hex="E0C4"/>
-  <outline>
-    <component base="acutecomb" xOffset="516" yOffset="169"/>
-    <component base="breve" xOffset="-49" yOffset="-29"/>
-  </outline>
-</glyph>

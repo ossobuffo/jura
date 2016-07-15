@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iocyrillic" format="1">
-  <advance width="617"/>
-  <unicode hex="0401"/>
-  <outline>
-    <component base="dieresis" xOffset="138" yOffset="113"/>
-    <component base="E"/>
-  </outline>
-</glyph>

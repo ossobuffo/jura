@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="calyaplophukayahli" format="1">
-  <advance width="0"/>
-  <unicode hex="A92D"/>
-  <outline>
-    <component base="calyakayahli"/>
-    <component base="uekayahli" yOffset="-636"/>
-  </outline>
-</glyph>
