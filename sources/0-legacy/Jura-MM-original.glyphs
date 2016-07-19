@@ -4,7 +4,8 @@ DisplayStrings = (
 "0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz",
 "/zero-kayahli/one-kayahli/two-kayahli/three-kayahli/four-kayahli/five-kayahli/six-kayahli/seven-kayahli/eight-kayahli/nine-kayahli/ka-kayahli/kha-kayahli/ga-kayahli/nga-kayahli/sa-kayahli/sha-kayahli/za-kayahli/nya-kayahli/ta-kayahli/hta-kayahli/na-kayahli/pa-kayahli/pha-kayahli/ma-kayahli/da-kayahli/ba-kayahli/ra-kayahli/ya-kayahli/la-kayahli/wa-kayahli/tha-kayahli/ha-kayahli/va-kayahli/ca-kayahli/a-kayahli/oe-kayahli/i-kayahli/oo-kayahli",
 Hh,
-O
+O,
+"ABCDEFGHIJKLMNOPQRSOCUTUVWXYZ\012Oon"
 );
 copyright = "Copyright 2009, 2010, 2011 by Daniel Johnson.  Released under the terms of the Open Font License.";
 date = "2016-06-28 19:35:41 +0000";
