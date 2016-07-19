@@ -1,12 +1,5 @@
 {
 .appVersion = "895";
-DisplayStrings = (
-"BBBBBBBna\012nananana\012aaaaaaa\012bananabon\012hobonop\012BHBHBHBBBB\012HHHHHHBHBH\012OOOOObobo\012HOHOHOo\012HH\012HnOoOOoo\012nnnnn\012oooooo\012onnn/bakayahli nfanfan\012HEH\012OVOVOVO\012OTOTOTO",
-"",
-"n-n",
-"n,n",
-bdfhkl
-);
 copyright = "Copyright 2009, 2010, 2011 by Daniel Johnson. Released under the terms of the Open Font License.";
 customParameters = (
 {
