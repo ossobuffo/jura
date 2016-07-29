@@ -11,9 +11,10 @@
 
 <script type="text/javascript">
   WebFontConfig = {
-	custom: { families: ['Jura-dev01-Thin', 'Jura-dev01-Light', 'Jura-dev01-Regular', 'Jura-dev01-Medium', 'Jura-dev01-SemiBold', 'Jura-dev01-Bold', 'Jura-dev01-UltraBold'}
+	  custom: { families: ['Jura-v3-Light', 'Jura-v3-Regular', 'Jura-v3-Medium', 'Jura-v3-Semi-Bold', 'Jura-v3-Bold'] }
   };
-  (function() {
+  
+    (function() {
     var wf = document.createElement('script');
     wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
       '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
@@ -25,12 +26,12 @@
 
 <script type="text/javascript">
 $(function() {
-    var aFontsWeightArray = new Array('Jura-dev01-Thin', 'Jura-dev01-Light', 'Jura-dev01-Regular', 'Jura-dev01-Medium', 'Jura-dev01-SemiBold', 'Jura-dev01-Bold', 'Jura-dev01-UltraBold');
-    var aFontsWeightNameArray = new Array('Thin', 'Light', 'Regular', 'Medium', 'Semibold', 'Bold', 'Ultra Bold');
+    var aFontsWeightArray = new Array('Jura-v3-Light', 'Jura-v3-Regular', 'Jura-v3-Medium', 'Jura-v3-Semi-Bold', 'Jura-v3-Bold');
+    var aFontsWeightNameArray = new Array('Light', 'Regular', 'Medium', 'Semi-Bold', 'Bold');
     $('#slider').slider({
-        value: 6,
+        value: 0,
         min: 0,
-        max: 6,
+        max: 4,
         step: 1,
         slide: function(event, ui) {
             var sFontsWeightArray = aFontsWeightArray[ui.value];
@@ -71,10 +72,9 @@ $(function() {
 
 <style type="text/css" media="screen">
 body {
-	text-transform: lowercase !important; 
 	background-color: #ffffff;
 	color: #000000;
-	font-family: 'Jura-dev01-Regular', 'AdobeBlank';
+	font-family: 'Jura-v3-Regular', 'AdobeBlank';
 	font-size: 17px;
 	-moz-font-feature-settings:"kern" 1, "liga" 1,; 
 	-moz-font-feature-settings:"kern=1, liga=1"; 
@@ -98,7 +98,7 @@ h1 {
 	font-size: 24px;
 	margin-top:2em;
 	margin-bottom:0.2em;
-	font-family: 'Jura-dev01-SemiBold', 'AdobeBlank';
+	font-family: 'Jura-v3-Semi-Bold', 'AdobeBlank';
 	font-style: normal;
 	font-weight: normal;
 }
@@ -120,7 +120,7 @@ header {
 	text-align: center;
 	font-size: 128px;
 	margin: 0 0;
-	font-family: 'Jura-dev01-UltraBold';
+	font-family: 'Jura-v3-Bold';
 	font-style: normal;
 	font-weight: normal;
 	line-height: 1;
@@ -128,7 +128,7 @@ header {
 }
 
 em {
-	font-family: 'Jura-dev01-SemiBold', 'AdobeBlank';
+	font-family: 'Jura-v3-Semi-Bold', 'AdobeBlank';
 	font-style: normal;
 	font-weight: normal;
 }
@@ -180,17 +180,18 @@ a:active {
 	margin-right: auto;
 	text-align: center;
 }
-.bigtext span { 
+.bigtext { 
 	font-size: 48px;
+	line-height: 1.2;
 }
 .label {
-	font-size: 17px:
-	font-family: 'Jura-dev01-Regular';
+	font-size: 17px;
+	font-family: 'Jura-v3-Regular';
 	margin: 24px 0 4px ;
 }
 .label:first-child {
-	font-size: 17px:
-	font-family: 'Jura-dev01-Regular';
+	font-size: 17px;
+	font-family: 'Jura-v3-Regular';
 	margin: 0 0 4px ;
 }
 
@@ -205,7 +206,7 @@ a:active {
 div#widetext { 
 	margin: 0 auto;
 	text-align: center;
-	font-family:'Jura-dev01-UltraBold';
+	font-family:'Jura-v3-Light';
 	font-size:60px;
 	line-height: 1.15em
 }
@@ -246,8 +247,8 @@ Spacing: <span class="spacing"> 0 em</span>
  The OFL provides a legal framework and infrastructure for worldwide development, sharing and improvement of fonts and related software in a collaborative manner. It enables font authors to release their work under a common license that allows use, bundling, modification and redistribution.<br>
 </div>
 <div class="bigtext"><h1><a href="https://www.google.com/fonts/specimen/Jura" style="color:red">Jura on Google Fonts (old version 2.6)</a></h1></div>
-<div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura/archive/master.zip" style="color:red">Download Jura</a></h1></div>
-<div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura" style="color:red">Project github</a></h1></div>
+<div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura/archive/master.zip" style="color:red">Download Jura (version 3)</a></h1></div>
+<div class="bigtext"><h1><a href="https://github.com/alexeiva/Jura" style="color:red">Github</a></h1></div>
 <div id="bodytext">
 
 <h2>everything is a copy of a copy...</h2>
@@ -256,20 +257,16 @@ Spacing: <span class="spacing"> 0 em</span>
 </div>
 
 <div class="bigtext">
-<div class="label">Thin</div>
-<span contenteditable="true" class="Jura-dev01-Thin" spellcheck="false">I den rett gamle tida budde det tre troll i Råskogen. "Eg tykte eg høyrde ei ku raute", sa det eine trollet</span>
 <div class="label">Light</div>
-<span contenteditable="true" class="Jura-dev01-Light" spellcheck="false">De là, elle remonte vers le nord jusqu’à Dovrefjeld; en Grande-Bretagne, jusque vers l’Écosse centrale</span>
+<span contenteditable="true" class="Jura-v3-Light" spellcheck="false">De là, elle remonte vers le nord jusqu’à Dovrefjeld; en Grande-Bretagne, jusque vers l’Écosse centrale</span>
 <div class="label">Regular</div>
-<span contenteditable="true" class="Jura-dev01-Regular" spellcheck="false">Portugal estava mais proximo, que nenhum outro povo, do litoral africano; tinha já tomado Ceuta</span>
+<span contenteditable="true" class="Jura-v3-Regular" spellcheck="false">Portugal estava mais proximo, que nenhum outro povo, do litoral africano; tinha já tomado Ceuta</span>
 <div class="label">Medium</div>
-<span contenteditable="true" class="Jura-dev01-Medium" spellcheck="false">Nije on podavao osobite važnosti svemu tome i već se je bio smirio s mišlju, da je to kronični katar</span>
-<div class="label">Semibold</div>
-<span contenteditable="true" class="Jura-dev01-SemiBold" spellcheck="false">Tog wás daar geluid, en juis iets soos ’n hartklop – ’n lae gedreun, byna te laag vir die oor om op te vang</span>
+<span contenteditable="true" class="Jura-v3-Medium" spellcheck="false">Nije on podavao osobite važnosti svemu tome i već se je bio smirio s mišlju, da je to kronični katar</span>
+<div class="label">Semi-Bold</div>
+<span contenteditable="true" class="Jura-v3-Semi-Bold" spellcheck="false">Tog wás daar geluid, en juis iets soos ’n hartklop – ’n lae gedreun, byna te laag vir die oor om op te vang</span>
 <div class="label">Bold</div>
-<span contenteditable="true" class="Jura-dev01-Bold" spellcheck="false">Arsen ih prispodabljaše koralima i spužvama, tako bijahu izdjelani. A za boju govoraše</span>
-<div class="label">Ultra Bold</div>
-<span contenteditable="true" class="Jura-dev01-UltraBold" spellcheck="false">Ir Antanas Garšva pasuka dešinėn. Vėl laiptai. Per daug laiptų, jie kartojasi</span>
+<span contenteditable="true" class="Jura-v3-Bold" spellcheck="false">Arsen ih prispodabljaše koralima i spužvama, tako bijahu izdjelani. A za boju govoraše</span>
 
 <div id="bodytext">
 <h1>Latin characters</h1>
@@ -279,168 +276,83 @@ Spacing: <span class="spacing"> 0 em</span>
 </p><br>
 
 <em>Standard (automatic) ligatures</em><br>
-ft tt gj jj <br>
+<span>fi fl ff</span>
 
 
 <h1>Numerals</h1>
 <p><em>Arabic figures</em><br>
 <span>π ≈ 3·141592653589793238462643383279502884197169399375105820974944592307816406286208998628034825342117067982148086513282306647093844609550582231725359408128481117450284102701938521105559644622948954930381964428810975665933446128475648233786783165271201909145648566923460348610454326648213393607260249141273724587006606315588174881520920962829254091715364367892590360011330530548820466521384146951941511609 …</span><br><br>
 <em>Fractions</em><br>
-½ ¼ ¾<br><br>
-
-<em>Arbitrary fractions</em><br>
-<span class="fractions">19/21 789/790 2381/873 1/84519</span><br><br>
+<span>½ ¼ ¾</span><br>
 
 <em>Superscript and Subscript</em><br>
 <span class="spaced">⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉</span><br>
 </p>
 
 <h1>Typographical equipment</h1>
+<br/>
 <p><em>Punctuation and quotation marks</em><br>
 <span class="spaced">.…,·•:;¡!¿?{}[]()\/—–-_*‹›«»‚‘’„“”'"</span><br><br>
 <em>Other</em><br>
 <span class="spaced">|¦@&†‡❡¶§◊^~©®℗™</span><br><br>
 
 <em>Currencies</em><br>
-1¤ $18 ¢29 €75 ƒ32 ₹572 £68 ¥998’000<br><br>
+<span>1¤ $18 ¢29 €75 ƒ32 ₹572 £68 ¥998’000<br><br></span>
 <em>Units of measure</em><br>
-47µF 100kΩ 21°C #19 №38 ℮240g 1·5ℓ<br><br>
-<!-- 
-<em>Prime marks</em><br>
-1′ 2″ 3‴ 4⁗<br><br>
- -->
+<span>47µF 100kΩ 21°C #19 №38 ℮240g 1·5ℓ</span><br><br>
 <em>Mathematical</em><br>
 <span class="spaced">≈~=≠∙÷¬−+±×∕>≥∞<≤%‰∫∂∆∏∑√</span><br><br>
-<!-- <em>Manicule</em><br>
-☜ ☚ ☞ ☛ ☝ ☟<br><br>
-<em>Fleuron</em><br>
-☙ ❦ ❧<br><br>
- -->
-<em>Arrows, shapes and ornaments</em><br>
-<span class="spaced">↑↗→↘↓↙←↖↔↕●○◆◇▪▫❛❜❝❞</span><br><br>
-<!-- 
-<em>Asterisk</em><br>
-* ⁑ ⁂<br><br>
- -->
 <em>Ordinals</em><br>
-ª º<br></p>
+<span>ª º</span><br></p>
 
 <h1>OpenType features (view in Firefox or Chrome)</h1>
 <p><em>Stylistic set #1</em><br>
-g ğ ģ <span class="red">→</span><span class="ss01"> g ğ ģ</span><br><br>
-<em>Stylistic set #2</em><br>
-l ĺ ľ ŀ ł ļ <span class="red">→</span> <span class="ss02"> l ĺ ľ ŀ ł ļ</span><br><br>
-<em>Stylistic set #3</em><br>
-R Ŕ Ř Ŗ <span class="smallcaps">R Ŕ Ř Ŗ </span><span class="red">→</span><span class="ss03"> R Ŕ Ř Ŗ <span class="ss03c2sc">R Ŕ Ř Ŗ </span><br><br>
-<em>Stylistic set #4</em><br>
-G Ğ Ģ <span class="smallcaps">G Ğ Ģ </span><span class="red">→</span><span class="ss04"> G Ğ Ģ <span class="ss04c2sc">G Ğ Ģ </span><br><br>
-<em>Stylistic set #5</em><br>
-Ĳ <span id="lang" lang="nl">ÍJ</span> <span class="smallcaps">Ĳ <span class="smallcaps" lang="nl">ÍJ </span></span><span class="red">→</span><span class="ss05"> Ĳ <span id="lang" lang="nl">ÍJ</span> <span class="ss05c2sc">Ĳ </span> <span class="ss05c2sc" lang="nl">ÍJ</span><br><br>
+<span>a</span> <span class="red">></span><span class="ss01"> a </span><br><br>
+<em>Localised Dutch Diagraph</em><br>
+<span id="lang" lang="en">ÍJ</span> <span class="red">></span><span class="ss05"> Ĳ <span id="lang" lang="nl">ÍJ</span><br><br>
 
-<em>Small caps</em><br>
-<span>AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐĎĐEÉĚÊËĖÈĒĘFGĞĢ<span class="ss04">GĞĢ</span>HIĲÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖ<span class="ss03">RŔŘŖ</span>SŚŠŞȘẞTŤŢȚUÚÛÜÙŰŪŲŮVWXYÝŸZŹŽŻ·!¡?¿"“”‘’'&amp;</span><br>
-<span class="red"> ↓</span><br>
-<span class="smallcaps">AÁĂÂÄÀĀĄÅÃÆBCĆČÇDÐĎĐEÉĚÊËĖÈĒĘFGĞĢ<span class="ss04c2sc">GĞĢ</span>HIĲÍÎÏİÌĪĮJKĶLĹĽĿŁĻMNŃŇÑŅOÓÔÖÒŐŌØÕŒPÞQRŔŘŖ<span class="ss03c2sc">RŔŘŖ</span>SŚŠŞȘẞTŤŢȚUÚÛÜÙŰŪŲŮVWXYÝŸZŹŽŻ·!¡?¿"“”‘’'&amp;</span><br><br>
 
-<em>Tabular figures and characters (monospaced)</em><br>
-<span class="Jura-dev01-thin">7498948482#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-extralight">0458683436#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-light">5638117720#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-regular">3091798057#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-medium">6286213544#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-semibold">8622705260#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-bold">4628189024#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-ultrabold">4970720720#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-black">4189391137#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="red"> ↓</span><br>
-<span class="tf">
-<span class="Jura-dev01-thin">7498948482#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-extralight">0458683436#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-light">5638117720#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-regular">3091798057#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-medium">6286213544#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-semibold">8622705260#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-bold">4628189024#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-ultrabold">4970720720#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-<span class="Jura-dev01-black">4189391137#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
-</span><br>
+<em>Figures and characters (proportional)</em><br>
+<span class="Jura-v3-Light">5638117720#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
+<span class="Jura-v3-Regular">3091798057#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
+<span class="Jura-v3-Medium">6286213544#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
+<span class="Jura-v3-Semi-Bold">8622705260#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
+<span class="Jura-v3-Bold">4628189024#¢¤$€ƒ₺₽£¥≈÷=>≥&lt;≤¬−×≠+± .,:;</span><br>
+<br>
 
-<em>Old-style proportional figures</em><br>
-0123456789<span class="red"> →</span> <span class="of">0123456789</span><br><br>
 
-<em>Old-style tabular figures</em><br>
-<span class="tf">0123456789</span><span class="red"> →</span> <span class="tosf">0123456789</span><br><br>
-
-<em>Slashed zero</em><br>
-0 <span class="red">→</span> <span class="szero">0</span><br><br>
-
-<em>Superior/Superscript</em><br>
-H 0 1 2 3 4 5 6 7 8 9 : , . — – - [ ] ( ) − + = ® † ‡
-<span class="red"> ↓</span><br>
-H<span class="superiors">0 1 2 3 4 5 6 7 8 9 : , . — – - [ ] ( ) − + = ® † ‡</span><br><br>
-<em>Inferior/Subscript</em><br>
-H 0 1 2 3 4 5 6 7 8 9 : , . — – - [ ] ( ) − + =
-<span class="red"> ↓</span><br>
-H<span class="inferiors">0 1 2 3 4 5 6 7 8 9 : , . — – - [ ] ( ) − + =</span><br><br>
 
 <em>Ordinals</em><br>
-8a 9o <span class="red">→</span> <span class="ordn">8a 9o</span><br><br>
+8a 9o <span class="red">></span> <span class="ordn">8a 9o</span><br><br>
 
-<em>Notational Alternates</em><br>
-123456789 <span class="red">→</span> <span class="nalt">123456789</span><br><br>
 
 <em>Capital Eszett as contexual alternate</em><br>
-<span class="nocalt">AßEN</span> <span class="case"><span class="red">→</span> AßEN</span><br><br>
+<span class="nocalt">AßEN</span> <span class="case"><span class="red">></span> AßEN</span><br><br>
 
 <em>Capital spacing</em><br>
 CAPS 1 2 3 4 5 A B C D SHOULD BREATH A BIT MORE ?<span class="red"> ↓</span><br>
 <span class="cpsp">CAPS 1 2 3 4 5 A B C D SHOULD BREATH A BIT MORE ?</span><br><br>
 
 <em>Case specific forms (centered/scaled to uppercase letters)</em><br>
-n· ¡n¿ {n} [n] (n) —n–n- «n» ‹n› ●n○ ◆n◇ ▪n▫ |n@ <span class="red">↓</span><br>
+n· ¡n¿ {n} [n] (n) —nl–n- «n» ‹n› ●n○ ◆n◇ ▪n▫ |n@ <span class="red">↓</span><br>
 <span class="case">
 H· ¡H¿ {H} [H] (H) —H–H- «H» ‹H› ●H○ ◆H◇ ▪H▫ |H@ </span><br><br>
 
 <em>Dutch ij- and IJ-digraph with acute</em><br>
-íj ÍJ <span class="red">→</span> <span id="lang" lang="nl">íj ÍJ</span><br><br>
+íj ÍJ <span class="red">></span> <span id="lang" lang="nl">íj ÍJ</span><br><br>
 
 <em>Turkish dotted i and dotless ı capitalisation</em><br>
-ı i I İ <span class="red"><span class="case">→</span></span> <font style="text-transform: uppercase;"><span id="lang" lang="tr">ı i I İ</span></font><br><br>
+ı i I İ <span class="red"><span class="case">></span></span> <font style="text-transform: uppercase;"><span id="lang" lang="tr">ı i I İ</span></font><br><br>
 <em>Catalan punt volat</em><br>
-cel·la CEL·LA <span class="smallcaps">CEL·LA</span> <span class="red">→</span> <span id="lang" lang="ca">cel·la CEL·LA <span class="smallcaps">CEL·LA</span></span><br><br>
+cel·la CEL·LA <span class="smallcaps">CEL·LA</span> <span class="red">></span> <span id="lang" lang="ca">cel·la CEL·LA <span class="smallcaps">CEL·LA</span></span><br><br>
 
 <em>Moldovan and Romanian -cedilla</em><br>
-Ş ş Ţ ţ<span class="red"> → </span><span id="lang" lang="ro">Ş ş Ţ ţ</span><br><br>
-
-<em>Discretionary Ligatures (manually activated)</em><br>
-ct st (1) (2) (3) (4) (5) (6) (7) (8) (9) <span class="red"> → </span><span class="dlig">ct st (1) (2) (3) (4) (5) (6) (7) (8) (9) </span><br><br>
+Ş ş Ţ ţ<span class="red"> > </span><span id="lang" lang="ro">Ş ş Ţ ţ</span><br><br>
 
 <em>Ornaments</em><br>
-• ¶ ‘ ’ “ ” <span class="red">→</span><span class="ornm"> • ¶ ‘ ’ “ ”</span><br><br>
+• ¶ ‘ ’ “ ” <span class="red">></span><span class="ornm"> • ¶ ‘ ’ “ ”</span><br><br>
 
-<em>Swashes</em><br>
-A Á Ă Â Ä À Ā Ą Ã E É Ě Ê Ë Ė È Ē Ę<br>
-F L Ĺ Ľ Ļ Ł M N Ń Ň Ņ Ñ R Ŕ Ř Ŗ S T Ť Ţ Ț W<br>
-n ń ň ņ ñ r ŕ ř ŗ t ť ţ ț y ý ÿ<br>
-<span class="red"> ↓</span><br>
-<span class="swsh">A Á Ă Â Ä À Ā Ą Ã E É Ě Ê Ë Ė È Ē Ę</span> <span class="swsh2">E É Ě Ê Ë Ė È Ē Ę</span><br>
-<span class="swsh">F L Ĺ Ľ Ļ Ł M</span> <span class="swsh2">M</span> <span class="swsh">N Ń Ň Ņ Ñ R Ŕ Ř Ŗ</span> <span class="swsh2">R Ŕ Ř Ŗ S T Ť Ţ Ț W<br>
-n ń ň ņ ñ r ŕ ř ŗ t ť ţ ț y ý ÿ</span><br><br>
 
-<em>Contextual Swashes</em><br>
-AFTER<span class="red"> → </span><span class="cswh">AFTER</span><br>
-EARL<span class="red"> → </span><span class="cswh">EARL</span><br>
-FRAME<span class="red"> → </span><span class="cswh">FRAME</span><br>
-RAVEN<span class="red"> → </span><span class="cswh">RAVEN</span><br>
-STARS<span class="red"> → </span><span class="cswh">STARS</span><br>
-Musty<span class="red"> → </span><span class="cswh">Musty</span><br>
-Rort<span class="red"> → </span><span class="cswh">Rort</span><br>
-Winner<span class="red"> → </span><span class="cswh">Winner</span><br>
-Tavern<span class="red"> → </span><span class="cswh">Tavern</span><br>
-<Br>
-
-<em>Titling Alternates</em><br>
-<span style="font-family:Jura-dev01-thin;font-size:32px;line-height:1.2">Ä Ö Ü <span class="red">→</span><span class="titl"> Ä Ö Ü</span></span><br><br>
 
 <h1>Italian</h1>
 <center><em>Antonio Fogazzaro<br>
@@ -473,16 +385,16 @@ La zoologie range la Taupe dans la classe des mammifères, dans l’ordre des ca
 <center><br><br>* * *<br></center>
 
 <h1>Spanish</h1>
-<span class="ss02"><p><em>Gabriel García Márquez «Cien años de soledad»</em><br>
-Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la orilla de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarías con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su carpa cerca de la aldea, y con un grande alboroto de pitos y timbales daban a conocer los nuevos inventos. Primero llevaron el imán. Un gitano corpulento, de barba montaraz y manos de gorrión, que se presentó con el nombre de Melquiades, hizo una truculenta demostración pública de lo que él mismo llamaba la octava maravilla de los sabios alquimistas de Macedonia. Fue de casa en casa arrastrando dos lingotes metálicos, y todo el mundo se espantó al ver que los calderos, las pailas, las tenazas y los anafes se caían de su sitio, y las maderas crujían por la desesperación de los clavos y los tornillos tratando de desenclavarse, y aun los objetos perdidos desde hacía mucho tiempo aparecían por donde más se les había buscado, y se arrastraban en desbandada turbulenta detrás de los fierros mágicos de Melquíades. «Las cosas, tienen vida propia pregonaba el gitano con áspero acento, todo es cuestión de despertarles el ánima.» José Arcadio Buendía, cuya desaforada imaginación iba siempre más lejos que el ingenio de la naturaleza, y aun más allá del milagro y la magia, pensó que era posible servirse de aquella invención inútil para desentrañar el oro de la tierra. Melquíades, que era un hombre honrado, le previno: «Para eso no sirve.» Pero José Arcadio Buendía no creía en aquel tiempo en la honradez de los gitanos, así que cambió su mulo y una partida de chivos por los dos lingotes imantados. Úrsula Iguarán, su mujer, que contaba con aquellos animales para ensanchar el desmedrado patrimonio doméstico, no consiguió disuadirlo. «Muy pronto ha de sobrarnos oro para empedrar la casa», replicó su marido. Durante varios meses se empeñó en demostrar el acierto de sus conjeturas. Exploró palmo a palmo la región, inclusive el fondo del río, arrastrando los dos lingotes de hierro y recitando en voz alta el conjuro de Melquíades. Lo único que logró desenterrar fue una armadura del siglo XV con todas sus partes soldadas por un cascote de óxido, cuyo interior tenía la resonancia hueca de un enorme calabazo lleno de piedras. Cuando José Arcadio Buendía y los cuatro hombres de su expedición lograron desarticular la armadura, encontraron dentro un esqueleto calcificado que llevaba colgado en el cuello un relicario de cobre con un rizo de mujer.
+<p><span class="ss02"><p><em>Gabriel García Márquez «Cien años de soledad»</em><br>
+Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo. Macondo era entonces una aldea de veinte casas de barro y cañabrava construidas a la orilla de un río de aguas diáfanas que se precipitaban por un lecho de piedras pulidas, blancas y enormes como huevos prehistóricos. El mundo era tan reciente, que muchas cosas carecían de nombre, y para mencionarlas había que señalarías con el dedo. Todos los años, por el mes de marzo, una familia de gitanos desarrapados plantaba su carpa cerca de la aldea, y con un grande alboroto de pitos y timbales daban a conocer los nuevos inventos. Primero llevaron el imán. Un gitano corpulento, de barba montaraz y manos de gorrión, que se presentó con el nombre de Melquiades, hizo una truculenta demostración pública de lo que él mismo llamaba la octava maravilla de los sabios alquimistas de Macedonia. Fue de casa en casa arrastrando dos lingotes metálicos, y todo el mundo se espantó al ver que los calderos, las pailas, las tenazas y los anafes se caían de su sitio, y las maderas crujían por la desesperación de los clavos y los tornillos tratando de desenclavarse, y aun los objetos perdidos desde hacía mucho tiempo aparecían por donde más se les había buscado, y se arrastraban en desbandada turbulenta detrás de los fierros mágicos de Melquíades. «Las cosas, tienen vida propia pregonaba el gitano con áspero acento, todo es cuestión de despertarles el ánima.» José Arcadio Buendía, cuya desaforada imaginación iba siempre más lejos que el ingenio de la naturaleza, y aun más allá del milagro y la magia, pensó que era posible servirse de aquella invención inútil para desentrañar el oro de la tierra. Melquíades, que era un hombre honrado, le previno: «Para eso no sirve.» Pero José Arcadio Buendía no creía en aquel tiempo en la honradez de los gitanos, así que cambió su mulo y una partida de chivos por los dos lingotes imantados. Úrsula Iguarán, su mujer, que contaba con aquellos animales para ensanchar el desmedrado patrimonio doméstico, no consiguió disuadirlo. «Muy pronto ha de sobrarnos oro para empedrar la casa», replicó su marido. Durante varios meses se empeñó en demostrar el acierto de sus conjeturas. Exploró palmo a palmo la región, inclusive el fondo del río, arrastrando los dos lingotes de hierro y recitando en voz alta el conjuro de Melquíades. Lo único que logró desenterrar fue una armadura del siglo XV con todas sus partes soldadas por un cascote de óxido, cuyo interior tenía la resonancia hueca de un enorme calabazo lleno de piedras. Cuando José Arcadio Buendía y los cuatro hombres de su expedición lograron desarticular la armadura, encontraron dentro un esqueleto calcificado que llevaba colgado en el cuello un relicario de cobre con un rizo de mujer.</p>
 
 <center><br><br>* * *<br></center>
 
 <div id="lang" lang="ca"><h1>Catalan</h1>
-<p><em>Llorenç Riber «Els camins del paradís perdut»</em><br>
-<span class="case">EN QUINA MANERA VINGUÉ A SANT BRANDAN EL DESIG DE CERCAR EL PARADÍS PERDUT.</span><br>
+<p><em>Llorenç Riber «Els camins del paradís perdut»</em><br></p>
+<span class="case">EN QUINA MANERA VINGUÉ A SANT BRANDAN EL DESIG DE CERCAR EL PARADÍS PERDUT.</span><br><p>
 Mossenyer Sant Brandan fou home de gran penitència i d’estreta abstinència i de molta virtut; i regia, amb l’imperi de sa crossa abacial, una lenta ramada negrejant de tres milia monjos. Una volta s’esdevingué que a l’hora de vespres arribà al monestir que governava el sant abad, un monjo d’edat madura, i de bona vida i d’estranya terra, qui havia nom Barint, i era son nebot. El dit sant Brandan li demanà de moltes coses, ço és, què era estat, què li havia esdevingut; i si mai havia vista o oïda alguna meravella. Com fos que el sant oncle el pregàs molt carament i amorosa, llavors el dit Barint començà a plorar i se gità per terra i s’anegà en profunda oració, en la qual va romandre com esbalaït. Graciosament Sant Brandan el prengué en sos braços i l’aixecà, i li va dir, amb un besar mel·lifluent, aquestes gracioses paraules: —¿Quina és, fill, la causa d’aquesta tan greu fellonia? ¿Creus que el teu adveniment ens ha fet enuig? Certa cosa és que de la teva vinguda gran plaer n’haguérem. Per ço s’és menester que a tots nosaltres donis alegria i consolació, i ens diguis alguna bona paraula de Déu d’on la nostra ànima en pasturi; i que ens recontis les diverses meravelles que veieres en les partides i en les errors de la mar oceana per on navegares llargament.- A l’encariment d’aquesta petició poderosa com un conjur, s’abellí l’esquerp Barint, el qual trencant el silenci, començà a espandir-se en paraules abundants. I va dir:
-<p>—Mon fill Menoc era el procurador dels pobres del Crist. Com fos desitjós de major solitud, fugí del nostre cenobi, i camina, caminaràs, a la bella ventura, trobà una illa, no gaire lluny d’una muntanya, la qual hom anomena Lapifil. Embolcallada per un cel indulgent aquesta illa és sobiranament delitosa. L’amor del cel i la tendra verdor de la terra l’hi retingueren; i hi sojornà gran temps. Durant el qual, arribà fins a mi un novell ardit, ço és, que el monjo fugitiu comandava gran multitud de monjos sota la seva preladia i que Déu mostrava per ell grans signes i miracles. La qual cosa suscità en mon cor irrefrenable enyorament de veure’l; i en vaig pendre el camí. Com ja hi era prop, Déu li revelà l’arribada meva i prevenint-la de tres jorns, m’exí a carrera amb sos germans. Anàvem embarcats en nau. Quan la nau s’acostà a la dita illa, veiérem que de diverses partides, vestits diversament, eixint-nos a camí, venien companyes de monjos, contínues com un formiguer qui emigra; brunzents i denses com un eixam. Diversament vestits i arribant de contrades diverses, emperò combregaven en una fe i en una esperança i en una caritat. Tenien una església on s’ajuntaven per l’ofici divinal. I no menjaven altra cosa sinó pa i nous i arrels d’herba. Cantaven aquests monjos les completes ensems, i després se recloïen en llurs cel·les. Cascún tenia la seva, i allà s’estava en oració fins el prim-son. Al cant primer del gall reposaven una mica. Jo i mon fillol trescàrem tota la illa; i la trescàrem tant que arribàrem a la vorera del mar, a la banda d’occident. Allà tenia ell la nau on s’era embarcat; i me va dir: —Mon pare, muntau en nau i naveguem cap a Llevant, cap a aquella illa que és dita Terra de promissió dels sants, la qual havem de donar als nostres successors qui vindran després de nosaltres.
+</p><p>—Mon fill Menoc era el procurador dels pobres del Crist. Com fos desitjós de major solitud, fugí del nostre cenobi, i camina, caminaràs, a la bella ventura, trobà una illa, no gaire lluny d’una muntanya, la qual hom anomena Lapifil. Embolcallada per un cel indulgent aquesta illa és sobiranament delitosa. L’amor del cel i la tendra verdor de la terra l’hi retingueren; i hi sojornà gran temps. Durant el qual, arribà fins a mi un novell ardit, ço és, que el monjo fugitiu comandava gran multitud de monjos sota la seva preladia i que Déu mostrava per ell grans signes i miracles. La qual cosa suscità en mon cor irrefrenable enyorament de veure’l; i en vaig pendre el camí. Com ja hi era prop, Déu li revelà l’arribada meva i prevenint-la de tres jorns, m’exí a carrera amb sos germans. Anàvem embarcats en nau. Quan la nau s’acostà a la dita illa, veiérem que de diverses partides, vestits diversament, eixint-nos a camí, venien companyes de monjos, contínues com un formiguer qui emigra; brunzents i denses com un eixam. Diversament vestits i arribant de contrades diverses, emperò combregaven en una fe i en una esperança i en una caritat. Tenien una església on s’ajuntaven per l’ofici divinal. I no menjaven altra cosa sinó pa i nous i arrels d’herba. Cantaven aquests monjos les completes ensems, i després se recloïen en llurs cel·les. Cascún tenia la seva, i allà s’estava en oració fins el prim-son. Al cant primer del gall reposaven una mica. Jo i mon fillol trescàrem tota la illa; i la trescàrem tant que arribàrem a la vorera del mar, a la banda d’occident. Allà tenia ell la nau on s’era embarcat; i me va dir: —Mon pare, muntau en nau i naveguem cap a Llevant, cap a aquella illa que és dita Terra de promissió dels sants, la qual havem de donar als nostres successors qui vindran després de nosaltres.</p>
 
 <center><br><br>* * *<br></center>
 
@@ -519,8 +431,8 @@ Er schrieb sie freilich gerade in der Zeit, als jener heiße Kampf entbrannte; d
 
 <h1>English</h1>
 <p><em>Francis Henry Gribble “Lausanne”</em><br>
-Though Lausanne is so near Geneva, its history, in historical times, has been widely different from that of the neighbouring town. Geneva enjoyed a modified independence from an early date, and became completely independent early in the sixteenth century. Lausanne, until nearly 300 years later, endured the domination, first of Savoy, and subsequently of Berne. <span class="red">¶</span> The early history is obscure and full of vexed questions as well as unfamiliar names; but the central fact is that the Counts of Savoy—they were not promoted to be Dukes of Savoy until later—took possession of the Canton of Vaud, as well as of the Chablais and the lower Valais, after the death of the last of the Zaeringen, at the beginning of the thirteenth century. For the next 300 years they exercised overlordship, limited by the charters of the towns, and, in the case of Lausanne, by the jurisdiction of the Bishop—a complicated state of things which the Swiss historical societies may be left to unravel. <span class="red">¶</span> It seems clear, however, that the Savoyards were no hard taskmasters. ‘The country of Vaud,’ says its historian, Louis Vulliemin, ‘was happy and proud to belong to them. They exacted little from it, and accorded it their powerful protection. The various States used to assemble at Moudon, the central town, summoned by the Council of Moudon, or by the Governor of Vaud, acting as the representative of the Prince. There was no palace. They met in an inn, or in the house of one of the citizens of the neighbourhood. Often they assembled in such small numbers that, for lack of a quorum, no decision could be taken… No burdensome or unduly progressive measures were adopted. As a rule, the good old customs were confirmed. When a departure from them was resolved upon, it became law by receiving the sanction of the Prince. The business of the herald was to see that it was proclaimed, in the proper places, in a loud and intelligible voice. The Prince had sworn an oath to impose no new legislation that was not in accordance with the will of the nation as expressed by the estates of the realm.’ <span class="red">¶</span> The most notable of the Governors was Peter of Savoy—the same Peter of Savoy whom we meet in English history, fighting in the civil wars of the days of Simon de Montfort. His headquarters were in the Castle of Chillon, where he not only dispensed justice, but also amended the criminal law. It was the barbarous rule of the time that an offender who had been fined for a misdemeanour should have his nose cut off if he were unable to pay; Peter compelled even the Bishops to abandon that cruel custom. For the rest, to quote Vulliemin: ‘He received his vassals in the great hall of the Castle, where their coats of arms hung on the wall around that of the House of Savoy. The blowing of a horn announced that the meal was served. The ladies arrived in their emblazoned best. The chaplain read the grace from a volume bound in violet and gold—the precious depositary of Divine law and ecclesiastical ritual. After the feast came the hour of merry recreations. The Court fool and the minstrels took their seats by the side of the Prince, and the nobility thus passed their lives in junketing.’<br><br>
-<center><br><br>* * *<br></center>
+Though Lausanne is so near Geneva, its history, in historical times, has been widely different from that of the neighbouring town. Geneva enjoyed a modified independence from an early date, and became completely independent early in the sixteenth century. Lausanne, until nearly 300 years later, endured the domination, first of Savoy, and subsequently of Berne. ¶ The early history is obscure and full of vexed questions as well as unfamiliar names; but the central fact is that the Counts of Savoy—they were not promoted to be Dukes of Savoy until later—took possession of the Canton of Vaud, as well as of the Chablais and the lower Valais, after the death of the last of the Zaeringen, at the beginning of the thirteenth century. For the next 300 years they exercised overlordship, limited by the charters of the towns, and, in the case of Lausanne, by the jurisdiction of the Bishop—a complicated state of things which the Swiss historical societies may be left to unravel. ¶ It seems clear, however, that the Savoyards were no hard taskmasters. ‘The country of Vaud,’ says its historian, Louis Vulliemin, ‘was happy and proud to belong to them. They exacted little from it, and accorded it their powerful protection. The various States used to assemble at Moudon, the central town, summoned by the Council of Moudon, or by the Governor of Vaud, acting as the representative of the Prince. There was no palace. They met in an inn, or in the house of one of the citizens of the neighbourhood. Often they assembled in such small numbers that, for lack of a quorum, no decision could be taken… No burdensome or unduly progressive measures were adopted. As a rule, the good old customs were confirmed. When a departure from them was resolved upon, it became law by receiving the sanction of the Prince. The business of the herald was to see that it was proclaimed, in the proper places, in a loud and intelligible voice. The Prince had sworn an oath to impose no new legislation that was not in accordance with the will of the nation as expressed by the estates of the realm.’ ¶ The most notable of the Governors was Peter of Savoy—the same Peter of Savoy whom we meet in English history, fighting in the civil wars of the days of Simon de Montfort. His headquarters were in the Castle of Chillon, where he not only dispensed justice, but also amended the criminal law. It was the barbarous rule of the time that an offender who had been fined for a misdemeanour should have his nose cut off if he were unable to pay; Peter compelled even the Bishops to abandon that cruel custom. For the rest, to quote Vulliemin: ‘He received his vassals in the great hall of the Castle, where their coats of arms hung on the wall around that of the House of Savoy. The blowing of a horn announced that the meal was served. The ladies arrived in their emblazoned best. The chaplain read the grace from a volume bound in violet and gold—the precious depositary of Divine law and ecclesiastical ritual. After the feast came the hour of merry recreations. The Court fool and the minstrels took their seats by the side of the Prince, and the nobility thus passed their lives in junketing.’<br><br>
+<center><br><br>* * *<br></center></p>
 
 <h1>English</h1>
 <p><em>“Copyright Act of 1790” the United States government</em><br><br>
@@ -669,6 +581,17 @@ U malenoj, ispratoj flašici poslao je Arsen nekoliko pljuvački na analizu svoj
 “Geceliğin kolu da, sırtım da… Bütün sınıf da… Çarşaflar da… Of, of, of, bütün yatak da sırılsıklam! Evet, her şey sırılsıklam ve ben uyandım!” diye mırıldandı Cevdet Bey. Her şey az önce gördüğü rüyadaki gibi sırılsıklamdı. Yatağında homurdanarak döndü, rüyayı hatırladı ve korktu. Rüyada, Kula’daki sübyan mektebinde hocanın karşısında oturuyordu. Başını ıslak yastıktan kaldırıp doğruldu. “Evet, hocanın karşısında oturuyorduk. Bütün okul diz boyu suya gömülmüştü,” diye söylendi. “Niye gö­ mülmüştü?” Çünkü okulun tavanı akıyordu. Tavandan akan tuzlu sular benim alnımdan ve göğsümden dökülüyor, bütün odaya yayılıyordu. Hoca da değneği ile bütün sınıfa beni gös­ teriyor, “Hep bu Cevdet’in yüzünden,” diyordu. Hocanın değ- neğiyle kendisini nasıl gösterdiğini, bütün arkadaşlarının dönüp suçlayarak ve küçümseyerek kendisine nasıl baktıklarını, kendisinden iki yaş büyük ağbisinin de herkesten çok kendisini küçümsediğini gözünün önünde canlandırınca ürperdi. Ama gözünü kırpmadan bütün sınıfı bir solukta falakadan geçiren, bir tokatla bir oğlanı bayıltan hoca, bir türlü gelip tavandan akan sular için kendisini cezalandırmıyordu. Cevdet Bey, “Herkesten başkaydım, yalnızdım, beni küçümsüyorlardı,” diye düşündü.
 <p>“Ama hiçbiri gelip bana dokunmaya cesaret edemiyor, sular da bütün okulu döktürüyordu!” Korkunç rüya bir anda neşeli ve hoş bir anı oluverdi: “Ben başkaydım, yalnızdım, ama beni cezalandıramıyorlardı.” Bir kere okulun damına çıkıp, kiremitleri kırdığını hatırlayarak ayağa kalktı. “Kiremitleri kırmıştım. Kaç yaşındaydım? Yedi yaşındaydım. Şimdi otuzyediyim, nişanlandım, yakında evleneceğim.” Nişanlısını hatırlayınca heyecanlandı. “Evet, yakında evleneceğim, sonra… Aman hâlâ oyalanıyorum! Geç kaldım!” Vakti anlamak için önce pencereye koştu, perdelerin arasından dışarıya baktı. Dışarıda tuhaf bir ışık ve sis vardı. Güneşin doğduğunu anladı. Sonra bu eski alışkanlığına kızarak dönüp, saatine baktı: Alaturka yarım. “Aman, aman geç kal­ mayayım!” diye söylenerek helaya koştu.
 <p>Yıkanıp temizlenince neşesi daha da arttı. Tıraş olurken gene rüyayı düşündü. Sonra Şükrü Paşa’nın konağına gideceğini hatırlayıp, o yeni ve temiz pantolonla ceketi, yakası kolalı kartonlaşmış gömleği ve zarif bulduğu kravatı taktı. Başına nişan töreninden önce kalıplattığı fesini oturttu. Küçük masa aynasında kendini seyretti ve istediği gibi olduğuna karar verdi, ama gene de içinde bir hüzün uyandı. Bütün bu şık kıyafette, nişanlısının konağına gideceği için telâşlanmasında gülünç birşeyler ol­ malıydı. Bu küçük ve zararsız hüzünle perdeleri açtı. Sis Şeh- zadebaşı Camii’nin minarelerini örtmüş, ama kubbeyi gizleye­ memişti. Yan bahçedeki çardak her zamankinden daha yeşildi. “Sıcak bir gün olacak!” diye düşündü. Çardağın altında bir kedi ağır ağır yalanıyordu. Cevdet Bey bir şey hatırlayarak pencereden uzandı ve gördü: Kupa arabası da gelmiş, evin önünde durmuştu. Atlar kuyruklarını sallıyorlar, Cevdet Bey’i bekleyen arabacı kapının önünde sigara içiyordu. Cevdet Bey hatırladığı sigara paketini ve çakmağını, cüzdanını ve bir kere daha baktığı saatini ceplerine yerleştirerek odadan çıktı.
+</p></div>
+<center><br><br>* * *<br></center>
+
+
+
+<div id="lang" lang="vt"><h1>Vietnamese</h1>
+<p><em>Thần đồng Lê Quý Đôn làm bài thơ về Rắn</em><br>
+ượng Lê Quý Đôn tại Trường THCS Lê Quý Đôn, Tp Hải Dương. Ảnh Bảo Ngọc Theo sử sách ghi lại, Lê Quý Đôn (1726 - 1784) thuở nhỏ tên là Lê Danh Phương, tự Doãn Hậu, hiệu Quế Đường; làm quan thời Lê trung hưng, là nhà thơ, và là "bác học lớn của Việt Nam trong thời phong kiến". Ngay từ nhỏ đã nổi tiếng là thần đồng, trở thành giai thoại và truyền thuyết về trí mẫn tiệp và óc thông minh, xuất chúng của ông.
+</p><p>
+Theo giai thoại ở vùng Duyên Hà (Thái Bình), quê hương Lê Danh Phương có rất nhiều ao rộng, hồ sâu. Lê Danh Phương thường cùng bọn trẻ trong làng xuống ao trước cổng làng để tắm. Tuổi thơ tinh nghịch đang say sưa với trò nhảy trội, cậu nào cũng mình trần như nhộng, đứng xếp hàng ở bờ ao nghe "hiệu lệnh", tất cả nhảy tùm xuống nước, lặn ngụp thỏa thích rồi lên bờ xếp hàng, cứ thế nhảy trội cuốn hút bọn trẻ trong làng.
+Một hôm giữa trưa hè nóng bức, Tiến sĩ Vũ Công Trấn đến thăm Tiến sĩ Lê Phú Thứ là người bạn cùng đỗ Tiến sĩ khoa Giáp Thìn 1724 (sau đổi là Lê Trọng Thứ), Lê Danh Phương cùng bọn trẻ đang chơi trò nhảy trội thì có viên quan đi qua, tất cả bọn trẻ không có áo quần sợ quá nhảy tùm xuống ao lặn ngụp. Riêng Lê Danh Phương vẫn đứng trên bờ, không hề thẹn thùng. Cậu bé kháu khỉnh này hai tay chắp ra đằng sau, mắt đau đáu nhìn quan Thượng thư tinh nghịch. Quan Thượng thư thấy Lê Danh Phương đứng đó liền hỏi thăm đường...
 </p></div>
 <center><br><br>* * *<br></center>
 

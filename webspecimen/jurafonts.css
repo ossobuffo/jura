@@ -28,70 +28,51 @@ html {
   font-weight: 300;
   src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
 }
-
-@font-face {
-    font-family: 'Jura-dev01-Ultrabold';
-    src: url('webfonts/Jura-dev01-UltraBold.ttf') format('truetype');
-    font-weight: 800;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Jura-dev01-Bold';
-    src: url('webfonts/Jura-dev01-Bold.ttf') format('truetype');
-    font-weight: 700;
+	@font-face {
+    font-family: 'Jura-v3-Bold';
+    src: url('webfonts/Jura-v3-Bold.ttf') format('truetype');
+    font-weight: 600;
     font-style: normal;
 }
 	@font-face {
-    font-family: 'Jura-dev01-SemiBold';
-    src: url('webfonts/Jura-dev01-SemiBold.ttf') format('truetype');
+    font-family: 'Jura-v3-Semi-Bold';
+    src: url('webfonts/Jura-v3-Semi-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-Medium';
-    src: url('webfonts/Jura-dev01-Medium.ttf') format('truetype');
+    font-family: 'Jura-v3-Medium';
+    src: url('webfonts/Jura-v3-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-Regular';
-    src: url('webfonts/Jura-dev01-Regular.ttf') format('truetype');
+    font-family: 'Jura-v3-Regular';
+    src: url('webfonts/Jura-v3-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-dev01-Light';
-    src: url('webfonts/Jura-dev01-Light.ttf') format('truetype');
+    font-family: 'Jura-v3-Light';
+    src: url('webfonts/Jura-v3-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
-@font-face {
-    font-family: 'Jura-dev01-Thin';
-    src: url('webfonts/Jura-dev01-Thin.ttf') format('truetype');
-    font-weight: 200;
-    font-style: normal;
-}
 
-.Jura-dev01-Thin {
-	font-family: 'Jura-dev01-Thin';
+.Jura-v3-Light {
+	font-family: 'Jura-v3-Light';
 }
-.Jura-dev01-Light {
-	font-family: 'Jura-dev01-Light';
+.Jura-v3-Regular {
+	font-family: 'Jura-v3-Regular';
 }
-.Jura-dev01-Regular {
-	font-family: 'Jura-dev01-Regular';
+.Jura-v3-Medium {
+	font-family: 'Jura-v3-Medium';
 }
-.Jura-dev01-Medium {
-	font-family: 'Jura-dev01-Medium';
+.Jura-v3-Semi-Bold {
+	font-family: 'Jura-v3-Semi-Bold';
 }
-.Jura-dev01-SemiBold {
-	font-family: 'Jura-dev01-SemiBold';
-}
-.Jura-dev01-Bold {
-	font-family: 'Jura-dev01-Bold';
-}
-.Jura-dev01-UltraBold {
-	font-family: 'Jura-dev01-UltraBold';
+.Jura-v3-Bold {
+	font-family: 'Jura-v3-Bold';
 }
 .fractions {
 	-moz-font-feature-settings:"frac" 1, "kern" 1; 
