@@ -2,9 +2,18 @@
 # encoding: utf-8
 # Copyright: Georg Seifert, 2010, www.schriftgestaltung.de Version 1.0
 # Copyright: Alexei Vanyashin, 2016, www.cyreal.org Version 1.01
-# This script is derived from Georg Seifert's 'Set Kerning Groups located at 'https://github.com/schriftgestalt/Glyphs-Scripts/blob/master/Metrics%20%26%20Classes/set%20Kerning%20Groups.py
-# It is reworked to include kerning classes for GF Latin Plus Encoding. 
- 
+#
+#-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
+#
+# This script is derived from Georg Seifert's 'Set Kerning Groups'
+# located at 
+# https://github.com/schriftgestalt/Glyphs-Scripts/blob/master/Metrics%20%26%20Classes/set%20Kerning%20Groups.py
+#
+# It is reworked to include kerning classes for the GF Latin Plus Encoding. 
+# 
+#-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:-:
+
+
 import sys
 import os
 from GlyphsApp import *
@@ -853,7 +862,7 @@ DefaultKeys = {
 	"dcroat": ["o","hbar"],
 	"dz": ["o","z"],
 	"dzcaron": ["o","z"],
-	"e": ["e","e"],
+	"e": ["o","e"],
 	"eacute": ["o","e"],
 	"ebreve": ["o","e"],
 	"ecaron": ["o","e"],
@@ -883,24 +892,24 @@ DefaultKeys = {
 	"h": ["h","n"],
 	"hbar": ["hbar","hbar"],
 	"hcircumflex": ["h","n"],
-	"i": ["i","i"],
-	"idotless": ["n","u"],
-	"iacute": ["i","i"],
-	"ibreve": ["i","i"],
-	"icircumflex": ["i","i"],
-	"idblgrave": ["i","i"],
-	"idieresis": ["i","i"],
-	"idotaccent": ["i","i"],
-	"idotbelow": ["i","i"],
-	"igrave": ["i","i"],
-	"ihookabove": ["i","i"],
-	"iinvertedbreve": ["i","i"],
-	"imacron": ["i","i"],
-	"iogonek": ["i","i"],
-	"itilde": ["i","i"],
-	"j": ["j","j"],
-	"jdotless": ["jdotless","idotless"],
-	"jcircumflex": ["j","j"],
+	"i": ["idotless","idotless"],
+	"idotless": ["idotless","idotless"],
+	"iacute": ["idotless","idotless"],
+	"ibreve": ["idotless","idotless"],
+	"icircumflex": ["idotless","idotless"],
+	"idblgrave": ["idotless","idotless"],
+	"idieresis": ["idotless","idotless"],
+	"idotaccent": ["idotless","idotless"],
+	"idotbelow": ["idotless","idotless"],
+	"igrave": ["idotless","idotless"],
+	"ihookabove": ["idotless","idotless"],
+	"iinvertedbreve": ["idotless","idotless"],
+	"imacron": ["idotless","idotless"],
+	"iogonek": ["idotless","idotless"],
+	"itilde": ["idotless","idotless"],
+	"j": ["jdotless","jdotless"],
+	"jdotless": ["jdotless","jdotless"],
+	"jcircumflex": ["jdotless","jdotless"],
 	"k": ["h","k"],
 	"kcommaaccent": ["h","k"],
 	"kgreenlandic": ["n","k"],
@@ -1332,7 +1341,7 @@ def updateKeyGlyphsForSelected():
 def main():
  	print "*** Start Update Key Glyphs ***\n"
 	updateKeyGlyphsForSelected()
-	print "*** Ende ****"
+	print "*** End ****"
 	
 def test():
 	NewDefaultKeys = {}
