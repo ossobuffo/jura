@@ -1,0 +1,94 @@
+INFO     OK: /Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf is named canonically  
+ERROR    '/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf' is missing a METADATA.pb file!  
+INFO     OK: /Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf opened with fontTools  
+INFO     OK: Font has post table version 2.  
+INFO     OK: fsType is zero.  
+INFO     OK: Main entries in the name table conform to expected format.  
+INFO     OK: OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?  
+INFO     OK: No need to substitute copyright, registered and trademark symbols in name table entries of this font.  
+INFO     OK: OS/2 usWeightClass  
+INFO     HOTFIXED: fsSelection REGULAR bit Fixes: OS/2 fsSelection from 64 to 0  
+INFO     OK: post table italicAngle is 0.0  
+INFO     OK: OK: post table italicAngle is less than 20 degrees.  
+INFO     OK: post table italicAngle matches style name  
+INFO     OK: fsSelection ITALIC bit  
+INFO     OK: macStyle ITALIC bit  
+INFO     OK: fsSelection BOLD bit  
+INFO     OK: macStyle BOLD bit  
+INFO     OK: Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'  
+INFO     OK: licensing entry on name table is correctly set.  
+INFO     OK: Namerecord 10s (descriptions) do not exist.  
+INFO     HOTFIXED: Jura-Medium.ttf: Warning: Windows-only Opentype-specific StyleName set to "Regular" as a default value. Please verify if this is correct.  
+INFO     OK: Font is not monospaced.  
+INFO     OK: xAvgCharWidth is correct.  
+WARNING  ftxvalidator is not available.  
+INFO     OK: ot-sanitise passed this file  
+The following table(s) in the font have been ignored by FontForge
+  Ignoring 'DSIG' digital signature table
+Warning: Mac string is a subset of the Windows string in the 'name' table
+ for the Family string in the English (US) language.
+Warning: Mac and Windows entries in the 'name' table differ for the
+ SubFamily string in the language English (US)
+ Mac String: Medium
+Windows String: Regular
+Warning: Mac and Windows entries in the 'name' table differ for the
+ Fullname string in the language English (US)
+ Mac String: Jura Medium
+Windows String: Jura-Medium
+INFO     OK: fontforge-check: Contours are closed.  
+INFO     OK: fontforge-check: Contours do not intersect.  
+INFO     OK: fontforge-check: Contours have correct directions.  
+INFO     OK: fontforge-check: References in the glyph haven't been flipped.  
+INFO     OK: fontforge-check: Glyphs have points at extremas.  
+INFO     OK: fontforge-check: Glyph names referred to from glyphs present in the font.  
+INFO     OK: fontforge-check: Points (or control points) are not too far apart.  
+INFO     OK: fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit).  
+INFO     OK: fontforge-check: PostScript hasnt a limit of 96 hints in glyphs  
+INFO     OK: fontforge-check: Font doesn't have invalid glyph names.  
+INFO     OK: fontforge-check: Glyphs have allowed numbers of points defined in maxp.  
+INFO     OK: fontforge-check: Glyphs have allowed numbers of paths defined in maxp.  
+INFO     OK: fontforge-check: Composite glyphs have allowed numbers of points defined in maxp.  
+INFO     OK: fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp.  
+INFO     OK: fontforge-check: Glyphs instructions have valid lengths.  
+INFO     OK: fontforge-check: Points in glyphs are integer aligned.  
+INFO     OK: fontforge-check: Glyphs have all required anchors.  
+INFO     OK: fontforge-check: Glyph names are unique.  
+INFO     OK: fontforge-check: Unicode code points are unique.  
+INFO     OK: fontforge-check: Hinds do not overlap.  
+INFO     OK: Vertical metrics.  
+INFO     HOTFIXED: Font version fields. Fixes: NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;' | NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;'  
+INFO     OK: Digital Signature (DSIG) exists.  
+INFO     OK: Font contains glyphs for whitespace characters.  
+INFO     OK: Font has **proper** whitespace glyph names.  
+INFO     OK: Jura-Medium.ttf space 270 nbsp 270  
+INFO     OK: Check no problematic formats.   
+INFO     OK: There are no unwanted tables.  
+INFO     INFO: Hinting filesize impact:
+
+|  | Jura-Medium.ttf |
+|----------|----------|----------|
+| Dehinted Size | 94kb |
+| Hinted Size | 94kb |
+| Increase | 456 bytes |
+| Change   | 0.47 % |
+  
+INFO     OK: Version format in NAME table is correct.  
+INFO     OK: Glyph names are all valid.  
+INFO     OK: Font contains unique glyph names.  
+INFO     OK: Font does not have any incorrectly named glyph.  
+INFO     OK: EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818  
+INFO     OK: GASP table is correctly set.  
+INFO     OK: GPOS table has got kerning information.  
+INFO     OK: Font does not declare a 'KERN' table.  
+ERROR    Font family name 'Jura' does not begin with full font name 'Jura Medium'  
+INFO     SKIP: Not a CFF font.  
+INFO     OK: Font has 'EURO SIGN' character.  
+INFO     OK: Font follows the family naming recommendations.  
+ERROR    Failed to find correct magic code in PREP table.  
+INFO     OK: MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables.  
+ERROR    Entries in "name" table are not the same across specific platforms.  
+ERROR    There are 2 strings containing non-ASCII characters in the ASCII-only NAME table entries.  
+INFO     OK: Font has a valid license URL.  
+INFO     OK: Font em size is equal to 1000.  
+ERROR    Jura-Medium.ttf is missing a METADATA.pb file!  
+INFO     Jura-Medium.fix saved

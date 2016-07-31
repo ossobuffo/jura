@@ -97,7 +97,7 @@ alphabetical order.
 N: Alexei Vanyashin
 E: a at cyreal dot org
 W: http://www.cyreal.org
-D: Contributor, designer of version 3
+D: Designer of version 3
 
 N: Daniel Johnson (font maintainer)
 E: il.basso.buffo at gmail dot com

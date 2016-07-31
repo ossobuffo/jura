@@ -2,7 +2,7 @@
     {
         "description": "Checking files are named canonically",
         "log_messages": [
-            "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf is named canonically"
+            "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf is named canonically"
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura"
@@ -13,7 +13,7 @@
             "Font has post table version 2."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking OS/2 fsType",
@@ -21,7 +21,7 @@
             "fsType is zero."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Assure valid format for the main entries in the name table.",
@@ -29,7 +29,7 @@
             "Main entries in the name table conform to expected format."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking OS/2 achVendID",
@@ -37,7 +37,7 @@
             "OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "substitute copyright, registered and trademark symbols in name table entries",
@@ -45,7 +45,7 @@
             "No need to substitute copyright, registered and trademark symbols in name table entries of this font."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking OS/2 usWeightClass",
@@ -53,15 +53,15 @@
             "OS/2 usWeightClass"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking fsSelection REGULAR bit",
         "log_messages": [
-            "fsSelection REGULAR bit"
+            "HOTFIX: fsSelection REGULAR bit Fixes: OS/2 fsSelection from 64 to 0"
         ],
-        "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "HOTFIX",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking that italicAngle <= 0",
@@ -69,7 +69,7 @@
             "post table italicAngle is 0.0"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking that italicAngle is less than 20 degrees",
@@ -77,7 +77,7 @@
             "OK: post table italicAngle is less than 20 degrees."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking if italicAngle matches font style",
@@ -85,7 +85,7 @@
             "post table italicAngle matches style name"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking fsSelection ITALIC bit",
@@ -93,7 +93,7 @@
             "fsSelection ITALIC bit"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking macStyle ITALIC bit",
@@ -101,7 +101,7 @@
             "macStyle ITALIC bit"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking fsSelection BOLD bit",
@@ -109,7 +109,7 @@
             "fsSelection BOLD bit"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking macStyle BOLD bit",
@@ -117,24 +117,23 @@
             "macStyle BOLD bit"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Check font has a license",
         "log_messages": [
-            "ERROR: More than a single license file found. Please review."
+            "Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'"
         ],
-        "result": "ERROR",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Check copyright namerecords match license file",
         "log_messages": [
-            "HOTFIX: License file LICENSE.txt exists but NameID 13 (LICENSE DESCRIPTION) value is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\"",
-            "HOTFIX: License file LICENSE.txt exists but NameID 13 (LICENSE DESCRIPTION) value is not specified for that. Value was: \"This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\""
+            "licensing entry on name table is correctly set."
         ],
-        "result": "HOTFIX",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "name record 10s (descriptions) are reasonable?",
@@ -142,15 +141,15 @@
             "Namerecord 10s (descriptions) do not exist."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "StyleName recommendation",
         "log_messages": [
-            "HOTFIX: Jura-Regular.ttf: Windows-only Opentype-specific StyleName set to \"Regular\"."
+            "HOTFIX: Jura-Medium.ttf: Warning: Windows-only Opentype-specific StyleName set to \"Regular\" as a default value. Please verify if this is correct."
         ],
         "result": "HOTFIX",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking if the font is truly monospaced",
@@ -158,7 +157,7 @@
             "Font is not monospaced."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Check if xAvgCharWidth is correct.",
@@ -166,7 +165,7 @@
             "xAvgCharWidth is correct."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking with ftxvalidator",
@@ -174,7 +173,7 @@
             "Warning: ftxvalidator is not available."
         ],
         "result": "WARNING",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking with ot-sanitise",
@@ -182,7 +181,7 @@
             "ot-sanitise passed this file"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -190,7 +189,7 @@
             "fontforge-check: Contours are closed."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -198,7 +197,7 @@
             "fontforge-check: Contours do not intersect."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -206,7 +205,7 @@
             "fontforge-check: Contours have correct directions."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -214,7 +213,7 @@
             "fontforge-check: References in the glyph haven't been flipped."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: False",
@@ -222,7 +221,7 @@
             "fontforge-check: Glyphs have points at extremas."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -230,7 +229,7 @@
             "fontforge-check: Glyph names referred to from glyphs present in the font."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -238,7 +237,7 @@
             "fontforge-check: Points (or control points) are not too far apart."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -246,7 +245,7 @@
             "fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit)."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -254,15 +253,15 @@
             "fontforge-check: PostScript hasnt a limit of 96 hints in glyphs"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
-        "description": "fontforge-check: False",
+        "description": "fontforge-check: True",
         "log_messages": [
             "fontforge-check: Font doesn't have invalid glyph names."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -270,7 +269,7 @@
             "fontforge-check: Glyphs have allowed numbers of points defined in maxp."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -278,7 +277,7 @@
             "fontforge-check: Glyphs have allowed numbers of paths defined in maxp."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -286,7 +285,7 @@
             "fontforge-check: Composite glyphs have allowed numbers of points defined in maxp."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -294,7 +293,7 @@
             "fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -302,7 +301,7 @@
             "fontforge-check: Glyphs instructions have valid lengths."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -310,7 +309,7 @@
             "fontforge-check: Points in glyphs are integer aligned."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -318,7 +317,7 @@
             "fontforge-check: Glyphs have all required anchors."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -326,7 +325,7 @@
             "fontforge-check: Glyph names are unique."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -334,7 +333,7 @@
             "fontforge-check: Unicode code points are unique."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "fontforge-check: True",
@@ -342,23 +341,23 @@
             "fontforge-check: Hinds do not overlap."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking vertical metrics",
         "log_messages": [
-            "HOTFIX: Vertical metrics. Fixes: hhea ascent from 1000 to 1067 | OS/2 sTypoAscender from 693 to 1067 | OS/2 usWinAscent from 1000 to 1067 | hhea descent from -200 to -213 | OS/2 sTypoDescender from -200 to -213 | OS/2 usWinDescent from 200 to 213 | OS/2 sTypoLineGap from 307 to 0"
+            "Vertical metrics."
         ],
-        "result": "HOTFIX",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Checking font version fields",
         "log_messages": [
-            "HOTFIX: Font version fields. Fixes: NAMEID_VERSION_STRING from 'Version 3.001' to 'Version 3.00099;' | NAMEID_VERSION_STRING from 'Version 3.001' to 'Version 3.00099;'"
+            "HOTFIX: Font version fields. Fixes: NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;' | NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;'"
         ],
         "result": "HOTFIX",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Digital Signature exists?",
@@ -366,7 +365,7 @@
             "Digital Signature (DSIG) exists."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font contains glyphs for whitespace characters?",
@@ -374,7 +373,7 @@
             "Font contains glyphs for whitespace characters."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font has **proper** whitespace glyph names?",
@@ -382,15 +381,15 @@
             "Font has **proper** whitespace glyph names."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Whitespace glyphs have ink?",
         "log_messages": [
-            "Jura-Regular.ttf space 250 nbsp 250"
+            "Jura-Medium.ttf space 270 nbsp 270"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Check no problematic formats",
@@ -398,7 +397,7 @@
             "Check no problematic formats. "
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Are there unwanted tables?",
@@ -406,15 +405,15 @@
             "There are no unwanted tables."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Show hinting filesize impact",
         "log_messages": [
-            "Hinting filesize impact:\n\n|  | Jura-Regular.ttf |\n|----------|----------|----------|\n| Dehinted Size | 93kb |\n| Hinted Size | 94kb |\n| Increase | 448 bytes |\n| Change   | 0.46 % |\n"
+            "Hinting filesize impact:\n\n|  | Jura-Medium.ttf |\n|----------|----------|----------|\n| Dehinted Size | 94kb |\n| Hinted Size | 94kb |\n| Increase | 456 bytes |\n| Change   | 0.47 % |\n"
         ],
         "result": "INFO",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Version format is correct in NAME table?",
@@ -422,7 +421,7 @@
             "Version format in NAME table is correct."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Glyph names are all valid?",
@@ -430,7 +429,7 @@
             "Glyph names are all valid."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font contains unique glyph names?",
@@ -438,7 +437,7 @@
             "Font contains unique glyph names."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "No glyph is incorrectly named?",
@@ -446,7 +445,7 @@
             "Font does not have any incorrectly named glyph."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "EPAR table present in font?",
@@ -454,7 +453,7 @@
             "EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818"
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Is GASP table correctly set?",
@@ -462,7 +461,7 @@
             "GASP table is correctly set."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Does GPOS table have kerning information?",
@@ -470,7 +469,7 @@
             "GPOS table has got kerning information."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Is there a 'KERN' table declared in the font?",
@@ -478,15 +477,15 @@
             "Font does not declare a 'KERN' table."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Does full font name begin with the font family name?",
         "log_messages": [
-            "Full font name begins with the font family name."
+            "ERROR: Font family name 'Jura' does not begin with full font name 'Jura Medium'"
         ],
-        "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Is there any unused data at the end of the glyf table?",
@@ -494,7 +493,7 @@
             "Not a CFF font."
         ],
         "result": "SKIP",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font has 'EURO SIGN' character?",
@@ -502,7 +501,7 @@
             "Font has 'EURO SIGN' character."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font follows the family naming recommendations?",
@@ -510,7 +509,7 @@
             "Font follows the family naming recommendations."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font contains magic code in PREP table?",
@@ -518,7 +517,7 @@
             "ERROR: Failed to find correct magic code in PREP table."
         ],
         "result": "ERROR",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables?",
@@ -526,7 +525,7 @@
             "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font names are consistent across platforms?",
@@ -534,15 +533,15 @@
             "ERROR: Entries in \"name\" table are not the same across specific platforms."
         ],
         "result": "ERROR",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
         "log_messages": [
-            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
+            "ERROR: There are 2 strings containing non-ASCII characters in the ASCII-only NAME table entries."
         ],
-        "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Font has a valid license url ?",
@@ -550,7 +549,7 @@
             "Font has a valid license URL."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
         "description": "Is font em size (ideally) equal to 1000?",
@@ -558,6 +557,6 @@
             "Font em size is equal to 1000."
         ],
         "result": "OK",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     }
 ]
