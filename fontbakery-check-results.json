@@ -2,10 +2,1974 @@
     {
         "description": "Checking files are named canonically",
         "log_messages": [
-            "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf is named canonically"
+            "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf is named canonically",
+            "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf is named canonically",
+            "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf is named canonically",
+            "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf is named canonically",
+            "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf is named canonically"
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font designer field is 'unknown' ?",
+        "log_messages": [
+            "Font designer field is not 'unknown'."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent underline thickness?",
+        "log_messages": [
+            "Fonts have consistent underline thickness."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE proportion?",
+        "log_messages": [
+            "Fonts have consistent PANOSE proportion."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE family type?",
+        "log_messages": [
+            "Fonts have consistent PANOSE family type."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal numbers of glyphs?",
+        "log_messages": [
+            "Fonts have equal numbers of glyphs."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal glyph names?",
+        "log_messages": [
+            "ERROR: Fonts have different glyph names."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal unicode encodings?",
+        "log_messages": [
+            "Fonts have equal unicode encodings."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font designer field is 'unknown' ?",
+        "log_messages": [
+            "Font designer field is not 'unknown'."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent underline thickness?",
+        "log_messages": [
+            "Fonts have consistent underline thickness."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE proportion?",
+        "log_messages": [
+            "Fonts have consistent PANOSE proportion."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE family type?",
+        "log_messages": [
+            "Fonts have consistent PANOSE family type."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal numbers of glyphs?",
+        "log_messages": [
+            "Fonts have equal numbers of glyphs."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal glyph names?",
+        "log_messages": [
+            "ERROR: Fonts have different glyph names."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal unicode encodings?",
+        "log_messages": [
+            "Fonts have equal unicode encodings."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font designer field is 'unknown' ?",
+        "log_messages": [
+            "Font designer field is not 'unknown'."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent underline thickness?",
+        "log_messages": [
+            "Fonts have consistent underline thickness."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE proportion?",
+        "log_messages": [
+            "Fonts have consistent PANOSE proportion."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE family type?",
+        "log_messages": [
+            "Fonts have consistent PANOSE family type."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal numbers of glyphs?",
+        "log_messages": [
+            "Fonts have equal numbers of glyphs."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal glyph names?",
+        "log_messages": [
+            "ERROR: Fonts have different glyph names."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal unicode encodings?",
+        "log_messages": [
+            "Fonts have equal unicode encodings."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font designer field is 'unknown' ?",
+        "log_messages": [
+            "Font designer field is not 'unknown'."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent underline thickness?",
+        "log_messages": [
+            "Fonts have consistent underline thickness."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE proportion?",
+        "log_messages": [
+            "Fonts have consistent PANOSE proportion."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE family type?",
+        "log_messages": [
+            "Fonts have consistent PANOSE family type."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal numbers of glyphs?",
+        "log_messages": [
+            "Fonts have equal numbers of glyphs."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal glyph names?",
+        "log_messages": [
+            "ERROR: Fonts have different glyph names."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal unicode encodings?",
+        "log_messages": [
+            "Fonts have equal unicode encodings."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font designer field is 'unknown' ?",
+        "log_messages": [
+            "Font designer field is not 'unknown'."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent underline thickness?",
+        "log_messages": [
+            "Fonts have consistent underline thickness."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE proportion?",
+        "log_messages": [
+            "Fonts have consistent PANOSE proportion."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have consistent PANOSE family type?",
+        "log_messages": [
+            "Fonts have consistent PANOSE family type."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal numbers of glyphs?",
+        "log_messages": [
+            "Fonts have equal numbers of glyphs."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal glyph names?",
+        "log_messages": [
+            "ERROR: Fonts have different glyph names."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Fonts have equal unicode encodings?",
+        "log_messages": [
+            "Fonts have equal unicode encodings."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura"
+    },
+    {
+        "description": "Font has post table version 2 ?",
+        "log_messages": [
+            "Font has post table version 2."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking OS/2 fsType",
+        "log_messages": [
+            "fsType is zero."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Assure valid format for the main entries in the name table.",
+        "log_messages": [
+            "Main entries in the name table conform to expected format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking OS/2 achVendID",
+        "log_messages": [
+            "OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "substitute copyright, registered and trademark symbols in name table entries",
+        "log_messages": [
+            "No need to substitute copyright, registered and trademark symbols in name table entries of this font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass",
+        "log_messages": [
+            "OS/2 usWeightClass value looks good!"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking fsSelection REGULAR bit",
+        "log_messages": [
+            "OS/2 fsSelection REGULAR bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking that italicAngle <= 0",
+        "log_messages": [
+            "post table italicAngle is 0.0"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking that italicAngle is less than 20 degrees",
+        "log_messages": [
+            "OK: post table italicAngle is less than 20 degrees."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking if italicAngle matches font style",
+        "log_messages": [
+            "post table italicAngle matches style name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking fsSelection ITALIC bit",
+        "log_messages": [
+            "OS/2 fsSelection ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking macStyle ITALIC bit",
+        "log_messages": [
+            "head macStyle ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking fsSelection BOLD bit",
+        "log_messages": [
+            "ERROR: OS/2 fsSelection BOLD bit should be set."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking macStyle BOLD bit",
+        "log_messages": [
+            "head macStyle BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Check font has a license",
+        "log_messages": [
+            "Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Check copyright namerecords match license file",
+        "log_messages": [
+            "licensing entry on name table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "name record 10s (descriptions) are reasonable?",
+        "log_messages": [
+            "Namerecord 10s (descriptions) do not exist."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking if the font is truly monospaced",
+        "log_messages": [
+            "Font is not monospaced."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Check if xAvgCharWidth is correct.",
+        "log_messages": [
+            "xAvgCharWidth is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking with ftxvalidator",
+        "log_messages": [
+            "Warning: ftxvalidator is not available."
+        ],
+        "result": "WARNING",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking with ot-sanitise",
+        "log_messages": [
+            "ot-sanitise passed this file"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours are closed."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: False",
+        "log_messages": [
+            "fontforge-check: Contours do not intersect."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours have correct directions."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: References in the glyph haven't been flipped."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: False",
+        "log_messages": [
+            "fontforge-check: Glyphs have points at extremas."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names referred to from glyphs present in the font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points (or control points) are not too far apart."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit)."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: PostScript hasnt a limit of 96 hints in glyphs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Font doesn't have invalid glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs instructions have valid lengths."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points in glyphs are integer aligned."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have all required anchors."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Unicode code points are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Hinds do not overlap."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking vertical metrics",
+        "log_messages": [
+            "Vertical metrics."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Checking font version fields",
+        "log_messages": [
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01' | NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Digital Signature exists?",
+        "log_messages": [
+            "Digital Signature (DSIG) exists."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font contains glyphs for whitespace characters?",
+        "log_messages": [
+            "Font contains glyphs for whitespace characters."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font has **proper** whitespace glyph names?",
+        "log_messages": [
+            "Font has **proper** whitespace glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Whitespace glyphs have ink?",
+        "log_messages": [
+            "Jura-Bold.ttf space 314 nbsp 314"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Check no problematic formats",
+        "log_messages": [
+            "Check no problematic formats. "
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Are there unwanted tables?",
+        "log_messages": [
+            "There are no unwanted tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Show hinting filesize impact",
+        "log_messages": [
+            "Hinting filesize impact:\n\n|  | Jura-Bold.ttf |\n|----------|----------|----------|\n| Dehinted Size | 96kb |\n| Hinted Size | 97kb |\n| Increase | 480 bytes |\n| Change   | 0.48 % |\n"
+        ],
+        "result": "INFO",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Version format is correct in NAME table?",
+        "log_messages": [
+            "Version format in NAME table is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Glyph names are all valid?",
+        "log_messages": [
+            "Glyph names are all valid."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font contains unique glyph names?",
+        "log_messages": [
+            "Font contains unique glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "No glyph is incorrectly named?",
+        "log_messages": [
+            "Font does not have any incorrectly named glyph."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "EPAR table present in font?",
+        "log_messages": [
+            "EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Is GASP table correctly set?",
+        "log_messages": [
+            "GASP table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Does GPOS table have kerning information?",
+        "log_messages": [
+            "GPOS table has got kerning information."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Is there a 'KERN' table declared in the font?",
+        "log_messages": [
+            "Font does not declare a 'KERN' table."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Does full font name begin with the font family name?",
+        "log_messages": [
+            "Full font name begins with the font family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Is there any unused data at the end of the glyf table?",
+        "log_messages": [
+            "Not a CFF font."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font has 'EURO SIGN' character?",
+        "log_messages": [
+            "Font has 'EURO SIGN' character."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font follows the family naming recommendations?",
+        "log_messages": [
+            "Font follows the family naming recommendations."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font contains magic code in PREP table?",
+        "log_messages": [
+            "ERROR: Failed to find correct magic code in PREP table."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables?",
+        "log_messages": [
+            "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font names are consistent across platforms?",
+        "log_messages": [
+            "ERROR: Entries in \"name\" table are not the same across specific platforms."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
+        "log_messages": [
+            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Font has a valid license url ?",
+        "log_messages": [
+            "Font has a valid license URL."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "Is font em size (ideally) equal to 1000?",
+        "log_messages": [
+            "Font em size is equal to 1000."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Bold.ttf"
+    },
+    {
+        "description": "METADATA.pb: Ensure designer simple short name.",
+        "log_messages": [
+            "Designer is a simple short name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Fontfamily is listed in Google Font Directory ?",
+        "log_messages": [
+            "Font is properly listed in Google Font Directory."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Designer exists in GWF profiles.csv ?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Designer 'Multiple Designers' is not listed in profiles.csv (at 'https://github.com/google/fonts/blob/master/designers/profiles.csv')"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only has unique 'full_name' values",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique 'full_name' values"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only contains unique style:weight pairs",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique style:weight pairs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb license is 'APACHE2', 'UFL' or 'OFL' ?",
+        "log_messages": [
+            "Font license is declared in METADATA.pb as 'OFL'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should be alphabetically ordered.",
+        "log_messages": [
+            "METADATA.pb subsets are sorted in alphabetical order"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should have at least 'latin'",
+        "log_messages": [
+            "METADATA.pb subsets contains at least 'latin'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice is the same in all fonts ?",
+        "log_messages": [
+            "Copyright is consistent across family"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that METADATA family values are all the same",
+        "log_messages": [
+            "METADATA.pb: Family name is the same in all metadata 'fonts' items."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "According GWF standards font should have Regular style.",
+        "log_messages": [
+            "Font has a Regular style."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Regular should be 400",
+        "log_messages": [
+            "Regular has weight=400"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font on disk and in METADATA.pb have the same family name ?",
+        "log_messages": [
+            "Family name 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checks METADATA.pb 'postScriptName' matches TTF 'postScriptName'",
+        "log_messages": [
+            "Postscript name 'Jura-Bold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullname' value matches internal 'fullname' ?",
+        "log_messages": [
+            "Fullname 'Jura Bold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb fonts 'name' property should be same as font familyname",
+        "log_messages": [
+            "OK: Fullname 'Jura Bold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullName' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'fullName' and 'postScriptName' have the same value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'filename' and 'postScriptName' have matching values."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'full_name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'full_name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'filename' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'postScriptName' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'postScriptName' contains font name in right format ?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice matches canonical pattern?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Copyright notice is okay, but it lacks an email address. Expected pattern is: 'Copyright 2016 Author Name (name@site.com)'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice does not contain Reserved Font Name",
+        "log_messages": [
+            "METADATA.pb copyright field does not contain \"Reserved Font Name\""
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice shouldn't exceed 500 chars",
+        "log_messages": [
+            "Copyright notice string is shorter than 500 chars."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Filename is set canonically?",
+        "log_messages": [
+            "Filename is set canonically."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `italic` matches font internals?",
+        "log_messages": [
+            "This test only applies to italic fonts."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `normal` matches font internals?",
+        "log_messages": [
+            "METADATA.pb font.style 'normal' matches font internals."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata key-value match to table name fields?",
+        "log_messages": [
+            "METADATA.pb familyname and fullName fields match corresponding name table entries."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check if fontname is not camel cased.",
+        "log_messages": [
+            "Font name is not camel-cased."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check font name is the same as family name.",
+        "log_messages": [
+            "Font name is the same as family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that font weight has a canonical value",
+        "log_messages": [
+            "Font weight has a canonical value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass matches weight specified at METADATA.pb",
+        "log_messages": [
+            "OS/2 usWeightClass matches weight specified at METADATA.pb"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata weight matches postScriptName",
+        "log_messages": [
+            "Weight value matches postScriptName."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb lists fonts named canonicaly?",
+        "log_messages": [
+            "METADATA.pb lists fonts named canonicaly."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font styles are named canonically?",
+        "log_messages": [
+            "Font styles are named canonically"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Monospace font has hhea.advanceWidthMax equal to each glyph's advanceWidth ?",
+        "log_messages": [
+            "Skipping monospace-only check."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font has post table version 2 ?",
+        "log_messages": [
+            "Font has post table version 2."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking OS/2 fsType",
+        "log_messages": [
+            "fsType is zero."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Assure valid format for the main entries in the name table.",
+        "log_messages": [
+            "ERROR: [FULL_FONT_NAME:WINDOWS] entry: expected 'Jura Light' but got 'Jura-Light'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking OS/2 achVendID",
+        "log_messages": [
+            "OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "substitute copyright, registered and trademark symbols in name table entries",
+        "log_messages": [
+            "No need to substitute copyright, registered and trademark symbols in name table entries of this font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass",
+        "log_messages": [
+            "OS/2 usWeightClass value looks good!"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking fsSelection REGULAR bit",
+        "log_messages": [
+            "ERROR: OS/2 fsSelection REGULAR bit should be reset."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking that italicAngle <= 0",
+        "log_messages": [
+            "post table italicAngle is 0.0"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking that italicAngle is less than 20 degrees",
+        "log_messages": [
+            "OK: post table italicAngle is less than 20 degrees."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking if italicAngle matches font style",
+        "log_messages": [
+            "post table italicAngle matches style name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking fsSelection ITALIC bit",
+        "log_messages": [
+            "OS/2 fsSelection ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking macStyle ITALIC bit",
+        "log_messages": [
+            "head macStyle ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking fsSelection BOLD bit",
+        "log_messages": [
+            "OS/2 fsSelection BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking macStyle BOLD bit",
+        "log_messages": [
+            "head macStyle BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Check font has a license",
+        "log_messages": [
+            "Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Check copyright namerecords match license file",
+        "log_messages": [
+            "licensing entry on name table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "name record 10s (descriptions) are reasonable?",
+        "log_messages": [
+            "Namerecord 10s (descriptions) do not exist."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking if the font is truly monospaced",
+        "log_messages": [
+            "Font is not monospaced."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Check if xAvgCharWidth is correct.",
+        "log_messages": [
+            "ERROR: xAvgCharWidth is 546 but should be 547 which corresponds to the average of all glyph widths in the font"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking with ftxvalidator",
+        "log_messages": [
+            "Warning: ftxvalidator is not available."
+        ],
+        "result": "WARNING",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking with ot-sanitise",
+        "log_messages": [
+            "ot-sanitise passed this file"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours are closed."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours do not intersect."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours have correct directions."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: References in the glyph haven't been flipped."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: False",
+        "log_messages": [
+            "fontforge-check: Glyphs have points at extremas."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names referred to from glyphs present in the font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points (or control points) are not too far apart."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit)."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: PostScript hasnt a limit of 96 hints in glyphs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Font doesn't have invalid glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs instructions have valid lengths."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points in glyphs are integer aligned."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have all required anchors."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Unicode code points are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Hinds do not overlap."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking vertical metrics",
+        "log_messages": [
+            "Vertical metrics."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Checking font version fields",
+        "log_messages": [
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01' | NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Digital Signature exists?",
+        "log_messages": [
+            "Digital Signature (DSIG) exists."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font contains glyphs for whitespace characters?",
+        "log_messages": [
+            "Font contains glyphs for whitespace characters."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font has **proper** whitespace glyph names?",
+        "log_messages": [
+            "Font has **proper** whitespace glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Whitespace glyphs have ink?",
+        "log_messages": [
+            "Jura-Light.ttf space 230 nbsp 230"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Check no problematic formats",
+        "log_messages": [
+            "Check no problematic formats. "
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Are there unwanted tables?",
+        "log_messages": [
+            "There are no unwanted tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Show hinting filesize impact",
+        "log_messages": [
+            "Hinting filesize impact:\n\n|  | Jura-Light.ttf |\n|----------|----------|----------|\n| Dehinted Size | 94kb |\n| Hinted Size | 94kb |\n| Increase | 460 bytes |\n| Change   | 0.47 % |\n"
+        ],
+        "result": "INFO",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Version format is correct in NAME table?",
+        "log_messages": [
+            "Version format in NAME table is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Glyph names are all valid?",
+        "log_messages": [
+            "Glyph names are all valid."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font contains unique glyph names?",
+        "log_messages": [
+            "Font contains unique glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "No glyph is incorrectly named?",
+        "log_messages": [
+            "Font does not have any incorrectly named glyph."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "EPAR table present in font?",
+        "log_messages": [
+            "EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Is GASP table correctly set?",
+        "log_messages": [
+            "GASP table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Does GPOS table have kerning information?",
+        "log_messages": [
+            "GPOS table has got kerning information."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Is there a 'KERN' table declared in the font?",
+        "log_messages": [
+            "Font does not declare a 'KERN' table."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Does full font name begin with the font family name?",
+        "log_messages": [
+            "Full font name begins with the font family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Is there any unused data at the end of the glyf table?",
+        "log_messages": [
+            "Not a CFF font."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font has 'EURO SIGN' character?",
+        "log_messages": [
+            "Font has 'EURO SIGN' character."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font follows the family naming recommendations?",
+        "log_messages": [
+            "Font follows the family naming recommendations."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font contains magic code in PREP table?",
+        "log_messages": [
+            "ERROR: Failed to find correct magic code in PREP table."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables?",
+        "log_messages": [
+            "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font names are consistent across platforms?",
+        "log_messages": [
+            "ERROR: Entries in \"name\" table are not the same across specific platforms."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
+        "log_messages": [
+            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Font has a valid license url ?",
+        "log_messages": [
+            "Font has a valid license URL."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "Is font em size (ideally) equal to 1000?",
+        "log_messages": [
+            "Font em size is equal to 1000."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Light.ttf"
+    },
+    {
+        "description": "METADATA.pb: Ensure designer simple short name.",
+        "log_messages": [
+            "Designer is a simple short name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Fontfamily is listed in Google Font Directory ?",
+        "log_messages": [
+            "Font is properly listed in Google Font Directory."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Designer exists in GWF profiles.csv ?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Designer 'Multiple Designers' is not listed in profiles.csv (at 'https://github.com/google/fonts/blob/master/designers/profiles.csv')"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only has unique 'full_name' values",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique 'full_name' values"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only contains unique style:weight pairs",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique style:weight pairs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb license is 'APACHE2', 'UFL' or 'OFL' ?",
+        "log_messages": [
+            "Font license is declared in METADATA.pb as 'OFL'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should be alphabetically ordered.",
+        "log_messages": [
+            "METADATA.pb subsets are sorted in alphabetical order"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should have at least 'latin'",
+        "log_messages": [
+            "METADATA.pb subsets contains at least 'latin'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice is the same in all fonts ?",
+        "log_messages": [
+            "Copyright is consistent across family"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that METADATA family values are all the same",
+        "log_messages": [
+            "METADATA.pb: Family name is the same in all metadata 'fonts' items."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "According GWF standards font should have Regular style.",
+        "log_messages": [
+            "Font has a Regular style."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Regular should be 400",
+        "log_messages": [
+            "Regular has weight=400"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font on disk and in METADATA.pb have the same family name ?",
+        "log_messages": [
+            "Family name 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checks METADATA.pb 'postScriptName' matches TTF 'postScriptName'",
+        "log_messages": [
+            "Postscript name 'Jura-Light' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullname' value matches internal 'fullname' ?",
+        "log_messages": [
+            "Fullname 'Jura Light' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb fonts 'name' property should be same as font familyname",
+        "log_messages": [
+            "OK: Fullname 'Jura Light' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullName' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'fullName' and 'postScriptName' have the same value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'filename' and 'postScriptName' have matching values."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'full_name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'full_name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'filename' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'postScriptName' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'postScriptName' contains font name in right format ?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice matches canonical pattern?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Copyright notice is okay, but it lacks an email address. Expected pattern is: 'Copyright 2016 Author Name (name@site.com)'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice does not contain Reserved Font Name",
+        "log_messages": [
+            "METADATA.pb copyright field does not contain \"Reserved Font Name\""
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice shouldn't exceed 500 chars",
+        "log_messages": [
+            "Copyright notice string is shorter than 500 chars."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Filename is set canonically?",
+        "log_messages": [
+            "Filename is set canonically."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `italic` matches font internals?",
+        "log_messages": [
+            "This test only applies to italic fonts."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `normal` matches font internals?",
+        "log_messages": [
+            "METADATA.pb font.style 'normal' matches font internals."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata key-value match to table name fields?",
+        "log_messages": [
+            "METADATA.pb familyname and fullName fields match corresponding name table entries."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check if fontname is not camel cased.",
+        "log_messages": [
+            "Font name is not camel-cased."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check font name is the same as family name.",
+        "log_messages": [
+            "Font name is the same as family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that font weight has a canonical value",
+        "log_messages": [
+            "Font weight has a canonical value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass matches weight specified at METADATA.pb",
+        "log_messages": [
+            "OS/2 usWeightClass matches weight specified at METADATA.pb"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata weight matches postScriptName",
+        "log_messages": [
+            "Weight value matches postScriptName."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb lists fonts named canonicaly?",
+        "log_messages": [
+            "METADATA.pb lists fonts named canonicaly."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font styles are named canonically?",
+        "log_messages": [
+            "Font styles are named canonically"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Monospace font has hhea.advanceWidthMax equal to each glyph's advanceWidth ?",
+        "log_messages": [
+            "Skipping monospace-only check."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
     },
     {
         "description": "Font has post table version 2 ?",
@@ -26,9 +1990,9 @@
     {
         "description": "Assure valid format for the main entries in the name table.",
         "log_messages": [
-            "Main entries in the name table conform to expected format."
+            "ERROR: [FULL_FONT_NAME:WINDOWS] entry: expected 'Jura Medium' but got 'Jura-Medium'"
         ],
-        "result": "OK",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -50,7 +2014,7 @@
     {
         "description": "Checking OS/2 usWeightClass",
         "log_messages": [
-            "OS/2 usWeightClass"
+            "OS/2 usWeightClass value looks good!"
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
@@ -58,9 +2022,9 @@
     {
         "description": "Checking fsSelection REGULAR bit",
         "log_messages": [
-            "HOTFIX: fsSelection REGULAR bit Fixes: OS/2 fsSelection from 64 to 0"
+            "ERROR: OS/2 fsSelection REGULAR bit should be reset."
         ],
-        "result": "HOTFIX",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -90,7 +2054,7 @@
     {
         "description": "Checking fsSelection ITALIC bit",
         "log_messages": [
-            "fsSelection ITALIC bit"
+            "OS/2 fsSelection ITALIC bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
@@ -98,7 +2062,7 @@
     {
         "description": "Checking macStyle ITALIC bit",
         "log_messages": [
-            "macStyle ITALIC bit"
+            "head macStyle ITALIC bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
@@ -106,7 +2070,7 @@
     {
         "description": "Checking fsSelection BOLD bit",
         "log_messages": [
-            "fsSelection BOLD bit"
+            "OS/2 fsSelection BOLD bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
@@ -114,7 +2078,7 @@
     {
         "description": "Checking macStyle BOLD bit",
         "log_messages": [
-            "macStyle BOLD bit"
+            "head macStyle BOLD bit is properly set."
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
@@ -144,14 +2108,6 @@
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
-        "description": "StyleName recommendation",
-        "log_messages": [
-            "HOTFIX: Jura-Medium.ttf: Warning: Windows-only Opentype-specific StyleName set to \"Regular\" as a default value. Please verify if this is correct."
-        ],
-        "result": "HOTFIX",
-        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
-    },
-    {
         "description": "Checking if the font is truly monospaced",
         "log_messages": [
             "Font is not monospaced."
@@ -162,9 +2118,9 @@
     {
         "description": "Check if xAvgCharWidth is correct.",
         "log_messages": [
-            "xAvgCharWidth is correct."
+            "ERROR: xAvgCharWidth is 577 but should be 578 which corresponds to the average of all glyph widths in the font"
         ],
-        "result": "OK",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -354,9 +2310,9 @@
     {
         "description": "Checking font version fields",
         "log_messages": [
-            "HOTFIX: Font version fields. Fixes: NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;' | NAMEID_VERSION_STRING from 'Version 3.000' to 'Version 3.0;'"
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01' | NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01'"
         ],
-        "result": "HOTFIX",
+        "result": "ERROR",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -482,9 +2438,9 @@
     {
         "description": "Does full font name begin with the font family name?",
         "log_messages": [
-            "ERROR: Font family name 'Jura' does not begin with full font name 'Jura Medium'"
+            "Full font name begins with the font family name."
         ],
-        "result": "ERROR",
+        "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -538,9 +2494,9 @@
     {
         "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
         "log_messages": [
-            "ERROR: There are 2 strings containing non-ASCII characters in the ASCII-only NAME table entries."
+            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
         ],
-        "result": "ERROR",
+        "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
     },
     {
@@ -558,5 +2514,1982 @@
         ],
         "result": "OK",
         "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Medium.ttf"
+    },
+    {
+        "description": "METADATA.pb: Ensure designer simple short name.",
+        "log_messages": [
+            "Designer is a simple short name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Fontfamily is listed in Google Font Directory ?",
+        "log_messages": [
+            "Font is properly listed in Google Font Directory."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Designer exists in GWF profiles.csv ?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Designer 'Multiple Designers' is not listed in profiles.csv (at 'https://github.com/google/fonts/blob/master/designers/profiles.csv')"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only has unique 'full_name' values",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique 'full_name' values"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only contains unique style:weight pairs",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique style:weight pairs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb license is 'APACHE2', 'UFL' or 'OFL' ?",
+        "log_messages": [
+            "Font license is declared in METADATA.pb as 'OFL'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should be alphabetically ordered.",
+        "log_messages": [
+            "METADATA.pb subsets are sorted in alphabetical order"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should have at least 'latin'",
+        "log_messages": [
+            "METADATA.pb subsets contains at least 'latin'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice is the same in all fonts ?",
+        "log_messages": [
+            "Copyright is consistent across family"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that METADATA family values are all the same",
+        "log_messages": [
+            "METADATA.pb: Family name is the same in all metadata 'fonts' items."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "According GWF standards font should have Regular style.",
+        "log_messages": [
+            "Font has a Regular style."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Regular should be 400",
+        "log_messages": [
+            "Regular has weight=400"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font on disk and in METADATA.pb have the same family name ?",
+        "log_messages": [
+            "Family name 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checks METADATA.pb 'postScriptName' matches TTF 'postScriptName'",
+        "log_messages": [
+            "Postscript name 'Jura-Medium' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullname' value matches internal 'fullname' ?",
+        "log_messages": [
+            "Fullname 'Jura Medium' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb fonts 'name' property should be same as font familyname",
+        "log_messages": [
+            "OK: Fullname 'Jura Medium' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullName' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'fullName' and 'postScriptName' have the same value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'filename' and 'postScriptName' have matching values."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'full_name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'full_name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'filename' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'postScriptName' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'postScriptName' contains font name in right format ?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice matches canonical pattern?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Copyright notice is okay, but it lacks an email address. Expected pattern is: 'Copyright 2016 Author Name (name@site.com)'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice does not contain Reserved Font Name",
+        "log_messages": [
+            "METADATA.pb copyright field does not contain \"Reserved Font Name\""
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice shouldn't exceed 500 chars",
+        "log_messages": [
+            "Copyright notice string is shorter than 500 chars."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Filename is set canonically?",
+        "log_messages": [
+            "Filename is set canonically."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `italic` matches font internals?",
+        "log_messages": [
+            "This test only applies to italic fonts."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `normal` matches font internals?",
+        "log_messages": [
+            "METADATA.pb font.style 'normal' matches font internals."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata key-value match to table name fields?",
+        "log_messages": [
+            "METADATA.pb familyname and fullName fields match corresponding name table entries."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check if fontname is not camel cased.",
+        "log_messages": [
+            "Font name is not camel-cased."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check font name is the same as family name.",
+        "log_messages": [
+            "Font name is the same as family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that font weight has a canonical value",
+        "log_messages": [
+            "Font weight has a canonical value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass matches weight specified at METADATA.pb",
+        "log_messages": [
+            "OS/2 usWeightClass matches weight specified at METADATA.pb"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata weight matches postScriptName",
+        "log_messages": [
+            "Weight value matches postScriptName."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb lists fonts named canonicaly?",
+        "log_messages": [
+            "METADATA.pb lists fonts named canonicaly."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font styles are named canonically?",
+        "log_messages": [
+            "Font styles are named canonically"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Monospace font has hhea.advanceWidthMax equal to each glyph's advanceWidth ?",
+        "log_messages": [
+            "Skipping monospace-only check."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font has post table version 2 ?",
+        "log_messages": [
+            "Font has post table version 2."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking OS/2 fsType",
+        "log_messages": [
+            "fsType is zero."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Assure valid format for the main entries in the name table.",
+        "log_messages": [
+            "ERROR: [FULL_FONT_NAME:MACHINTOSH] entry: expected 'Jura Regular' but got 'Jura'",
+            "ERROR: [FULL_FONT_NAME:WINDOWS] entry: expected 'Jura Regular' but got 'Jura-Regular'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking OS/2 achVendID",
+        "log_messages": [
+            "OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "substitute copyright, registered and trademark symbols in name table entries",
+        "log_messages": [
+            "No need to substitute copyright, registered and trademark symbols in name table entries of this font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass",
+        "log_messages": [
+            "OS/2 usWeightClass value looks good!"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking fsSelection REGULAR bit",
+        "log_messages": [
+            "ERROR: OS/2 fsSelection REGULAR bit should be set."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking that italicAngle <= 0",
+        "log_messages": [
+            "post table italicAngle is 0.0"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking that italicAngle is less than 20 degrees",
+        "log_messages": [
+            "OK: post table italicAngle is less than 20 degrees."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking if italicAngle matches font style",
+        "log_messages": [
+            "post table italicAngle matches style name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking fsSelection ITALIC bit",
+        "log_messages": [
+            "OS/2 fsSelection ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking macStyle ITALIC bit",
+        "log_messages": [
+            "head macStyle ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking fsSelection BOLD bit",
+        "log_messages": [
+            "OS/2 fsSelection BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking macStyle BOLD bit",
+        "log_messages": [
+            "head macStyle BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Check font has a license",
+        "log_messages": [
+            "Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Check copyright namerecords match license file",
+        "log_messages": [
+            "licensing entry on name table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "name record 10s (descriptions) are reasonable?",
+        "log_messages": [
+            "Namerecord 10s (descriptions) do not exist."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking if the font is truly monospaced",
+        "log_messages": [
+            "Font is not monospaced."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Check if xAvgCharWidth is correct.",
+        "log_messages": [
+            "ERROR: xAvgCharWidth is 561 but should be 562 which corresponds to the average of all glyph widths in the font"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking with ftxvalidator",
+        "log_messages": [
+            "Warning: ftxvalidator is not available."
+        ],
+        "result": "WARNING",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking with ot-sanitise",
+        "log_messages": [
+            "ot-sanitise passed this file"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours are closed."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours do not intersect."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours have correct directions."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: References in the glyph haven't been flipped."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: False",
+        "log_messages": [
+            "fontforge-check: Glyphs have points at extremas."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names referred to from glyphs present in the font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points (or control points) are not too far apart."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit)."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: PostScript hasnt a limit of 96 hints in glyphs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Font doesn't have invalid glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs instructions have valid lengths."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points in glyphs are integer aligned."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have all required anchors."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Unicode code points are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Hinds do not overlap."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking vertical metrics",
+        "log_messages": [
+            "Vertical metrics."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Checking font version fields",
+        "log_messages": [
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01' | NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Digital Signature exists?",
+        "log_messages": [
+            "Digital Signature (DSIG) exists."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font contains glyphs for whitespace characters?",
+        "log_messages": [
+            "Font contains glyphs for whitespace characters."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font has **proper** whitespace glyph names?",
+        "log_messages": [
+            "Font has **proper** whitespace glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Whitespace glyphs have ink?",
+        "log_messages": [
+            "Jura-Regular.ttf space 250 nbsp 250"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Check no problematic formats",
+        "log_messages": [
+            "Check no problematic formats. "
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Are there unwanted tables?",
+        "log_messages": [
+            "There are no unwanted tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Show hinting filesize impact",
+        "log_messages": [
+            "Hinting filesize impact:\n\n|  | Jura-Regular.ttf |\n|----------|----------|----------|\n| Dehinted Size | 94kb |\n| Hinted Size | 94kb |\n| Increase | 452 bytes |\n| Change   | 0.46 % |\n"
+        ],
+        "result": "INFO",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Version format is correct in NAME table?",
+        "log_messages": [
+            "Version format in NAME table is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Glyph names are all valid?",
+        "log_messages": [
+            "Glyph names are all valid."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font contains unique glyph names?",
+        "log_messages": [
+            "Font contains unique glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "No glyph is incorrectly named?",
+        "log_messages": [
+            "Font does not have any incorrectly named glyph."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "EPAR table present in font?",
+        "log_messages": [
+            "EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Is GASP table correctly set?",
+        "log_messages": [
+            "GASP table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Does GPOS table have kerning information?",
+        "log_messages": [
+            "GPOS table has got kerning information."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Is there a 'KERN' table declared in the font?",
+        "log_messages": [
+            "Font does not declare a 'KERN' table."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Does full font name begin with the font family name?",
+        "log_messages": [
+            "Full font name begins with the font family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Is there any unused data at the end of the glyf table?",
+        "log_messages": [
+            "Not a CFF font."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font has 'EURO SIGN' character?",
+        "log_messages": [
+            "Font has 'EURO SIGN' character."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font follows the family naming recommendations?",
+        "log_messages": [
+            "Font follows the family naming recommendations."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font contains magic code in PREP table?",
+        "log_messages": [
+            "ERROR: Failed to find correct magic code in PREP table."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables?",
+        "log_messages": [
+            "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font names are consistent across platforms?",
+        "log_messages": [
+            "ERROR: Entries in \"name\" table are not the same across specific platforms."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
+        "log_messages": [
+            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Font has a valid license url ?",
+        "log_messages": [
+            "Font has a valid license URL."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "Is font em size (ideally) equal to 1000?",
+        "log_messages": [
+            "Font em size is equal to 1000."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-Regular.ttf"
+    },
+    {
+        "description": "METADATA.pb: Ensure designer simple short name.",
+        "log_messages": [
+            "Designer is a simple short name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Fontfamily is listed in Google Font Directory ?",
+        "log_messages": [
+            "Font is properly listed in Google Font Directory."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Designer exists in GWF profiles.csv ?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Designer 'Multiple Designers' is not listed in profiles.csv (at 'https://github.com/google/fonts/blob/master/designers/profiles.csv')"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only has unique 'full_name' values",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique 'full_name' values"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only contains unique style:weight pairs",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique style:weight pairs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb license is 'APACHE2', 'UFL' or 'OFL' ?",
+        "log_messages": [
+            "Font license is declared in METADATA.pb as 'OFL'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should be alphabetically ordered.",
+        "log_messages": [
+            "METADATA.pb subsets are sorted in alphabetical order"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should have at least 'latin'",
+        "log_messages": [
+            "METADATA.pb subsets contains at least 'latin'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice is the same in all fonts ?",
+        "log_messages": [
+            "Copyright is consistent across family"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that METADATA family values are all the same",
+        "log_messages": [
+            "METADATA.pb: Family name is the same in all metadata 'fonts' items."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "According GWF standards font should have Regular style.",
+        "log_messages": [
+            "Font has a Regular style."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Regular should be 400",
+        "log_messages": [
+            "Regular has weight=400"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font on disk and in METADATA.pb have the same family name ?",
+        "log_messages": [
+            "Family name 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checks METADATA.pb 'postScriptName' matches TTF 'postScriptName'",
+        "log_messages": [
+            "Postscript name 'Jura-Regular' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullname' value matches internal 'fullname' ?",
+        "log_messages": [
+            "ERROR: Unmatched fullname in font: TTF has \"Jura\" while METADATA.pb has \"Jura Regular\""
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb fonts 'name' property should be same as font familyname",
+        "log_messages": [
+            "OK: Fullname 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullName' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'fullName' and 'postScriptName' have the same value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' matches 'postScriptName' ?",
+        "log_messages": [
+            "ERROR: METADATA.pb postScriptName field ends with '-Regular'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'full_name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'full_name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'filename' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'postScriptName' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'postScriptName' contains font name in right format ?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice matches canonical pattern?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Copyright notice is okay, but it lacks an email address. Expected pattern is: 'Copyright 2016 Author Name (name@site.com)'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice does not contain Reserved Font Name",
+        "log_messages": [
+            "METADATA.pb copyright field does not contain \"Reserved Font Name\""
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice shouldn't exceed 500 chars",
+        "log_messages": [
+            "Copyright notice string is shorter than 500 chars."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Filename is set canonically?",
+        "log_messages": [
+            "Filename is set canonically."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `italic` matches font internals?",
+        "log_messages": [
+            "This test only applies to italic fonts."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `normal` matches font internals?",
+        "log_messages": [
+            "METADATA.pb font.style 'normal' matches font internals."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata key-value match to table name fields?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Fullname ('Jura Regular') does not match name table entry 'Jura' !"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check if fontname is not camel cased.",
+        "log_messages": [
+            "Font name is not camel-cased."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check font name is the same as family name.",
+        "log_messages": [
+            "Font name is the same as family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that font weight has a canonical value",
+        "log_messages": [
+            "Font weight has a canonical value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass matches weight specified at METADATA.pb",
+        "log_messages": [
+            "OS/2 usWeightClass matches weight specified at METADATA.pb"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata weight matches postScriptName",
+        "log_messages": [
+            "Weight value matches postScriptName."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb lists fonts named canonicaly?",
+        "log_messages": [
+            "METADATA.pb lists fonts named canonicaly."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font styles are named canonically?",
+        "log_messages": [
+            "Font styles are named canonically"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Monospace font has hhea.advanceWidthMax equal to each glyph's advanceWidth ?",
+        "log_messages": [
+            "Skipping monospace-only check."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font has post table version 2 ?",
+        "log_messages": [
+            "Font has post table version 2."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking OS/2 fsType",
+        "log_messages": [
+            "fsType is zero."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Assure valid format for the main entries in the name table.",
+        "log_messages": [
+            "ERROR: [FULL_FONT_NAME:WINDOWS] entry: expected 'Jura SemiBold' but got 'Jura-SemiBold'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking OS/2 achVendID",
+        "log_messages": [
+            "OS/2 VendorID is 'CYRE' and registered to 'Cyreal'. Is that legit?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "substitute copyright, registered and trademark symbols in name table entries",
+        "log_messages": [
+            "No need to substitute copyright, registered and trademark symbols in name table entries of this font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass",
+        "log_messages": [
+            "OS/2 usWeightClass value looks good!"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking fsSelection REGULAR bit",
+        "log_messages": [
+            "ERROR: OS/2 fsSelection REGULAR bit should be reset."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking that italicAngle <= 0",
+        "log_messages": [
+            "post table italicAngle is 0.0"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking that italicAngle is less than 20 degrees",
+        "log_messages": [
+            "OK: post table italicAngle is less than 20 degrees."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking if italicAngle matches font style",
+        "log_messages": [
+            "post table italicAngle matches style name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking fsSelection ITALIC bit",
+        "log_messages": [
+            "OS/2 fsSelection ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking macStyle ITALIC bit",
+        "log_messages": [
+            "head macStyle ITALIC bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking fsSelection BOLD bit",
+        "log_messages": [
+            "OS/2 fsSelection BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking macStyle BOLD bit",
+        "log_messages": [
+            "head macStyle BOLD bit is properly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Check font has a license",
+        "log_messages": [
+            "Found license at '/Users/alexei/github.com/alexeiva/jura/OFL.txt'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Check copyright namerecords match license file",
+        "log_messages": [
+            "licensing entry on name table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "name record 10s (descriptions) are reasonable?",
+        "log_messages": [
+            "Namerecord 10s (descriptions) do not exist."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking if the font is truly monospaced",
+        "log_messages": [
+            "Font is not monospaced."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Check if xAvgCharWidth is correct.",
+        "log_messages": [
+            "xAvgCharWidth is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking with ftxvalidator",
+        "log_messages": [
+            "Warning: ftxvalidator is not available."
+        ],
+        "result": "WARNING",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking with ot-sanitise",
+        "log_messages": [
+            "ot-sanitise passed this file"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours are closed."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours do not intersect."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Contours have correct directions."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: References in the glyph haven't been flipped."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: False",
+        "log_messages": [
+            "fontforge-check: Glyphs have points at extremas."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names referred to from glyphs present in the font."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points (or control points) are not too far apart."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Not more than 1,500 points in any glyph (a PostScript limit)."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: PostScript hasnt a limit of 96 hints in glyphs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Font doesn't have invalid glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of points defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Composite glyphs have allowed numbers of paths defined in maxp."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs instructions have valid lengths."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Points in glyphs are integer aligned."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyphs have all required anchors."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Glyph names are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Unicode code points are unique."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "fontforge-check: True",
+        "log_messages": [
+            "fontforge-check: Hinds do not overlap."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking vertical metrics",
+        "log_messages": [
+            "Vertical metrics."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Checking font version fields",
+        "log_messages": [
+            "ERROR: Font version fields. Changes that must be applied to this font: NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01' | NAMEID_VERSION_STRING from 'Version 3.010' to 'Version 3.01'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Digital Signature exists?",
+        "log_messages": [
+            "Digital Signature (DSIG) exists."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font contains glyphs for whitespace characters?",
+        "log_messages": [
+            "Font contains glyphs for whitespace characters."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font has **proper** whitespace glyph names?",
+        "log_messages": [
+            "Font has **proper** whitespace glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Whitespace glyphs have ink?",
+        "log_messages": [
+            "Jura-SemiBold.ttf space 290 nbsp 290"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Check no problematic formats",
+        "log_messages": [
+            "Check no problematic formats. "
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Are there unwanted tables?",
+        "log_messages": [
+            "There are no unwanted tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Show hinting filesize impact",
+        "log_messages": [
+            "Hinting filesize impact:\n\n|  | Jura-SemiBold.ttf |\n|----------|----------|----------|\n| Dehinted Size | 95kb |\n| Hinted Size | 96kb |\n| Increase | 452 bytes |\n| Change   | 0.46 % |\n"
+        ],
+        "result": "INFO",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Version format is correct in NAME table?",
+        "log_messages": [
+            "Version format in NAME table is correct."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Glyph names are all valid?",
+        "log_messages": [
+            "Glyph names are all valid."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font contains unique glyph names?",
+        "log_messages": [
+            "Font contains unique glyph names."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "No glyph is incorrectly named?",
+        "log_messages": [
+            "Font does not have any incorrectly named glyph."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "EPAR table present in font?",
+        "log_messages": [
+            "EPAR table not present in font. To learn more see https://github.com/googlefonts/fontbakery/issues/818"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Is GASP table correctly set?",
+        "log_messages": [
+            "GASP table is correctly set."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Does GPOS table have kerning information?",
+        "log_messages": [
+            "GPOS table has got kerning information."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Is there a 'KERN' table declared in the font?",
+        "log_messages": [
+            "Font does not declare a 'KERN' table."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Does full font name begin with the font family name?",
+        "log_messages": [
+            "Full font name begins with the font family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Is there any unused data at the end of the glyf table?",
+        "log_messages": [
+            "Not a CFF font."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font has 'EURO SIGN' character?",
+        "log_messages": [
+            "Font has 'EURO SIGN' character."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font follows the family naming recommendations?",
+        "log_messages": [
+            "Font follows the family naming recommendations."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font contains magic code in PREP table?",
+        "log_messages": [
+            "ERROR: Failed to find correct magic code in PREP table."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables?",
+        "log_messages": [
+            "MaxAdvanceWidth is consistent with values in the Hmtx and Hhea tables."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font names are consistent across platforms?",
+        "log_messages": [
+            "ERROR: Entries in \"name\" table are not the same across specific platforms."
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Are there non-ASCII characters in ASCII-only NAME table entries ?",
+        "log_messages": [
+            "None of the ASCII-only NAME table entries contain non-ASCII characteres."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Font has a valid license url ?",
+        "log_messages": [
+            "Font has a valid license URL."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "Is font em size (ideally) equal to 1000?",
+        "log_messages": [
+            "Font em size is equal to 1000."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/Jura-SemiBold.ttf"
+    },
+    {
+        "description": "METADATA.pb: Ensure designer simple short name.",
+        "log_messages": [
+            "Designer is a simple short name"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Fontfamily is listed in Google Font Directory ?",
+        "log_messages": [
+            "Font is properly listed in Google Font Directory."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: Designer exists in GWF profiles.csv ?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Designer 'Multiple Designers' is not listed in profiles.csv (at 'https://github.com/google/fonts/blob/master/designers/profiles.csv')"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only has unique 'full_name' values",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique 'full_name' values"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb: check if fonts field only contains unique style:weight pairs",
+        "log_messages": [
+            "METADATA.pb 'fonts' field only has unique style:weight pairs"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb license is 'APACHE2', 'UFL' or 'OFL' ?",
+        "log_messages": [
+            "Font license is declared in METADATA.pb as 'OFL'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should be alphabetically ordered.",
+        "log_messages": [
+            "METADATA.pb subsets are sorted in alphabetical order"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb subsets should have at least 'latin'",
+        "log_messages": [
+            "METADATA.pb subsets contains at least 'latin'"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice is the same in all fonts ?",
+        "log_messages": [
+            "Copyright is consistent across family"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that METADATA family values are all the same",
+        "log_messages": [
+            "METADATA.pb: Family name is the same in all metadata 'fonts' items."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "According GWF standards font should have Regular style.",
+        "log_messages": [
+            "Font has a Regular style."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Regular should be 400",
+        "log_messages": [
+            "Regular has weight=400"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font on disk and in METADATA.pb have the same family name ?",
+        "log_messages": [
+            "Family name 'Jura' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checks METADATA.pb 'postScriptName' matches TTF 'postScriptName'",
+        "log_messages": [
+            "Postscript name 'Jura-SemiBold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullname' value matches internal 'fullname' ?",
+        "log_messages": [
+            "Fullname 'Jura SemiBold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb fonts 'name' property should be same as font familyname",
+        "log_messages": [
+            "OK: Fullname 'Jura SemiBold' is identical in METADATA.pb and on the TTF file."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'fullName' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'fullName' and 'postScriptName' have the same value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' matches 'postScriptName' ?",
+        "log_messages": [
+            "METADATA.pb fields 'filename' and 'postScriptName' have matching values."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'full_name' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'full_name' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'filename' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'filename' contains font name in right format."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb 'postScriptName' contains font name in right format ?",
+        "log_messages": [
+            "METADATA.pb 'postScriptName' contains font name in right format ?"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice matches canonical pattern?",
+        "log_messages": [
+            "ERROR: METADATA.pb: Copyright notice is okay, but it lacks an email address. Expected pattern is: 'Copyright 2016 Author Name (name@site.com)'"
+        ],
+        "result": "ERROR",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice does not contain Reserved Font Name",
+        "log_messages": [
+            "METADATA.pb copyright field does not contain \"Reserved Font Name\""
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Copyright notice shouldn't exceed 500 chars",
+        "log_messages": [
+            "Copyright notice string is shorter than 500 chars."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Filename is set canonically?",
+        "log_messages": [
+            "Filename is set canonically."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `italic` matches font internals?",
+        "log_messages": [
+            "This test only applies to italic fonts."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb font.style `normal` matches font internals?",
+        "log_messages": [
+            "METADATA.pb font.style 'normal' matches font internals."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata key-value match to table name fields?",
+        "log_messages": [
+            "METADATA.pb familyname and fullName fields match corresponding name table entries."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check if fontname is not camel cased.",
+        "log_messages": [
+            "Font name is not camel-cased."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check font name is the same as family name.",
+        "log_messages": [
+            "Font name is the same as family name."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Check that font weight has a canonical value",
+        "log_messages": [
+            "Font weight has a canonical value."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Checking OS/2 usWeightClass matches weight specified at METADATA.pb",
+        "log_messages": [
+            "OS/2 usWeightClass matches weight specified at METADATA.pb"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Metadata weight matches postScriptName",
+        "log_messages": [
+            "Weight value matches postScriptName."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "METADATA.pb lists fonts named canonicaly?",
+        "log_messages": [
+            "METADATA.pb lists fonts named canonicaly."
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Font styles are named canonically?",
+        "log_messages": [
+            "Font styles are named canonically"
+        ],
+        "result": "OK",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
+    },
+    {
+        "description": "Monospace font has hhea.advanceWidthMax equal to each glyph's advanceWidth ?",
+        "log_messages": [
+            "Skipping monospace-only check."
+        ],
+        "result": "SKIP",
+        "target": "/Users/alexei/github.com/alexeiva/jura/METADATA.pb"
     }
 ]

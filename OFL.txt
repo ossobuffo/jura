@@ -1,4 +1,4 @@
-Copyright (c) 2009–2010, Daniel Johnson and the Jura Project Authors (c) 2016
+Copyright (c) 2009–2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
