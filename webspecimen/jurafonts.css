@@ -35,8 +35,8 @@ html {
     font-style: normal;
 }
 	@font-face {
-    font-family: 'Jura-Semi-Bold';
-    src: url('webfonts/Jura-Semi-Bold.ttf') format('truetype');
+    font-family: 'Jura-SemiBold';
+    src: url('webfonts/Jura-SemiBold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
@@ -68,8 +68,8 @@ html {
 .Jura-Medium {
 	font-family: 'Jura-Medium';
 }
-.Jura-Semi-Bold {
-	font-family: 'Jura-Semi-Bold';
+.Jura-SemiBold {
+	font-family: 'Jura-SemiBold';
 }
 .Jura-Bold {
 	font-family: 'Jura-Bold';
