@@ -29,50 +29,50 @@ html {
   src: local('Lato Light'), local('Lato-Light'), url(https://fonts.gstatic.com/s/lato/v11/0DeoTBMnW4sOpD0Zb8OQSALUuEpTyoUstqEm5AMlJo4.ttf) format('truetype');
 }
 	@font-face {
-    font-family: 'Jura-v3-Bold';
-    src: url('webfonts/Jura-v3-Bold.ttf') format('truetype');
+    font-family: 'Jura-Bold';
+    src: url('webfonts/Jura-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 	@font-face {
-    font-family: 'Jura-v3-Semi-Bold';
-    src: url('webfonts/Jura-v3-Semi-Bold.ttf') format('truetype');
+    font-family: 'Jura-Semi-Bold';
+    src: url('webfonts/Jura-Semi-Bold.ttf') format('truetype');
     font-weight: 600;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-v3-Medium';
-    src: url('webfonts/Jura-v3-Medium.ttf') format('truetype');
+    font-family: 'Jura-Medium';
+    src: url('webfonts/Jura-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-v3-Regular';
-    src: url('webfonts/Jura-v3-Regular.ttf') format('truetype');
+    font-family: 'Jura-Regular';
+    src: url('webfonts/Jura-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Jura-v3-Light';
-    src: url('webfonts/Jura-v3-Light.ttf') format('truetype');
+    font-family: 'Jura-Light';
+    src: url('webfonts/Jura-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
-.Jura-v3-Light {
-	font-family: 'Jura-v3-Light';
+.Jura-Light {
+	font-family: 'Jura-Light';
 }
-.Jura-v3-Regular {
-	font-family: 'Jura-v3-Regular';
+.Jura-Regular {
+	font-family: 'Jura-Regular';
 }
-.Jura-v3-Medium {
-	font-family: 'Jura-v3-Medium';
+.Jura-Medium {
+	font-family: 'Jura-Medium';
 }
-.Jura-v3-Semi-Bold {
-	font-family: 'Jura-v3-Semi-Bold';
+.Jura-Semi-Bold {
+	font-family: 'Jura-Semi-Bold';
 }
-.Jura-v3-Bold {
-	font-family: 'Jura-v3-Bold';
+.Jura-Bold {
+	font-family: 'Jura-Bold';
 }
 .fractions {
 	-moz-font-feature-settings:"frac" 1, "kern" 1; 

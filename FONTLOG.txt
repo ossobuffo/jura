@@ -79,7 +79,7 @@ ChangeLog
 2.6
   Re-hinted using ttfautohint.
 
-3.0 (Alexei Vanyashin)
+3.0 (Alexei Vanyashin) July 30, 2016
   Completed Major Project Redesign, as part of the Font Improvements program.
   Glyphs in the GF Latin Plus range were fully redrawn and kerned. 
   More info: https://groups.google.com/forum/#!topic/googlefonts-discuss/EbCnvq3DIco
