@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="okayahli" format="2">
+  <unicode hex="A92A"/>
+  <outline>
+    <contour>
+      <point x="-366.0" y="497.0" type="line" smooth="yes"/>
+      <point x="-424.0" y="497.0"/>
+      <point x="-467.0" y="556.0"/>
+      <point x="-467.0" y="624.0" type="qcurve" smooth="yes"/>
+      <point x="-467.0" y="661.0" type="line"/>
+      <point x="-395.0" y="661.0" type="line"/>
+      <point x="-395.0" y="608.0" type="line" smooth="yes"/>
+      <point x="-395.0" y="583.0"/>
+      <point x="-382.0" y="569.0"/>
+      <point x="-358.0" y="569.0" type="qcurve" smooth="yes"/>
+      <point x="-256.0" y="569.0" type="line" smooth="yes"/>
+      <point x="-233.0" y="569.0"/>
+      <point x="-220.0" y="583.0"/>
+      <point x="-220.0" y="608.0" type="qcurve" smooth="yes"/>
+      <point x="-220.0" y="661.0" type="line"/>
+      <point x="-148.0" y="661.0" type="line"/>
+      <point x="-148.0" y="624.0" type="line" smooth="yes"/>
+      <point x="-148.0" y="556.0"/>
+      <point x="-190.0" y="497.0"/>
+      <point x="-249.0" y="497.0" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-287.0" y="594.0"/>
+      <point x="-327.0" y="594.0"/>
+      <point x="-368.0" y="623.0"/>
+      <point x="-368.0" y="667.0"/>
+      <point x="-329.0" y="696.0"/>
+      <point x="-287.0" y="696.0"/>
+      <point x="-246.0" y="667.0"/>
+      <point x="-246.0" y="623.0"/>
+    </contour>
+  </outline>
+</glyph>

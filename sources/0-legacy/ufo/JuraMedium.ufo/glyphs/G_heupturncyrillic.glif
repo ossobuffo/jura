@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheupturncyrillic" format="2">
+  <advance width="581"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="552.0" y="574.0" type="line"/>
+      <point x="194.0" y="574.0" type="line" smooth="yes"/>
+      <point x="165.0" y="574.0"/>
+      <point x="144.0" y="551.0"/>
+      <point x="144.0" y="521.0" type="qcurve" smooth="yes"/>
+      <point x="144.0" y="31.0" type="line" smooth="yes"/>
+      <point x="144.0" y="-7.0"/>
+      <point x="82.0" y="-7.0"/>
+      <point x="82.0" y="31.0" type="qcurve" smooth="yes"/>
+      <point x="82.0" y="506.0" type="line" smooth="yes"/>
+      <point x="82.0" y="576.0"/>
+      <point x="126.0" y="636.0"/>
+      <point x="187.0" y="636.0" type="qcurve" smooth="yes"/>
+      <point x="490.0" y="636.0" type="line"/>
+      <point x="490.0" y="708.0" type="line" smooth="yes"/>
+      <point x="490.0" y="748.0"/>
+      <point x="552.0" y="748.0"/>
+      <point x="552.0" y="708.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

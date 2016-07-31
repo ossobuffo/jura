@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pi" format="2">
+  <advance width="602"/>
+  <unicode hex="03A0"/>
+  <outline>
+    <contour>
+      <point x="84.0" y="636.0" type="line"/>
+      <point x="518.0" y="636.0" type="line"/>
+      <point x="518.0" y="23.0" type="line" smooth="yes"/>
+      <point x="518.0" y="-7.0"/>
+      <point x="476.0" y="-7.0"/>
+      <point x="476.0" y="23.0" type="qcurve" smooth="yes"/>
+      <point x="476.0" y="594.0" type="line"/>
+      <point x="126.0" y="594.0" type="line"/>
+      <point x="126.0" y="23.0" type="line" smooth="yes"/>
+      <point x="126.0" y="-7.0"/>
+      <point x="84.0" y="-7.0"/>
+      <point x="84.0" y="23.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="239"/>
+  <unicode hex="0384"/>
+  <outline>
+    <contour>
+      <point x="144.0" y="648.0" type="qcurve" smooth="yes"/>
+      <point x="164.0" y="648.0"/>
+      <point x="164.0" y="626.0" type="qcurve" smooth="yes"/>
+      <point x="164.0" y="618.0"/>
+      <point x="163.0" y="614.0" type="qcurve" smooth="yes"/>
+      <point x="118.0" y="449.0" type="line" smooth="yes"/>
+      <point x="112.0" y="428.0"/>
+      <point x="98.0" y="428.0" type="qcurve" smooth="yes"/>
+      <point x="75.0" y="428.0"/>
+      <point x="75.0" y="449.0" type="qcurve" smooth="yes"/>
+      <point x="75.0" y="452.0"/>
+      <point x="77.0" y="460.0" type="qcurve" smooth="yes"/>
+      <point x="121.0" y="625.0" type="line" smooth="yes"/>
+      <point x="127.0" y="648.0"/>
+    </contour>
+  </outline>
+</glyph>

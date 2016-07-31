@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uekayahli" format="2">
+  <unicode hex="A926"/>
+  <outline>
+    <contour>
+      <point x="-287.0" y="507.0"/>
+      <point x="-327.0" y="507.0"/>
+      <point x="-368.0" y="536.0"/>
+      <point x="-368.0" y="580.0"/>
+      <point x="-329.0" y="609.0"/>
+      <point x="-287.0" y="609.0"/>
+      <point x="-246.0" y="580.0"/>
+      <point x="-246.0" y="536.0"/>
+    </contour>
+  </outline>
+</glyph>

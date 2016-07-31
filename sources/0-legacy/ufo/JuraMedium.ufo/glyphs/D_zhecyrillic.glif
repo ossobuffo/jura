@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzhecyrillic" format="2">
+  <advance width="644"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="289.0" y="-52.0" type="qcurve" smooth="yes"/>
+      <point x="289.0" y="0.0" type="line"/>
+      <point x="85.0" y="0.0" type="line"/>
+      <point x="85.0" y="581.0" type="line" smooth="yes"/>
+      <point x="85.0" y="621.0"/>
+      <point x="147.0" y="621.0"/>
+      <point x="147.0" y="581.0" type="qcurve" smooth="yes"/>
+      <point x="147.0" y="62.0" type="line"/>
+      <point x="497.0" y="62.0" type="line"/>
+      <point x="497.0" y="581.0" type="line" smooth="yes"/>
+      <point x="497.0" y="621.0"/>
+      <point x="559.0" y="621.0"/>
+      <point x="559.0" y="581.0" type="qcurve" smooth="yes"/>
+      <point x="559.0" y="0.0" type="line"/>
+      <point x="355.0" y="0.0" type="line"/>
+      <point x="355.0" y="-52.0" type="line" smooth="yes"/>
+      <point x="355.0" y="-92.0"/>
+      <point x="289.0" y="-92.0"/>
+    </contour>
+  </outline>
+</glyph>

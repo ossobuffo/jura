@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fivekayahli" format="2">
+  <advance width="575"/>
+  <unicode hex="A905"/>
+  <outline>
+    <contour>
+      <point x="66.0" y="337.0" type="line" smooth="yes"/>
+      <point x="66.0" y="412.0"/>
+      <point x="112.0" y="476.0"/>
+      <point x="176.0" y="476.0" type="qcurve" smooth="yes"/>
+      <point x="540.0" y="476.0" type="line"/>
+      <point x="540.0" y="354.0" type="line" smooth="yes"/>
+      <point x="540.0" y="309.0"/>
+      <point x="468.0" y="309.0"/>
+      <point x="468.0" y="354.0" type="qcurve" smooth="yes"/>
+      <point x="468.0" y="404.0" type="line"/>
+      <point x="183.0" y="404.0" type="line" smooth="yes"/>
+      <point x="156.0" y="404.0"/>
+      <point x="138.0" y="383.0"/>
+      <point x="138.0" y="354.0" type="qcurve" smooth="yes"/>
+      <point x="138.0" y="106.0" type="line" smooth="yes"/>
+      <point x="138.0" y="77.0"/>
+      <point x="156.0" y="57.0"/>
+      <point x="183.0" y="57.0" type="qcurve" smooth="yes"/>
+      <point x="246.0" y="57.0" type="line" smooth="yes"/>
+      <point x="292.0" y="57.0"/>
+      <point x="292.0" y="-15.0"/>
+      <point x="246.0" y="-15.0" type="qcurve" smooth="yes"/>
+      <point x="176.0" y="-15.0" type="line" smooth="yes"/>
+      <point x="112.0" y="-15.0"/>
+      <point x="66.0" y="49.0"/>
+      <point x="66.0" y="124.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

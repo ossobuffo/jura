@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twokayahli" format="2">
+  <advance width="614"/>
+  <unicode hex="A902"/>
+  <outline>
+    <contour>
+      <point x="477.0" y="454.0" type="line" smooth="yes"/>
+      <point x="488.0" y="478.0"/>
+      <point x="510.0" y="478.0" type="qcurve" smooth="yes"/>
+      <point x="539.0" y="478.0"/>
+      <point x="539.0" y="451.0" type="qcurve" smooth="yes"/>
+      <point x="539.0" y="443.0"/>
+      <point x="535.0" y="434.0" type="qcurve" smooth="yes"/>
+      <point x="339.0" y="-10.0" type="line"/>
+      <point x="263.0" y="-10.0" type="line"/>
+      <point x="79.0" y="434.0" type="line" smooth="yes"/>
+      <point x="75.0" y="444.0"/>
+      <point x="75.0" y="450.0" type="qcurve" smooth="yes"/>
+      <point x="75.0" y="478.0"/>
+      <point x="104.0" y="478.0" type="qcurve" smooth="yes"/>
+      <point x="124.0" y="478.0"/>
+      <point x="137.0" y="453.0" type="qcurve"/>
+      <point x="304.0" y="63.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

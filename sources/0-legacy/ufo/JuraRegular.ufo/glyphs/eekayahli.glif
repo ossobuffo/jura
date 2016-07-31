@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eekayahli" format="2">
+  <unicode hex="A929"/>
+  <outline>
+    <contour>
+      <point x="-158.0" y="614.0" type="line" smooth="yes"/>
+      <point x="-158.0" y="549.0"/>
+      <point x="-196.0" y="497.0"/>
+      <point x="-249.0" y="497.0" type="qcurve" smooth="yes"/>
+      <point x="-366.0" y="497.0" type="line" smooth="yes"/>
+      <point x="-419.0" y="497.0"/>
+      <point x="-457.0" y="550.0"/>
+      <point x="-457.0" y="614.0" type="qcurve" smooth="yes"/>
+      <point x="-457.0" y="641.0" type="line"/>
+      <point x="-405.0" y="641.0" type="line"/>
+      <point x="-405.0" y="598.0" type="line" smooth="yes"/>
+      <point x="-405.0" y="569.0"/>
+      <point x="-386.0" y="549.0"/>
+      <point x="-358.0" y="549.0" type="qcurve" smooth="yes"/>
+      <point x="-256.0" y="549.0" type="line" smooth="yes"/>
+      <point x="-228.0" y="549.0"/>
+      <point x="-210.0" y="568.0"/>
+      <point x="-210.0" y="598.0" type="qcurve" smooth="yes"/>
+      <point x="-210.0" y="641.0" type="line"/>
+      <point x="-158.0" y="641.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

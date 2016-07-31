@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="520"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="450.0" y="636.0" type="line" smooth="yes"/>
+      <point x="493.0" y="636.0"/>
+      <point x="493.0" y="564.0"/>
+      <point x="450.0" y="564.0" type="qcurve" smooth="yes"/>
+      <point x="302.0" y="564.0" type="line"/>
+      <point x="302.0" y="376.0" type="line"/>
+      <point x="376.0" y="376.0" type="line" smooth="yes"/>
+      <point x="420.0" y="376.0"/>
+      <point x="420.0" y="338.0" type="qcurve" smooth="yes"/>
+      <point x="420.0" y="322.0"/>
+      <point x="395.0" y="303.0"/>
+      <point x="376.0" y="303.0" type="qcurve" smooth="yes"/>
+      <point x="302.0" y="303.0" type="line"/>
+      <point x="302.0" y="33.0" type="line" smooth="yes"/>
+      <point x="302.0" y="12.0"/>
+      <point x="275.0" y="-7.0"/>
+      <point x="243.0" y="-7.0"/>
+      <point x="219.0" y="11.0"/>
+      <point x="219.0" y="33.0" type="qcurve" smooth="yes"/>
+      <point x="219.0" y="303.0" type="line"/>
+      <point x="142.0" y="303.0" type="line" smooth="yes"/>
+      <point x="101.0" y="303.0"/>
+      <point x="101.0" y="340.0" type="qcurve" smooth="yes"/>
+      <point x="101.0" y="353.0"/>
+      <point x="120.0" y="376.0"/>
+      <point x="142.0" y="376.0" type="qcurve" smooth="yes"/>
+      <point x="219.0" y="376.0" type="line"/>
+      <point x="219.0" y="564.0" type="line"/>
+      <point x="69.0" y="564.0" type="line" smooth="yes"/>
+      <point x="46.0" y="564.0"/>
+      <point x="26.0" y="586.0"/>
+      <point x="26.0" y="614.0"/>
+      <point x="46.0" y="636.0"/>
+      <point x="69.0" y="636.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.smallcap" format="2">
+  <advance width="231"/>
+  <unicode hex="E0CA"/>
+  <outline>
+    <contour>
+      <point x="147.0" y="29.0" type="line" smooth="yes"/>
+      <point x="147.0" y="-7.0"/>
+      <point x="85.0" y="-7.0"/>
+      <point x="85.0" y="29.0" type="qcurve" smooth="yes"/>
+      <point x="85.0" y="522.0" type="line" smooth="yes"/>
+      <point x="85.0" y="559.0"/>
+      <point x="147.0" y="559.0"/>
+      <point x="147.0" y="522.0" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

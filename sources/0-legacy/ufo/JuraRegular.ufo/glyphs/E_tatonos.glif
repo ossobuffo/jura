@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="2">
+  <advance width="678"/>
+  <unicode hex="0389"/>
+  <outline>
+    <contour>
+      <point x="182.0" y="27.0" type="line" smooth="yes"/>
+      <point x="182.0" y="-7.0"/>
+      <point x="130.0" y="-7.0"/>
+      <point x="130.0" y="27.0" type="qcurve" smooth="yes"/>
+      <point x="130.0" y="608.0" type="line" smooth="yes"/>
+      <point x="130.0" y="643.0"/>
+      <point x="182.0" y="643.0"/>
+      <point x="182.0" y="608.0" type="qcurve" smooth="yes"/>
+      <point x="182.0" y="369.0" type="line"/>
+      <point x="542.0" y="369.0" type="line"/>
+      <point x="542.0" y="608.0" type="line" smooth="yes"/>
+      <point x="542.0" y="643.0"/>
+      <point x="594.0" y="643.0"/>
+      <point x="594.0" y="608.0" type="qcurve" smooth="yes"/>
+      <point x="594.0" y="27.0" type="line" smooth="yes"/>
+      <point x="594.0" y="-7.0"/>
+      <point x="542.0" y="-7.0"/>
+      <point x="542.0" y="27.0" type="qcurve" smooth="yes"/>
+      <point x="542.0" y="317.0" type="line"/>
+      <point x="182.0" y="317.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="46.0" y="516.0" type="qcurve" smooth="yes"/>
+      <point x="18.0" y="516.0"/>
+      <point x="18.0" y="552.0" type="qcurve" smooth="yes"/>
+      <point x="18.0" y="558.0"/>
+      <point x="20.0" y="564.0" type="qcurve" smooth="yes"/>
+      <point x="64.0" y="721.0" type="line" smooth="yes"/>
+      <point x="72.0" y="746.0"/>
+      <point x="117.0" y="746.0"/>
+      <point x="117.0" y="719.0" type="qcurve" smooth="yes"/>
+      <point x="117.0" y="712.0"/>
+      <point x="116.0" y="708.0" type="qcurve" smooth="yes"/>
+      <point x="71.0" y="551.0" type="line"/>
+      <point x="64.0" y="516.0"/>
+    </contour>
+  </outline>
+</glyph>

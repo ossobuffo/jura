@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Igrave" format="2">
+  <advance width="210"/>
+  <outline>
+    <contour>
+      <point x="4.0" y="799.0" type="curve" smooth="yes"/>
+      <point x="4.0" y="806.0"/>
+      <point x="13.0" y="819.0"/>
+      <point x="25.0" y="819.0" type="curve" smooth="yes"/>
+      <point x="31.0" y="819.0"/>
+      <point x="38.0" y="816.0"/>
+      <point x="45.0" y="808.0" type="curve"/>
+      <point x="115.0" y="739.0" type="line"/>
+      <point x="122.0" y="731.0"/>
+      <point x="126.0" y="725.0"/>
+      <point x="126.0" y="717.0" type="curve" smooth="yes"/>
+      <point x="126.0" y="710.0"/>
+      <point x="118.0" y="698.0"/>
+      <point x="106.0" y="698.0" type="curve" smooth="yes"/>
+      <point x="100.0" y="698.0"/>
+      <point x="92.0" y="701.0"/>
+      <point x="85.0" y="709.0" type="curve"/>
+      <point x="16.0" y="778.0" type="line" smooth="yes"/>
+      <point x="8.0" y="786.0"/>
+      <point x="4.0" y="792.0"/>
+    </contour>
+    <contour>
+      <point x="126.0" y="20.0" type="line" smooth="yes"/>
+      <point x="126.0" y="2.0"/>
+      <point x="119.0" y="-7.0"/>
+      <point x="104.0" y="-7.0" type="curve" smooth="yes"/>
+      <point x="91.0" y="-7.0"/>
+      <point x="84.0" y="2.0"/>
+      <point x="84.0" y="20.0" type="curve" smooth="yes"/>
+      <point x="84.0" y="615.0" type="line" smooth="yes"/>
+      <point x="84.0" y="634.0"/>
+      <point x="91.0" y="643.0"/>
+      <point x="105.0" y="643.0" type="curve" smooth="yes"/>
+      <point x="119.0" y="643.0"/>
+      <point x="126.0" y="634.0"/>
+      <point x="126.0" y="615.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

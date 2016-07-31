@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightkayahli" format="2">
+  <advance width="576"/>
+  <unicode hex="A908"/>
+  <outline>
+    <contour>
+      <point x="70.0" y="124.0" type="qcurve" smooth="yes"/>
+      <point x="70.0" y="438.0" type="line" smooth="yes"/>
+      <point x="70.0" y="483.0"/>
+      <point x="142.0" y="483.0"/>
+      <point x="142.0" y="438.0" type="qcurve" smooth="yes"/>
+      <point x="142.0" y="106.0" type="line" smooth="yes"/>
+      <point x="142.0" y="77.0"/>
+      <point x="160.0" y="57.0"/>
+      <point x="187.0" y="57.0" type="qcurve" smooth="yes"/>
+      <point x="427.0" y="57.0" type="line" smooth="yes"/>
+      <point x="454.0" y="57.0"/>
+      <point x="472.0" y="77.0"/>
+      <point x="472.0" y="106.0" type="qcurve" smooth="yes"/>
+      <point x="472.0" y="124.0" type="line" smooth="yes"/>
+      <point x="472.0" y="169.0"/>
+      <point x="544.0" y="169.0"/>
+      <point x="544.0" y="124.0" type="qcurve" smooth="yes"/>
+      <point x="544.0" y="49.0"/>
+      <point x="498.0" y="-15.0"/>
+      <point x="434.0" y="-15.0" type="qcurve" smooth="yes"/>
+      <point x="180.0" y="-15.0" type="line" smooth="yes"/>
+      <point x="116.0" y="-15.0"/>
+      <point x="70.0" y="49.0"/>
+    </contour>
+  </outline>
+</glyph>

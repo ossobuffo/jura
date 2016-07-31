@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kjecyrillic" format="2">
+  <advance width="595"/>
+  <unicode hex="040C"/>
+  <outline>
+    <component base="acute" xOffset="209.0" yOffset="84.0"/>
+    <component base="Kacyrillic"/>
+  </outline>
+</glyph>

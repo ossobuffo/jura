@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Softsigncyrillic" format="2">
+  <advance width="584"/>
+  <unicode hex="042C"/>
+  <outline>
+    <contour>
+      <point x="309.0" y="476.0" type="line" smooth="yes"/>
+      <point x="416.0" y="476.0"/>
+      <point x="546.0" y="333.0"/>
+      <point x="546.0" y="135.0"/>
+      <point x="416.0" y="-7.0"/>
+      <point x="309.0" y="-7.0" type="qcurve" smooth="yes"/>
+      <point x="118.0" y="-7.0" type="line" smooth="yes"/>
+      <point x="84.0" y="-7.0"/>
+      <point x="84.0" y="36.0" type="qcurve" smooth="yes"/>
+      <point x="84.0" y="596.0" type="line" smooth="yes"/>
+      <point x="84.0" y="636.0"/>
+      <point x="156.0" y="636.0"/>
+      <point x="156.0" y="597.0" type="qcurve" smooth="yes"/>
+      <point x="156.0" y="476.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="309.0" y="404.0" type="qcurve" smooth="yes"/>
+      <point x="156.0" y="404.0" type="line"/>
+      <point x="156.0" y="65.0" type="line"/>
+      <point x="309.0" y="65.0" type="line" smooth="yes"/>
+      <point x="391.0" y="65.0"/>
+      <point x="474.0" y="165.0"/>
+      <point x="474.0" y="303.0"/>
+      <point x="390.0" y="404.0"/>
+    </contour>
+  </outline>
+</glyph>

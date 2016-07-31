@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="2">
+  <advance width="577"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="30.0" y="622.0" type="qcurve" smooth="yes"/>
+      <point x="30.0" y="647.0"/>
+      <point x="61.0" y="647.0" type="qcurve" smooth="yes"/>
+      <point x="501.0" y="647.0" type="line" smooth="yes"/>
+      <point x="535.0" y="647.0"/>
+      <point x="535.0" y="595.0"/>
+      <point x="501.0" y="595.0" type="qcurve" smooth="yes"/>
+      <point x="112.0" y="595.0" type="line"/>
+      <point x="335.0" y="345.0" type="line"/>
+      <point x="346.0" y="331.0"/>
+      <point x="346.0" y="313.0"/>
+      <point x="336.0" y="301.0" type="qcurve" smooth="yes"/>
+      <point x="112.0" y="52.0" type="line"/>
+      <point x="501.0" y="52.0" type="line" smooth="yes"/>
+      <point x="535.0" y="52.0"/>
+      <point x="535.0" y="0.0"/>
+      <point x="501.0" y="0.0" type="qcurve" smooth="yes"/>
+      <point x="55.0" y="0.0" type="line" smooth="yes"/>
+      <point x="45.0" y="0.0"/>
+      <point x="30.0" y="14.0"/>
+      <point x="30.0" y="36.0"/>
+      <point x="40.0" y="48.0" type="qcurve" smooth="yes"/>
+      <point x="283.0" y="323.0" type="line"/>
+      <point x="40.0" y="599.0" type="line"/>
+      <point x="30.0" y="609.0"/>
+    </contour>
+  </outline>
+</glyph>

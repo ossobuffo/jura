@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyrillic" format="2">
+  <advance width="615"/>
+  <unicode hex="041B"/>
+  <outline>
+    <contour>
+      <point x="530.0" y="36.0" type="line" smooth="yes"/>
+      <point x="530.0" y="-7.0"/>
+      <point x="458.0" y="-7.0"/>
+      <point x="458.0" y="36.0" type="qcurve" smooth="yes"/>
+      <point x="458.0" y="564.0" type="line"/>
+      <point x="260.0" y="564.0" type="line" smooth="yes"/>
+      <point x="223.0" y="564.0"/>
+      <point x="197.0" y="544.0"/>
+      <point x="197.0" y="517.0" type="qcurve" smooth="yes"/>
+      <point x="197.0" y="133.0" type="line" smooth="yes"/>
+      <point x="197.0" y="53.0"/>
+      <point x="128.0" y="0.0"/>
+      <point x="68.0" y="0.0" type="qcurve" smooth="yes"/>
+      <point x="22.0" y="0.0"/>
+      <point x="22.0" y="72.0"/>
+      <point x="68.0" y="72.0" type="qcurve" smooth="yes"/>
+      <point x="95.0" y="72.0"/>
+      <point x="113.0" y="91.0"/>
+      <point x="113.0" y="118.0" type="qcurve" smooth="yes"/>
+      <point x="113.0" y="503.0" type="line" smooth="yes"/>
+      <point x="113.0" y="577.0"/>
+      <point x="170.0" y="636.0"/>
+      <point x="253.0" y="636.0" type="qcurve" smooth="yes"/>
+      <point x="530.0" y="636.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecmb" format="2">
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="-262.0" y="565.0" type="qcurve" smooth="yes"/>
+      <point x="-221.0" y="648.0" type="line"/>
+      <point x="-211.0" y="672.0"/>
+      <point x="-196.0" y="672.0" type="qcurve" smooth="yes"/>
+      <point x="-174.0" y="672.0"/>
+      <point x="-174.0" y="647.0" type="qcurve" smooth="yes"/>
+      <point x="-174.0" y="643.0"/>
+      <point x="-177.0" y="631.0" type="qcurve" smooth="yes"/>
+      <point x="-201.0" y="545.0" type="line" smooth="yes"/>
+      <point x="-208.0" y="521.0"/>
+      <point x="-226.0" y="521.0" type="qcurve" smooth="yes"/>
+      <point x="-237.0" y="521.0"/>
+      <point x="-267.0" y="533.0"/>
+      <point x="-267.0" y="556.0"/>
+    </contour>
+  </outline>
+</glyph>
