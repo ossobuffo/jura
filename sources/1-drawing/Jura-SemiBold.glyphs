@@ -36816,7 +36816,7 @@ interpolationWeight = 72;
 instanceInterpolations = {
 "67BB2AE4-562A-42A4-A220-84C7D1DB401D" = 1;
 };
-name = "Semi-Bold";
+name = SemiBold;
 weightClass = SemiBold;
 }
 );
