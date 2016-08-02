@@ -153640,6 +153640,7 @@ rightKerningGroup = crcumflexcomb.case;
 );
 instances = (
 {
+exports = 0;
 customParameters = (
 {
 name = typoAscender;
@@ -153691,6 +153692,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = typoAscender;
@@ -153741,6 +153743,7 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = typoAscender;
@@ -153843,6 +153846,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = typoAscender;
@@ -156695,5 +156699,5 @@ manufacturer = Cyreal;
 manufacturerURL = "http://www.cyreal.org";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 10;
+versionMinor = 100;
 }
