@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1EC2" format="2">
-  <advance width="649"/>
-  <unicode hex="1EC2"/>
-  <outline>
-    <component base="circumflex.hook" xOffset="140.0"/>
-    <component base="E.sc"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Jecyrillic" format="2">
-  <advance width="571"/>
-  <unicode hex="0408"/>
-  <outline>
-    <component base="J"/>
-  </outline>
-</glyph>

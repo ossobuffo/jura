@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iicyrillic_grave" format="2">
-  <advance width="632"/>
-  <unicode hex="040D"/>
-  <outline>
-    <component base="grave" xOffset="181.0" yOffset="126.0"/>
-    <component base="Iicyrillic"/>
-  </outline>
-</glyph>

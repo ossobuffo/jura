@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="okayahli" format="2">
-  <unicode hex="A92A"/>
-  <outline>
-    <component base="uekayahli" yOffset="44.0"/>
-    <component base="eekayahli"/>
-  </outline>
-</glyph>

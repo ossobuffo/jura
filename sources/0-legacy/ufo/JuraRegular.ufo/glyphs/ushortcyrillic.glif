@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ushortcyrillic" format="2">
-  <advance width="619"/>
-  <unicode hex="045E"/>
-  <outline>
-    <component base="eekayahli" xOffset="616.0"/>
-    <component base="ucyrillic"/>
-  </outline>
-</glyph>

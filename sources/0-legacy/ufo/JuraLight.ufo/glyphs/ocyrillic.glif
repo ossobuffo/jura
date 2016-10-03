@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ocyrillic" format="2">
-  <advance width="568"/>
-  <unicode hex="043E"/>
-  <outline>
-    <component base="omicron"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1EC8" format="2">
-  <advance width="240"/>
-  <unicode hex="1EC8"/>
-  <outline>
-    <component base="hookabovecomb" xOffset="413.0" yOffset="152.0"/>
-    <component base="I"/>
-  </outline>
-</glyph>

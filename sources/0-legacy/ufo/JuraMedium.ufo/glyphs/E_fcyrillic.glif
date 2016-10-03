@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Efcyrillic" format="2">
-  <advance width="568"/>
-  <unicode hex="0424"/>
-  <outline>
-    <component base="Phi"/>
-  </outline>
-</glyph>
