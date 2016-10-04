@@ -1,8 +1,5 @@
 {
-.appVersion = "924";
-DisplayStrings = (
-/mu
-);
+.appVersion = "925";
 classes = (
 {
 automatic = 1;
@@ -13120,7 +13117,7 @@ unicode = 1ED8;
 {
 color = 4;
 glyphname = Ocircumflexgrave;
-lastChange = "2016-10-04 14:46:04 +0000";
+lastChange = "2016-10-04 15:29:41 +0000";
 layers = (
 {
 components = (
@@ -13142,7 +13139,7 @@ name = O;
 },
 {
 name = circumflexcomb_gravecomb.case;
-transform = "{1, 0, 0, 1, 90, 0}";
+transform = "{1, 0, 0, 1, 82, 0}";
 }
 );
 layerId = "D7F5B317-FDDE-425C-99B8-2570E6EC45B4";
@@ -82945,7 +82942,7 @@ unicode = 0393;
 {
 color = 6;
 glyphname = Delta;
-lastChange = "2016-07-31 21:20:21 +0000";
+lastChange = "2016-10-04 15:29:55 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -83109,7 +83106,40 @@ width = 592;
 },
 {
 layerId = "8BCABB47-8EE0-46B8-A980-3ACEDFFD8301";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"503.91 0 OFFCURVE",
+"514.65 9.77 OFFCURVE",
+"514.65 24.41 CURVE",
+"514.65 29.3 OFFCURVE",
+"513.67 34.18 OFFCURVE",
+"511.72 39.06 CURVE",
+"297.85 606.45 LINE",
+"287.11 636.72 OFFCURVE",
+"251.95 636.72 OFFCURVE",
+"241.21 606.45 CURVE",
+"27.34 39.06 LINE",
+"25.39 34.18 OFFCURVE",
+"24.41 29.3 OFFCURVE",
+"24.41 24.41 CURVE",
+"24.41 9.77 OFFCURVE",
+"35.16 0 OFFCURVE",
+"50.78 0 CURVE",
+"488.28 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"453.12 51.76 LINE",
+"85.94 51.76 LINE",
+"269.53 541.02 LINE"
+);
+}
+);
+width = 539;
 }
 );
 leftKerningGroup = Alphatonos;
@@ -87697,7 +87727,7 @@ unicode = 03A8;
 {
 color = 6;
 glyphname = Omega;
-lastChange = "2016-07-31 21:33:35 +0000";
+lastChange = "2016-10-04 15:30:10 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -87997,7 +88027,74 @@ width = 632;
 },
 {
 layerId = "8BCABB47-8EE0-46B8-A980-3ACEDFFD8301";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"113.28 510.74 OFFCURVE",
+"178.71 579.1 OFFCURVE",
+"289.06 579.1 CURVE",
+"399.41 579.1 OFFCURVE",
+"464.84 510.74 OFFCURVE",
+"464.84 397.46 CURVE",
+"464.84 318.36 LINE",
+"464.84 219.73 OFFCURVE",
+"421.88 161.13 OFFCURVE",
+"334.96 141.6 CURVE",
+"334.96 96.68 LINE",
+"335 11 OFFCURVE",
+"343 0 OFFCURVE",
+"425.78 0 CURVE",
+"481.45 0 LINE",
+"503.91 0 OFFCURVE",
+"515.62 8.79 OFFCURVE",
+"515.62 25.39 CURVE",
+"515.62 41.99 OFFCURVE",
+"503.91 50.78 OFFCURVE",
+"481.45 50.78 CURVE",
+"432.62 50.78 LINE",
+"393 51 OFFCURVE",
+"388 50 OFFCURVE",
+"387.7 81.05 CURVE",
+"387.7 107.42 LINE",
+"466.8 141.6 OFFCURVE",
+"515.62 214.84 OFFCURVE",
+"515.62 319.34 CURVE",
+"515.62 398.44 LINE",
+"516 539 OFFCURVE",
+"425 630 OFFCURVE",
+"289.06 629.88 CURVE",
+"155 630 OFFCURVE",
+"63 542 OFFCURVE",
+"62.5 398.44 CURVE",
+"62.5 319.34 LINE",
+"62.5 214.84 OFFCURVE",
+"111.33 141.6 OFFCURVE",
+"190.43 107.42 CURVE",
+"190.43 82.03 LINE",
+"190.43 51.76 OFFCURVE",
+"188.48 50.78 OFFCURVE",
+"145.51 50.78 CURVE",
+"96.68 50.78 LINE",
+"74.22 50.78 OFFCURVE",
+"62.5 41.99 OFFCURVE",
+"62.5 25.39 CURVE",
+"62.5 8.79 OFFCURVE",
+"74.22 0 OFFCURVE",
+"96.68 0 CURVE",
+"152.34 0 LINE",
+"235 0 OFFCURVE",
+"243 12 OFFCURVE",
+"243.16 96.68 CURVE",
+"243.16 140.62 LINE",
+"156.25 163.09 OFFCURVE",
+"113.28 221.68 OFFCURVE",
+"113.28 318.36 CURVE",
+"113.28 397.46 LINE"
+);
+}
+);
+width = 579;
 }
 );
 leftKerningGroup = Omegatonos;
@@ -94501,7 +94598,7 @@ unicode = 03BB;
 {
 color = 6;
 glyphname = mu;
-lastChange = "2016-10-04 14:38:59 +0000";
+lastChange = "2016-10-04 15:29:33 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -94717,7 +94814,56 @@ width = 594;
 },
 {
 layerId = "8BCABB47-8EE0-46B8-A980-3ACEDFFD8301";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"438.48 108.4 OFFCURVE",
+"381.84 45.9 OFFCURVE",
+"281.25 45.9 CURVE",
+"179.69 45.9 OFFCURVE",
+"124.02 108.4 OFFCURVE",
+"124.02 222.66 CURVE",
+"124.02 427.73 LINE",
+"124.02 450.2 OFFCURVE",
+"115.23 461.91 OFFCURVE",
+"97.66 461.91 CURVE",
+"81.05 461.91 OFFCURVE",
+"73.24 450.2 OFFCURVE",
+"73.24 427.73 CURVE",
+"73.24 -165.04 LINE",
+"73.24 -188.48 OFFCURVE",
+"81.05 -200.2 OFFCURVE",
+"96.68 -200.2 CURVE",
+"115.23 -200.2 OFFCURVE",
+"124.02 -188.48 OFFCURVE",
+"124.02 -165.04 CURVE",
+"124.02 56.64 LINE",
+"162.11 15.62 OFFCURVE",
+"214.84 -4.88 OFFCURVE",
+"281.25 -4.88 CURVE",
+"347.66 -4.88 OFFCURVE",
+"400.39 15.62 OFFCURVE",
+"438.48 56.64 CURVE",
+"438.48 23.44 LINE",
+"438.48 0 OFFCURVE",
+"447.27 -11.72 OFFCURVE",
+"464.84 -11.72 CURVE",
+"481.45 -11.72 OFFCURVE",
+"489.26 0 OFFCURVE",
+"489.26 23.44 CURVE",
+"489.26 427.73 LINE",
+"489.26 450.2 OFFCURVE",
+"480.47 461.91 OFFCURVE",
+"462.89 461.91 CURVE",
+"446.29 461.91 OFFCURVE",
+"438.48 450.2 OFFCURVE",
+"438.48 427.73 CURVE",
+"438.48 222.66 LINE"
+);
+}
+);
+width = 586;
 }
 );
 leftKerningGroup = etatonos;
