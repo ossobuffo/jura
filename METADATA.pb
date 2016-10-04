@@ -10,7 +10,7 @@ fonts {
   filename: "Jura-Light.ttf"
   post_script_name: "Jura-Light"
   full_name: "Jura Light"
-  copyright: "Copyright (c) 2009-2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)"
+  copyright: "Copyright 2016 The Jura Font Project Authors"
 }
 fonts {
   name: "Jura"
@@ -19,7 +19,7 @@ fonts {
   filename: "Jura-Regular.ttf"
   post_script_name: "Jura-Regular"
   full_name: "Jura Regular"
-  copyright: "Copyright (c) 2009-2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)"
+  copyright: "Copyright 2016 The Jura Font Project Authors"
 }
 fonts {
   name: "Jura"
@@ -28,7 +28,7 @@ fonts {
   filename: "Jura-Medium.ttf"
   post_script_name: "Jura-Medium"
   full_name: "Jura Medium"
-  copyright: "Copyright (c) 2009-2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)"
+  copyright: "Copyright 2016 The Jura Font Project Authors"
 }
 fonts {
   name: "Jura"
@@ -37,7 +37,7 @@ fonts {
   filename: "Jura-SemiBold.ttf"
   post_script_name: "Jura-SemiBold"
   full_name: "Jura SemiBold"
-  copyright: "Copyright (c) 2009-2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)"
+  copyright: "Copyright 2016 The Jura Font Project Authors"
 }
 fonts {
   name: "Jura"
@@ -46,12 +46,11 @@ fonts {
   filename: "Jura-Bold.ttf"
   post_script_name: "Jura-Bold"
   full_name: "Jura Bold"
-  copyright: "Copyright (c) 2009-2016, Daniel Johnson(il.basso.buffo at gmail.com), Alexei Vanyashin (a at cyreal.org)"
+  copyright: "Copyright 2016 The Jura Font Project Authors"
 }
-subsets: "menu"
 subsets: "cyrillic"
-subsets: "cyrillic-ext"
 subsets: "greek"
-subsets: "greek-ext"
 subsets: "latin"
 subsets: "latin-ext"
+subsets: "menu"
+subsets: "vietnamese"
