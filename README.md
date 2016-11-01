@@ -51,7 +51,7 @@ There is a simple alternative deployment method:
 	[ ] Design
 		[x] ASCII
 		[x] GF Latin PLus
-		[ ] Cyrillic
+		[x] Cyrillic
 		[x] Kerning
 		[x] OT Features
 	[x] Production
