@@ -9,15 +9,18 @@ Basic Font Information
 ----------------------
 
 Jura was designed by Daniel Johnson.  Please send any bug reports or glyph
-requests to il.basso.buffo@gmail.com.
+requests to il.basso.buffo at gmail dot com
 
 Jura is available in four weights: Book, Medium, DemiBold, and Bold.
 
 The Jura family has an unfortunate name clash with Ed Merritt's Jura serif font,
 which may be found at http://www.tenbytwenty.com/products/typefaces/jura.
 
-In July 2016 Alexei Vanyashin completed a full redesign of the font as part
-of the Font Improvements project. 
+**N.B.** New Develpment versions starting from 3.001 are actively developed by Alexei Vanyashin 
+as part of the Fonts Quality Improvement Project.
+
+Report any issues of suggestion on the new version to a(at) cyreal dot org
+
 
 Licensing
 ----------------------
@@ -78,12 +81,11 @@ ChangeLog
   Re-spaced and re-kerned entire font.
 2.6
   Re-hinted using ttfautohint.
-
-3.0 (Alexei Vanyashin) July 30, 2016
-  Completed Major Project Redesign, as part of the Font Improvements program.
-  Glyphs in the GF Latin Plus range were fully redrawn and kerned. 
-  More info: https://groups.google.com/forum/#!topic/googlefonts-discuss/EbCnvq3DIco
-  New source files are in .glyphs format
+  
+3.001(Dev) New Development version started by Alexei Vanyashin.
+  Ported project to Glyphs
+  Redrawn a new Light master from scratch [a-z]
+  Generated 8 weights from the new master.
 
 Acknowledgements
 ------------
@@ -95,7 +97,7 @@ alphabetical order.
 N: Alexei Vanyashin
 E: a at cyreal dot org
 W: http://www.cyreal.org
-D: Version 3 redesign
+D: Designer of version 3
 
 N: Daniel Johnson (font maintainer)
 E: il.basso.buffo at gmail dot com
