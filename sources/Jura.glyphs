@@ -1,5 +1,5 @@
 {
-.appVersion = "926";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2016 The Jura Font Project Authors";
+copyright = "Copyright 2016 The Jura Font Project Authors (danieldanieljohnsonname)";
 customParameters = (
 {
 name = fsType;
