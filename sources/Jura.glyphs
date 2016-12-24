@@ -1,5 +1,5 @@
 {
-.appVersion = "925";
+.appVersion = "930";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2016 The Jura Font Project Authors";
+copyright = "Copyright 2016 The Jura Font Project Authors (danieldanieljohnsonname)";
 customParameters = (
 {
 name = fsType;
@@ -111,11 +111,11 @@ capHeight = 633;
 customParameters = (
 {
 name = typoAscender;
-value = 1088;
+value = 965;
 },
 {
 name = typoDescender;
-value = -228;
+value = -218;
 },
 {
 name = typoLineGap;
@@ -135,11 +135,11 @@ value = 228;
 },
 {
 name = hheaAscender;
-value = 1088;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -228;
+value = -218;
 }
 );
 descender = -200;
@@ -167,11 +167,11 @@ capHeight = 644;
 customParameters = (
 {
 name = typoAscender;
-value = 1088;
+value = 965;
 },
 {
 name = typoDescender;
-value = -228;
+value = -218;
 },
 {
 name = typoLineGap;
@@ -191,11 +191,11 @@ value = 228;
 },
 {
 name = hheaAscender;
-value = 1088;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -228;
+value = -218;
 }
 );
 descender = -200;
@@ -223,11 +223,11 @@ capHeight = 654;
 customParameters = (
 {
 name = typoAscender;
-value = 1088;
+value = 965;
 },
 {
 name = typoDescender;
-value = -228;
+value = -218;
 },
 {
 name = typoLineGap;
@@ -247,11 +247,11 @@ value = 228;
 },
 {
 name = hheaAscender;
-value = 1088;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -228;
+value = -218;
 }
 );
 descender = -200;
@@ -280,11 +280,11 @@ capHeight = 665;
 customParameters = (
 {
 name = typoAscender;
-value = 1088;
+value = 965;
 },
 {
 name = typoDescender;
-value = -228;
+value = -218;
 },
 {
 name = typoLineGap;
@@ -304,11 +304,11 @@ value = 228;
 },
 {
 name = hheaAscender;
-value = 1088;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -228;
+value = -218;
 }
 );
 descender = -200;
@@ -338,11 +338,11 @@ capHeight = 678;
 customParameters = (
 {
 name = typoAscender;
-value = 1088;
+value = 965;
 },
 {
 name = typoDescender;
-value = -228;
+value = -218;
 },
 {
 name = typoLineGap;
@@ -362,11 +362,11 @@ value = 228;
 },
 {
 name = hheaAscender;
-value = 1088;
+value = 965;
 },
 {
 name = hheaDescender;
-value = -228;
+value = -218;
 }
 );
 descender = -200;
@@ -153193,40 +153193,6 @@ unicode = 0000;
 );
 instances = (
 {
-customParameters = (
-{
-name = typoAscender;
-value = 1088;
-},
-{
-name = typoDescender;
-value = -228;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1088;
-},
-{
-name = winDescent;
-value = 228;
-},
-{
-name = hheaAscender;
-value = 1088;
-},
-{
-name = hheaDescender;
-value = -228;
-}
-);
 interpolationWeight = 42;
 instanceInterpolations = {
 "C9A88445-F9B1-43BF-9834-532EB19954E9" = 1;
@@ -153235,40 +153201,6 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 1088;
-},
-{
-name = typoDescender;
-value = -228;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1088;
-},
-{
-name = winDescent;
-value = 228;
-},
-{
-name = hheaAscender;
-value = 1088;
-},
-{
-name = hheaDescender;
-value = -228;
-}
-);
 interpolationWeight = 52;
 instanceInterpolations = {
 "D7F5B317-FDDE-425C-99B8-2570E6EC45B4" = 1;
@@ -153276,40 +153208,6 @@ instanceInterpolations = {
 name = Regular;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 1088;
-},
-{
-name = typoDescender;
-value = -228;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1088;
-},
-{
-name = winDescent;
-value = 228;
-},
-{
-name = hheaAscender;
-value = 1088;
-},
-{
-name = hheaDescender;
-value = -228;
-}
-);
 interpolationWeight = 62;
 instanceInterpolations = {
 "8BCABB47-8EE0-46B8-A980-3ACEDFFD8301" = 1;
@@ -153318,40 +153216,6 @@ name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 1088;
-},
-{
-name = typoDescender;
-value = -228;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1088;
-},
-{
-name = winDescent;
-value = 228;
-},
-{
-name = hheaAscender;
-value = 1088;
-},
-{
-name = hheaDescender;
-value = -228;
-}
-);
 interpolationWeight = 72;
 instanceInterpolations = {
 "67BB2AE4-562A-42A4-A220-84C7D1DB401D" = 1;
@@ -153360,40 +153224,6 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = typoAscender;
-value = 1088;
-},
-{
-name = typoDescender;
-value = -228;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1088;
-},
-{
-name = winDescent;
-value = 228;
-},
-{
-name = hheaAscender;
-value = 1088;
-},
-{
-name = hheaDescender;
-value = -228;
-}
-);
 interpolationWeight = 84;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 1;
