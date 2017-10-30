@@ -1,5 +1,8 @@
 {
-.appVersion = "965";
+.appVersion = "1075";
+DisplayStrings = (
+0
+);
 classes = (
 {
 automatic = 1;
@@ -125693,13 +125696,19 @@ unicode = A910;
 {
 color = 4;
 glyphname = zero;
-lastChange = "2016-07-31 21:09:11 +0000";
+lastChange = "2017-10-30 18:49:08 +0000";
 layers = (
 {
 components = (
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 210, 27}";
+transform = "{1, 0, 0, 1, 190, 27}";
+}
+);
+guideLines = (
+{
+angle = 89.877;
+position = "{293, 427}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -125753,7 +125762,13 @@ width = 586;
 components = (
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 208, 30}";
+transform = "{1, 0, 0, 1, 196, 30}";
+}
+);
+guideLines = (
+{
+angle = 89.8796;
+position = "{305, 434}";
 }
 );
 layerId = "D7F5B317-FDDE-425C-99B8-2570E6EC45B4";
@@ -125807,7 +125822,13 @@ width = 609;
 components = (
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 205, 34}";
+transform = "{1, 0, 0, 1, 198, 34}";
+}
+);
+guideLines = (
+{
+angle = 89.8821;
+position = "{316, 441}";
 }
 );
 layerId = "8BCABB47-8EE0-46B8-A980-3ACEDFFD8301";
@@ -125864,6 +125885,12 @@ name = periodcentered;
 transform = "{1, 0, 0, 1, 203, 37}";
 }
 );
+guideLines = (
+{
+angle = 89.8845;
+position = "{328, 448}";
+}
+);
 layerId = "67BB2AE4-562A-42A4-A220-84C7D1DB401D";
 paths = (
 {
@@ -125915,7 +125942,13 @@ width = 656;
 components = (
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 200, 41}";
+transform = "{1, 0, 0, 1, 206, 41}";
+}
+);
+guideLines = (
+{
+angle = 89.8872;
+position = "{343, 456}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
