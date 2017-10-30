@@ -30,7 +30,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2017-02-27 22:18:00 +0000";
+date = "2017-10-30 18:52:06 +0000";
 designer = "Daniel Johnson, Alexei Vanyashin";
 designerURL = "http://www.danieljohnson.name";
 familyName = Jura;
@@ -176692,5 +176692,5 @@ manufacturer = "Daniel Johnson";
 manufacturerURL = "http://www.danieljohnson.name";
 unitsPerEm = 1000;
 versionMajor = 5;
-versionMinor = 101;
+versionMinor = 102;
 }
