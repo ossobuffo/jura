@@ -22,11 +22,11 @@ except:
 from os.path import join
 
 files = [
-	"fonts/ttf/Jura-Bold.ttf",
-	"fonts/ttf/Jura-Light.ttf",
-	"fonts/ttf/Jura-Medium.ttf",
-	"fonts/ttf/Jura-Regular.ttf",
-	"fonts/ttf/Jura-SemiBold.ttf",
+	"../fonts/ttf/Jura-Bold.ttf",
+	"../fonts/ttf/Jura-Light.ttf",
+	"../fonts/ttf/Jura-Medium.ttf",
+	"../fonts/ttf/Jura-Regular.ttf",
+	"../fonts/ttf/Jura-SemiBold.ttf",
 ]
 
 
