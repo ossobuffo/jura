@@ -2,9 +2,15 @@
 # -*- coding: utf-8 -*-
 
 """
-This patch replaces the dotted zero with a regular zero without dot.
+
+Based on script by Jens Kutilek
+https://github.com/jenskutilek/sudo-font/blob/master/sudo/patch_dotted_zero.py
+
+Patch removes dotted zero with regular dotless zero.
 You will need Python and the Python FontTools
 from <https://github.com/fonttools/fonttools/> to run this.
+
+
 """
 
 try:
@@ -16,15 +22,11 @@ except:
 from os.path import join
 
 files = [
-    "Sudo.ttf",
-    "Sudo-Italic.ttf",
-    "Sudo-Bold.ttf",
-    "Sudo-BoldItalic.ttf",
-    
-    #join(r"Web Fonts", "SudoWeb.woff"),
-    #join(r"Web Fonts", "SudoWeb-Italic.woff"),
-    #join(r"Web Fonts", "SudoWeb-Bold.woff"),
-    #join(r"Web Fonts", "SudoWeb-BoldItalic.woff"),
+	"fonts/ttf/Jura-Bold.ttf",
+	"fonts/ttf/Jura-Light.ttf",
+	"fonts/ttf/Jura-Medium.ttf",
+	"fonts/ttf/Jura-Regular.ttf",
+	"fonts/ttf/Jura-SemiBold.ttf",
 ]
 
 
