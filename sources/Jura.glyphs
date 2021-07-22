@@ -1,5 +1,5 @@
 {
-.appVersion = "1342";
+.appVersion = "1349";
 classes = (
 {
 automatic = 1;
@@ -169,15 +169,6 @@ value = 1930;
 {
 name = hheaDescender;
 value = -436;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 300;
-}
-);
 }
 );
 descender = -400;
@@ -234,15 +225,6 @@ value = 1930;
 {
 name = hheaDescender;
 value = -436;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
-}
-);
 }
 );
 descender = -400;
