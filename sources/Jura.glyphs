@@ -1,5 +1,8 @@
 {
-.appVersion = "1349";
+.appVersion = "1342";
+DisplayStrings = (
+"/oogonek"
+);
 classes = (
 {
 automatic = 1;
@@ -18827,7 +18830,7 @@ unicode = 014D;
 {
 color = 9;
 glyphname = oogonek;
-lastChange = "2019-09-04 19:35:22 +0000";
+lastChange = "2021-08-10 20:29:11 +0000";
 layers = (
 {
 components = (
@@ -18852,7 +18855,7 @@ name = o;
 {
 alignment = -1;
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 598, 110}";
+transform = "{0.9999, 0, 0, 1, 598, 110}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
